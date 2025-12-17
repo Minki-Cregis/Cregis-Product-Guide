@@ -51,7 +51,7 @@
   * [发送及接收](wallet_and_transaction/transaction/transfer_and_receive.md)
   * [交易加速及取消](wallet_and_transaction/transaction/speed_up_and_cancel.md)
   * [交易重发](wallet_and_transaction/transaction/resend.md)
-  * [交易看板](wallet_and_transaction/transaction/dashboard.md)
+  * [交易记录](wallet_and_transaction/transaction/dashboard.md)
   * [地址簿](wallet_and_transaction/transaction/address_book.md)
   * [Tron能量模式](wallet_and_transaction/transaction/tron_energy_mode.md)
 
