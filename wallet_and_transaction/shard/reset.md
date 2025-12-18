@@ -10,7 +10,7 @@
 
 然后点击分片管理的重置功能<br>
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 然后，您可以输入此钱包的助记词来重置分片。
 
