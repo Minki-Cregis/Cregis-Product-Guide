@@ -41,7 +41,7 @@
 
 ### 交易取消 <a href="#jiao-yi-qu-xiao" id="jiao-yi-qu-xiao"></a>
 
-於待確認的交易內點擊「取消」
+在待确认交易内点击「取消」
 
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
@@ -53,54 +53,54 @@
 
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-設置完成後進行身份認證。
+设置完成后进行身份验证。
 
 <figure><img src="../../.gitbook/assets/image (245).png" alt=""><figcaption></figcaption></figure>
 
-成功取消後用戶介面上會看到兩條交易記錄，金額為0的那條是取消請求的交易記錄，而前一條記錄則會有「已取消」的標籤。
+成功取消后用户界面上会看到两条交易记录，金额为 0 的那条是取消交易的记录，而前一条记录则会有「已取消」的标签。
 
 ## BTC系列 <a href="#btc-xi-lie" id="btc-xi-lie"></a>
 
-#### 交易加速 <a href="#jiao-yi-jia-su-1" id="jiao-yi-jia-su-1"></a>
+### 交易加速 <a href="#jiao-yi-jia-su-1" id="jiao-yi-jia-su-1"></a>
 
-於待確認的交易內點擊「加速」
+于待确认的交易内点击“加速”
 
 <figure><img src="../../.gitbook/assets/image (246).png" alt=""><figcaption></figcaption></figure>
 
-點擊後會有交易詳情展開，同時有加速礦工費的選項，點開可選擇不同的礦工費選項，用戶亦可以自定義礦工費。
+点击后会有交易详情展开，同时有加速矿工费的选项，点开可选择不同的矿工费选项，用户亦可以自定义矿工费。
 
 <figure><img src="../../.gitbook/assets/image (247).png" alt=""><figcaption></figcaption></figure>
 
-自定義礦工費可以讓用戶設定Gas Price及Gas Limit，系統亦會自動估算礦工費作參考。
+自定义矿工费可以让用户设定 Gas Price 及 Gas Limit，系统亦会自动估算矿工费作参考。
 
 <figure><img src="../../.gitbook/assets/image (248).png" alt=""><figcaption></figcaption></figure>
 
-設定完成後按確定並進行身份認證。
+设定完成后按确定并进行身份认证。
 
 <figure><img src="../../.gitbook/assets/image (249).png" alt=""><figcaption></figcaption></figure>
 
-認證成功後便可以看到「加速中」的標籤，如等待時間過久用戶亦可選擇再加速調礦工費。
+认证成功后便可以看到“加速中”的标签，如等待时间过久用户亦可选择再加速调矿工费。
 
 <figure><img src="../../.gitbook/assets/image (250).png" alt=""><figcaption></figcaption></figure>
 
-加速完成後可看到已加速的標籤<img src="https://support.cregis.com/~gitbook/image?url=https%3A%2F%2F3200384756-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPoazW59IJbERNbp3S6uz%252Fuploads%252F50YfgwttMldHGmab9kDT%252Fimage.png%3Falt%3Dmedia%26token%3Df2202a51-0a77-4db2-a745-53edb7cd2454&#x26;width=55&#x26;dpr=4&#x26;quality=100&#x26;sign=5ab4c3d&#x26;sv=1" alt="" data-size="line">。
+加速完成后可看到已加速的标签<img src="https://support.cregis.com/~gitbook/image?url=https%3A%2F%2F3200384756-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPoazW59IJbERNbp3S6uz%252Fuploads%252F50YfgwttMldHGmab9kDT%252Fimage.png%3Falt%3Dmedia%26token%3Df2202a51-0a77-4db2-a745-53edb7cd2454&#x26;width=55&#x26;dpr=4&#x26;quality=100&#x26;sign=5ab4c3d&#x26;sv=1" alt="" data-size="line">。
 
 <figure><img src="../../.gitbook/assets/image (254).png" alt=""><figcaption></figcaption></figure>
 
-#### 交易取消 <a href="#jiao-yi-qu-xiao-1" id="jiao-yi-qu-xiao-1"></a>
+### 交易取消 <a href="#jiao-yi-qu-xiao-1" id="jiao-yi-qu-xiao-1"></a>
 
-於待確認的交易內點擊「取消」。
+于待确认的交易内点击“取消”。
 
 <figure><img src="../../.gitbook/assets/image (251).png" alt=""><figcaption></figcaption></figure>
 
-點擊後會有交易詳情展開，同時有取消礦工費的選項，點開可選擇不同的礦工費選項，用戶亦可以自定義礦工費。 由於BTC取消交易是通過手續費替換（Replace-by-fee，RBF）的方式，發送一筆與之前相同（UTXO）的交易，因此這裡的**金額顯示為0**。
+点击后会有交易详情展开，同时有取消矿工费的选项，点开可选择不同的矿工费选项，用户亦可以自定义矿工费。 由于 BTC 取消交易是通过手续费替换（Replace-by-fee，RBF）的方式，发送一笔与之前相同（UTXO）的交易，因此这里的**金额显示为 0**。
 
 <figure><img src="../../.gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure>
 
-設置完成後可進行身份認證。
+设置完成后可进行身份认证。
 
 <figure><img src="../../.gitbook/assets/image (255).png" alt=""><figcaption></figcaption></figure>
 
-成功取消後用戶介面上會看到兩條交易記錄，金額為0的那條是取消請求的交易記錄，而前一條記錄則會有「已取消」的標籤。
+成功取消后用户界面上会看到两条交易记录，金额为 0 的那条是取消请求的交易记录，而前一条记录则会有“已取消”的标签。
 
 <figure><img src="../../.gitbook/assets/image (253).png" alt=""><figcaption></figcaption></figure>
