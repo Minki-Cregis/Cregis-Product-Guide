@@ -61,6 +61,7 @@
 * [Copy of 策略中心](risk_management/policy_engine-1.md)
 * [自动归集／签名](risk_management/automation.md)
 * [AML查询功能](risk_management/aml_query.md)
+* [KYB](risk_management/kyb.md)
 
 ## API
 
