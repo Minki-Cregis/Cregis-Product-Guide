@@ -2,7 +2,9 @@
 
 重置分片会使所有之前的分片失效，只有用于重置的设备会产生新分片。重置分片时需要所有钱包创建人参与，同时分片数量需达到签名门槛。多签钱包于分片重置后会产生新的助记词，单签钱包则只会继续用旧有的助记词。&#x20;
 
-## 单签钱包
+## 单签钱包重置分片流程
+
+### Cregis PC客户端
 
 先点击右上角进入钱包信息页面
 
@@ -10,13 +12,25 @@
 
 然后点击分片管理的重置功能<br>
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 然后，您可以输入此钱包的助记词来重置分片。
 
 <figure><img src="../../.gitbook/assets/image (577).png" alt=""><figcaption></figcaption></figure>
 
 输入正确的助记词后，会弹出身份验证窗口。完成身份验证后，分片将被重置。
+
+### Cregis手机端
+
+您可以到以下页面找到授权重置入口
+
+<figure><img src="../../.gitbook/assets/image (751).png" alt=""><figcaption></figcaption></figure>
+
+确定重置后需要输入创建钱包时的分片助记词，必须确保所有助记词正确才可以验证成功，助记词验证成功后可输入交易密码并进行验证，验证成功即重置成功。
+
+<figure><img src="../../.gitbook/assets/image (750).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/img_v3_02u5_31a3b181-e353-46de-b796-95a08e4fe9hu.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
 ## 多签钱包
 
@@ -34,7 +48,7 @@
 
 
 
-操作流程：
+### Cregis PC客户端操作流程
 
 先点击右上角进入钱包信息页面
 
@@ -48,7 +62,7 @@
 
 <figure><img src="../../.gitbook/assets/image (697).png" alt=""><figcaption></figcaption></figure>
 
-### 使用助记词重置
+#### 使用助记词重置
 
 选择使用助记词重置后进入等待画面，这里需要等待所有钱包创建人上线，请注意，所有钱包创建人必须都切换到当前团队，才会判定为在线。
 
@@ -82,7 +96,7 @@
 
 <figure><img src="../../.gitbook/assets/image (705).png" alt=""><figcaption></figcaption></figure>
 
-### 使用分片重置
+#### 使用分片重置
 
 选择使用分片重置后进行进入等待画面，这里需要等待所有钱包创建人上线，请注意，所有钱包创建人必须都切换到当前团队，才会判定为在线。
 
@@ -128,3 +142,52 @@
 
 <figure><img src="../../.gitbook/assets/image (717).png" alt=""><figcaption></figcaption></figure>
 
+### Cregis手机端操作流程
+
+您可从以下找到分片重置的入口，然后选择重置方式
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+#### 使用助记词重置
+
+选择使用助记词重置后进入等待画面，这里需要等待所有钱包创建人上线，请注意，所有钱包创建人必须都切换到当前团队，才会判定为在线。所有人上线后即可发送邀请，其他创建人可在自己的设备上接受邀请。所有创建人都接受邀请后，发起人的画面会转为准备就绪，即可开始重置流程。
+
+<figure><img src="../../.gitbook/assets/image (752).png" alt=""><figcaption></figcaption></figure>
+
+开始后进入输入助记词流程，注意支持添加TON、SUI链的钱包会有两套助记词，较早期创建的则只有一套助记词。
+
+<figure><img src="../../.gitbook/assets/image (753).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (754).png" alt=""><figcaption></figcaption></figure>
+
+完成助记词输入后，需等待所有创建人完成输入，所有成员完成输入助记词后，画面会出现准备就绪，发起人即可开始验证助记词及重置。
+
+<figure><img src="../../.gitbook/assets/image (755).png" alt=""><figcaption></figcaption></figure>
+
+注意只要任意创建人的助记词校验失败，流程都需要重新验证，重置成功后出现以下画面。
+
+<figure><img src="../../.gitbook/assets/image (756).png" alt=""><figcaption></figcaption></figure>
+
+#### 使用分片重置
+
+选择使用分片重置后进行进入等待画面，这里需要等待所有钱包创建人上线，请注意，所有钱包创建人必须都切换到当前团队，才会判定为在线。当所有人在线后即可发送邀请，点击发送邀请后需要进行交易密码认证。
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+完成验证后需等待其他钱包创建人加入，其他创建人加入时亦需进行交易密码验证。请注意最后需要足够成员进行签名，建议加入时使用有分片的设备。
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+所有创建人加入后，画面会转为准备就绪，并展示当前已加入成员设备的分片状态，当所有人已加入且分片数量满足决策模式时，发起人即可开始重置。开始后系统会重置分片，然后生成新助记词。请确保你的环境安全，点击了解后可开始备份新助记词。
+
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+备份完成后需验证助记词
+
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+完成备份后需等待其他成员完成，当所有成员完成，系统会弹出安全提醒，请注意旧的助记词仍然有效且可被用来恢复钱包资产。
+
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>

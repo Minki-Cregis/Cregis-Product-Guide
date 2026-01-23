@@ -2,7 +2,9 @@
 
 Cregis钱包允许你把分片授权给其他钱包成员及其设备，让其他成员代替你进行交易签名的操作。注意目前多签钱包只可授权及自己的其他设备而不可授权其他钱包城员。
 
-### **授权分片操作流程**
+## **授权分片操作流程**
+
+### **Cregis PC客户端**
 
 1.  导航至钱包详情页面<br>
 
@@ -28,7 +30,31 @@ Cregis钱包允许你把分片授权给其他钱包成员及其设备，让其�
 
     <figure><img src="../../.gitbook/assets/image (691).png" alt=""><figcaption></figcaption></figure>
 
-### 被授权成员操作流程
+
+
+### Cregis手机端
+
+您可以到以下页面找到授权入口
+
+<figure><img src="../../.gitbook/assets/image (742).png" alt=""><figcaption></figcaption></figure>
+
+然后选择你想授权的对象及设备
+
+<figure><img src="../../.gitbook/assets/image (743).png" alt=""><figcaption></figcaption></figure>
+
+在选择设备是可查看到所有成员用来登入的设备，选择好设备后可决定授权时长，然后点击确定。
+
+<figure><img src="../../.gitbook/assets/image (744).png" alt=""><figcaption></figcaption></figure>
+
+确认后需进行双重验证，验证成功后紧记复制口令给被授权成员用于导入分片。
+
+<figure><img src="../../.gitbook/assets/image (745).png" alt=""><figcaption></figcaption></figure>
+
+
+
+## 被授权成员操作流程
+
+### **Cregis PC客户端**
 
 分片拥有人完成上述流程生成口令后，被授权的成员可使用被授权的设备进行登入
 
@@ -44,3 +70,11 @@ Cregis钱包允许你把分片授权给其他钱包成员及其设备，让其�
 4.  验证成功后画面会显示分片导入成功，您亦可在钱包列表查看分片状态。
 
     <figure><img src="../../.gitbook/assets/image (695).png" alt=""><figcaption></figcaption></figure>
+
+
+
+### Cregis手机端
+
+被授权成员只要切换到该团队并进入钱包页面，即会弹出验证口令的视窗，只要输入相应口令并进行密码验证便可成功导入分片。
+
+<figure><img src="../../.gitbook/assets/image (746).png" alt=""><figcaption></figcaption></figure>

@@ -70,7 +70,7 @@
 
 <figure><img src="../../.gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure>
 
-点击后左则有窗口弹出，填写您的上币申请信息，填写完成后可提交申请。提交完成后我们会于2－3个工作天内帮您进行审批及上币，审批结果会通过电邮及系统通知您。如有任何问题，请随时通过 <mark style="color:green;">**support@cregis.io**</mark> 联系我们。
+点击后左则有窗口弹出，填写您的上币申请信息，填写完成后可提交申请。提交完成后我们会于2－3个工作天内帮您进行审批及上币，审批结果会通过电邮及系统通知您。如有任何问题，请随时通过 <mark style="color:green;">**support@cregis.com**</mark> 联系我们。
 
 <figure><img src="../../.gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure>
 

@@ -14,11 +14,11 @@
 
 点击后如果该代币有大于1条待确认交易，会弹出交易加速列表页面，请根据 Nonce 从小到大依次操作，点击「加速」，如果该代币只有 1 条待确认交易，则跳过该步骤。
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 点击「加速」后会展开交易详情，同时提供加速矿工费的选项，点击后可以选择不同的矿工费选项，用户也可以自定义矿工费。
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 自定义的矿工费设置分为<mark style="color:green;">**高级模式**</mark>和<mark style="color:green;">**普通模式**</mark>：
 
@@ -29,29 +29,29 @@
 
 设置完成后，点击确认并进行身份认证。
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 认证完成后可见到加速中的标签
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 加速完成后可看到已加速的标签。<img src="https://support.cregis.com/~gitbook/image?url=https%3A%2F%2F3200384756-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPoazW59IJbERNbp3S6uz%252Fuploads%252F50YfgwttMldHGmab9kDT%252Fimage.png%3Falt%3Dmedia%26token%3Df2202a51-0a77-4db2-a745-53edb7cd2454&#x26;width=55&#x26;dpr=4&#x26;quality=100&#x26;sign=5ab4c3d&#x26;sv=1" alt="" data-size="line">
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 交易取消 <a href="#jiao-yi-qu-xiao" id="jiao-yi-qu-xiao"></a>
 
 在待确认交易内点击「取消」
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 点击后如果该代币有大于1条待确认交易，会弹出交易取消列表页面，请根据 Nonce 从小到大依次操作，点击「取消」，如果该代币只有 1 条待确认交易，则跳过该步骤。
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 点击「取消」后会展开交易详情，同时有取消矿工费的选项，点开可选择不同的矿工费选项，用户也可以自定义矿工费。由于取消交易时重发一条金额为$0 的交易，因此这里的发送金额显示为0。
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 设置完成后进行身份验证。
 

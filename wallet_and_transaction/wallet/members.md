@@ -10,27 +10,52 @@
 
 ## 新增成员至钱包
 
-1.  点击钱包管理下的 <img src="../../.gitbook/assets/image (397).png" alt="" data-size="line"> <br>
+**Cregis PC客戶端**
 
-    <figure><img src="../../.gitbook/assets/image (328).png" alt=""><figcaption></figcaption></figure>
-2.  选择成员并编辑他们的权限，最后按添加便可以。<br>
+点击钱包管理下的 <img src="../../.gitbook/assets/image (397).png" alt="" data-size="line"> <br>
 
-    <figure><img src="../../.gitbook/assets/image (329).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (328).png" alt=""><figcaption></figcaption></figure>
+
+选择成员并编辑他们的权限，最后按添加便可以。<br>
+
+<figure><img src="../../.gitbook/assets/image (329).png" alt=""><figcaption></figcaption></figure>
+
+**Cregis 手机端**
+
+手机端可以按照以下流程找到添加成员的入口
+
+<figure><img src="../../.gitbook/assets/image (736).png" alt=""><figcaption></figcaption></figure>
 
 ## 编辑成员的钱包权限
 
-1.  点击钱包管理下的成员图标，弹出窗口将显示该成员的权限。然后，您可以点击“编辑”开始修改权限。<br>
+**Cregis PC客戶端**
 
-    <figure><img src="../../.gitbook/assets/image (330).png" alt=""><figcaption></figcaption></figure>
-2.  完成编辑后，点击“确认”保存更改。<br>
+点击钱包管理下的成员图标，弹出窗口将显示该成员的权限。然后，您可以点击“编辑”开始修改权限。
 
-    <figure><img src="../../.gitbook/assets/image (331).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (330).png" alt=""><figcaption></figcaption></figure>
+
+完成编辑后，点击“确认”保存更改。
+
+<figure><img src="../../.gitbook/assets/image (331).png" alt=""><figcaption></figcaption></figure>
+
+**Cregis 手机端**
+
+您需先点击成员头像，然后你可以查看当前成员的钱包权限，点右上编辑按钮后即可修改，编辑完成点击“保存"。
+
+<figure><img src="../../.gitbook/assets/image (737).png" alt=""><figcaption></figcaption></figure>
 
 
 
 ## 移除钱包成员
 
+**Cregis PC客戶端**
+
 点击钱包管理下的 ，将弹出一个窗口。然后您可以选择要移除的成员，点击“移除”以确认更改。
 
 <figure><img src="../../.gitbook/assets/image (332).png" alt=""><figcaption></figcaption></figure>
 
+**Cregis 手机端**
+
+您可以按照以下流程移除成员
+
+<figure><img src="../../.gitbook/assets/image (738).png" alt=""><figcaption></figcaption></figure>
