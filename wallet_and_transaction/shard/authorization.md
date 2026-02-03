@@ -34,7 +34,7 @@ Cregis钱包允许你把分片授权给其他钱包成员及其设备，让其�
 
 ### Cregis手机端
 
-您可以到以下页面找到授权入口
+您可以到以下页面位置找到分片授权和重置入口
 
 <figure><img src="../../.gitbook/assets/image (742).png" alt=""><figcaption></figcaption></figure>
 

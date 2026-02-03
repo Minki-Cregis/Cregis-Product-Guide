@@ -26,7 +26,7 @@
 
 <figure><img src="../../.gitbook/assets/image (751).png" alt=""><figcaption></figcaption></figure>
 
-确定重置后需要输入创建钱包时的分片助记词，必须确保所有助记词正确才可以验证成功，助记词验证成功后可输入交易密码并进行验证，验证成功即重置成功。
+确定重置后需要输入创建钱包时备份的助记词，必须确保所有助记词正确才可以验证成功，助记词验证成功后输入交易密码并进行验证，验证成功即重置成功。
 
 <figure><img src="../../.gitbook/assets/image (750).png" alt=""><figcaption></figcaption></figure>
 
@@ -146,7 +146,7 @@
 
 您可从以下找到分片重置的入口，然后选择重置方式
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 使用助记词重置
 
@@ -170,7 +170,7 @@
 
 #### 使用分片重置
 
-选择使用分片重置后进行进入等待画面，这里需要等待所有钱包创建人上线，请注意，所有钱包创建人必须都切换到当前团队，才会判定为在线。当所有人在线后即可发送邀请，点击发送邀请后需要进行交易密码认证。
+选择使用分片重置后进入等待画面，这里需要等待所有钱包创建人上线，请注意，所有钱包创建人必须都切换到当前团队，才会判定为在线。当所有人在线后即可发送邀请，点击发送邀请后需要进行交易密码认证。
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 

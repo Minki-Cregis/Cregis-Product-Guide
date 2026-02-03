@@ -18,7 +18,7 @@
 
 点击「加速」后会展开交易详情，同时提供加速矿工费的选项，点击后可以选择不同的矿工费选项，用户也可以自定义矿工费。
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 自定义的矿工费设置分为<mark style="color:green;">**高级模式**</mark>和<mark style="color:green;">**普通模式**</mark>：
 
@@ -29,7 +29,7 @@
 
 设置完成后，点击确认并进行身份认证。
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 认证完成后可见到加速中的标签
 
