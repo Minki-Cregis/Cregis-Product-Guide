@@ -24,7 +24,7 @@
 2.  仔细阅读助记词风险警示，确认理解后继续。<br>
 
     <figure><img src="../../.gitbook/assets/image (542).png" alt=""><figcaption></figcaption></figure>
-3.  系统生成12个助记词，请用纸笔准确抄写并妥善保管。<mark style="color:green;">**助记词代表了钱包资产的所有权，非常重要，请妥善保管。Cregis系统不会为用户记录助记词，一旦遗失助记词可能会导致资产遗失，平台亦无法替用户找回。**</mark>完成记录后，点击继续进入下一步。<br>
+3.  系统生成15个助记词，请用纸笔准确抄写并妥善保管。<mark style="color:green;">**助记词代表了钱包资产的所有权，非常重要，请妥善保管。Cregis系统不会为用户记录助记词，一旦遗失助记词可能会导致资产遗失，平台亦无法替用户找回。**</mark>完成记录后，点击继续进入下一步。<br>
 
     <figure><img src="../../.gitbook/assets/image (544).png" alt=""><figcaption></figcaption></figure>
 4.  按提示选择正确位置的单词，确保备份无误。<br>
@@ -104,7 +104,9 @@
 
 <figure><img src="../../.gitbook/assets/image (726).png" alt=""><figcaption></figcaption></figure>
 
-进入备份助记词的页面。单签钱包共有15个助记词，请用纸笔准确抄写并妥善保管。助记词代表钱包资产的所有权，非常重要，请务必保管好。Cregis系统不会为用户记录助记词，一旦遗失助记词可能导致资产丢失，平台也无法为用户找回。完成记录后，点击继续可验证助记词。系统一共需要验证三次。
+<figure><img src="https://native-resource/sdk/image?resource_type=image&#x26;key=img_v3_02ui_e01aa182-1bab-486a-89aa-5b108db951hu_MIDDLE_WEBP&#x26;fs_unit=larksgaws-cdn&#x26;crypto=CAESMAogAtpTjxqTcSG64CDj478p%2FvXB6RsX1E22Z6jMxj%2BUbgQSDCIF4WscNaI0OCCzXA%3D%3D&#x26;width=1772&#x26;height=1202&#x26;gif_optimize=true" alt=""><figcaption></figcaption></figure>
+
+进入备份助记词的页面。单签钱包共有15个助记词，请用纸笔准确抄写并妥善保管。助记词代表钱包资产的所有权，非常重要，请务必保管好。Cregis系统不会为用户备份助记词，一旦遗失助记词可能导致资产丢失，平台也无法为用户找回。完成备份后，点击继续根据提示进行助记词验证。
 
 <figure><img src="../../.gitbook/assets/image (727).png" alt=""><figcaption></figcaption></figure>
 
@@ -122,8 +124,8 @@
 
 <figure><img src="../../.gitbook/assets/img_v3_02u0_7a07d80f-bf74-4e4b-bb32-b2b44c4676hu.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
-从当前团队中选择在线的参与者（需确保其设备已连接）。选择参与者后，可设定下方的签名门槛。签名门槛指需要多少人同意才能使用钱包中的资金。设定签名门槛后，点击“确认”以发送邀请。您最多可选择3名参与者，但只需2个签名即可批准。\
-请批准所需的签名数不能超过参与者的数量。另外，请确保所有参与者都在线以完成钱包的建立。
+从当前团队中选择在线的参与者（需确保其设备已连接）。选择参与者后可以设定下方的签名门槛。签名门槛指的是需要多少人同意才能使用钱包中的资金。设定签名门槛后，点击“确认”以发送邀请。您可以选择3名参与者，但只需2个签名即可批准。\
+请注意，批准所需的签名数不能超过参与者的数量。另外，请确保所有参与者都在线以完成钱包的建立。
 
 <figure><img src="../../.gitbook/assets/image (730).png" alt=""><figcaption></figcaption></figure>
 
