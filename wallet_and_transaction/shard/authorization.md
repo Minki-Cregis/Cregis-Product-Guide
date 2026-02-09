@@ -42,7 +42,7 @@ Cregis钱包允许你把分片授权给其他钱包成员及其设备，让其�
 
 <figure><img src="../../.gitbook/assets/image (743).png" alt=""><figcaption></figcaption></figure>
 
-在选择设备是可查看到所有成员用来登入的设备，选择好设备后可决定授权时长，然后点击确定。
+在选择设备时可查看到所有成员用来登入的设备，选择好设备后可决定授权时长，然后点击确定。
 
 <figure><img src="../../.gitbook/assets/image (744).png" alt=""><figcaption></figcaption></figure>
 

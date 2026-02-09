@@ -18,7 +18,7 @@
 
 ## 显示已隐藏的钱包
 
-目前显示钱包只能在客户端处理，您可右键点击“钱包”下的空白区域，即可看到显示隐藏钱包的选项。
+目前显示钱包只能在PC客户端处理，您可右键点“钱包”区域，即可看到显示隐藏钱包的选项。
 
 <figure><img src="../../.gitbook/assets/image (480).png" alt=""><figcaption></figcaption></figure>
 
