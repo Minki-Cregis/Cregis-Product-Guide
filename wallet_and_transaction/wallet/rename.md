@@ -13,4 +13,4 @@
 
 **Cregis 手机端**
 
-<figure><img src="../../.gitbook/assets/image (739).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (758).png" alt=""><figcaption></figcaption></figure>
