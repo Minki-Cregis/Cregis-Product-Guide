@@ -12,7 +12,7 @@
 
 然后点击分片管理的重置功能<br>
 
-<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 然后，您可以输入此钱包的助记词来重置分片。
 
@@ -146,7 +146,7 @@
 
 您可从以下找到分片重置的入口，然后选择重置方式
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 使用助记词重置
 
@@ -172,22 +172,22 @@
 
 选择使用分片重置后进入等待画面，这里需要等待所有钱包创建人上线，请注意，所有钱包创建人必须都切换到当前团队，才会判定为在线。当所有人在线后即可发送邀请，点击发送邀请后需要进行交易密码认证。
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 完成验证后需等待其他钱包创建人加入，其他创建人加入时亦需进行交易密码验证。请注意最后需要足够成员进行签名，建议加入时使用有分片的设备。
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 所有创建人加入后，画面会转为准备就绪，并展示当前已加入成员设备的分片状态，当所有人已加入且分片数量满足决策模式时，发起人即可开始重置。开始后系统会重置分片，然后生成新助记词。请确保你的环境安全，点击了解后可开始备份新助记词。
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 备份完成后需验证助记词
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 完成备份后需等待其他成员完成，当所有成员完成，系统会弹出安全提醒，请注意旧的助记词仍然有效且可被用来恢复钱包资产。
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>

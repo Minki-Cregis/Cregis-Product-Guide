@@ -14,8 +14,9 @@
 
 * [个人空间及团队空间](accountmanagement/space.md)
 * [帐单及付款](accountmanagement/bill_and_payment/README.md)
-  * [管理团队版本](accountmanagement/bill_and_payment/pricing_plan.md)
-  * [开通收费功能](accountmanagement/bill_and_payment/feature_activation.md)
+  * [管理团队版本 (Old ver.)](accountmanagement/bill_and_payment/pricing_plan.md)
+  * [管理团队版本](accountmanagement/bill_and_payment/pricing_plan-1.md)
+  * [付费扩容功能](accountmanagement/bill_and_payment/feature_activation.md)
   * [帐单管理](accountmanagement/bill_and_payment/manage_your_bill.md)
   * [充值团队帐户](accountmanagement/bill_and_payment/recharge_your_account.md)
 * [帐户安全](accountmanagement/security.md)
