@@ -158,7 +158,7 @@
 
 ## 条款与细则 <a href="#terms_and_conditions" id="terms_and_conditions"></a>
 
-* [服务条款](terms_and_conditions/terms_of_service.md)
+* [Cregis的标准用户使用条款](terms_and_conditions/cregis-standard-terms-of-service.md)
 * [收集个人资料声明](terms_and_conditions/personal_information_collection_statement.md)
 
 ## Cregis Support
