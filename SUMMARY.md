@@ -26,7 +26,7 @@
 
 * [团队管理](team/management.md)
 * [成员](team/members.md)
-* [权限](team/permission.md)
+* [角色](team/permission.md)
 * [团队协作](team/teamwork/README.md)
   * [发起交易申请](team/teamwork/initiate_send_request.md)
   * [审批流](team/teamwork/approval.md)
@@ -89,6 +89,11 @@
 * [查询订单相关记录](payment_engine/records.md)
 * [订单逻辑](payment_engine/additional_payment_and_refund_processes.md)
 * [支付链结（收银台）](payment_engine/checkout_page.md)
+
+## 应用市场 <a href="#marketplace" id="marketplace"></a>
+
+* [简介](marketplace/jian-jie.md)
+* [管理应用](marketplace/guan-li-ying-yong.md)
 
 ## 汇款 <a href="#remittance" id="remittance"></a>
 
