@@ -58,6 +58,16 @@
 
 <table><thead><tr><th width="239.03125">权限</th><th>定义</th></tr></thead><tbody><tr><td>查看</td><td>允许查看角色管理页面。</td></tr><tr><td>新增角色</td><td>允许为团队新增角色。</td></tr><tr><td>修改角色</td><td>允许修改角色权限。</td></tr><tr><td>删除角色</td><td>允许删除角色。</td></tr></tbody></table>
 
+### 企业认证
+
+<table><thead><tr><th width="239.03125">权限</th><th>定义</th></tr></thead><tbody><tr><td>启动认证</td><td>允许启动企业认证</td></tr><tr><td>查看认证信息</td><td>允许查看企业认证信息</td></tr></tbody></table>
+
+### 应用市场
+
+<table><thead><tr><th width="239.03125">权限</th><th>定义</th></tr></thead><tbody><tr><td>查看</td><td>允许查看应用市场</td></tr><tr><td>管理应用</td><td>允许管理独立应用权限</td></tr></tbody></table>
+
+请注意针对应用市场内的权限编辑需要前往[<mark style="color:green;">**应用管理页面**</mark>](../marketplace/guan-li-ying-yong.md)单独进行编辑。
+
 ## 操作流程
 
 ### 新增角色
