@@ -77,7 +77,7 @@
 
     <figure><img src="../../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
 
-如需使用其他地址进行收款，可以前往[**地址簿**](address_book.md)生成新地址或将其设置为默认收款地址。
+如需使用其他地址进行收款，可以前往[**地址簿**](../../risk_management/address_book.md)生成新地址或将其设置为默认收款地址。
 
 ## **查看交易记录**
 

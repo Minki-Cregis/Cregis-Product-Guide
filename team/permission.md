@@ -74,23 +74,23 @@
 
 您可以通过导航至“管理” → “角色”来管理团队的角色。在角色管理页面，您可以添加新角色并编辑其权限，保存时需要团队创建人的电邮验证及您的Google验证。
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 删除角色
 
 您可以按照下方步骤删除角色。请注意，删除角色时需要完成Google验证。
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 编辑角色
 
 您可以根据以下步骤为角色进编辑。
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 请注意针对应用市场内的应用权限编辑需要前往<mark style="color:green;">**应用管理页面**</mark>单独进行编辑，在以下页面您仅可以编辑角色是否可查看应用市场及管理应用。
 

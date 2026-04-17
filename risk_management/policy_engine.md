@@ -8,26 +8,28 @@
 
 ### 创建策略
 
-进入策略中心页面，点击"策略"。
+进入风控页面，点击"策略"。
 
-<figure><img src="../.gitbook/assets/image (629).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (827).png" alt=""><figcaption></figcaption></figure>
 
-点击"+"创建策略，先为策略命名然后选择相应的类型，类型分为人工转出以及API转出：
+点击"+"创建策略，先为策略命名然后选择相应的类型，类型分为人工转出以及API提币：
 
 * 人工转出：通过客户端转出的交易，包括钱包手动转出，以及项目内地址的手动转出
-* API转出：即通过API转出的交易，包括所有针对WaaS项目发出的钱包出款或是项目地址出款
+* API提币：即通过API转出的交易，包括所有针对WaaS项目发出的从钱包提币或是子地址提币
 
-<figure><img src="../.gitbook/assets/image (630).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (828).png" alt=""><figcaption></figcaption></figure>
 
 选择好类型后可以新增规则，<mark style="color:green;">**请注意：用户可以为钱包设定多于一条的规则，每条规则的关系是「或者」。**</mark>你可以根据你实际的场景进行触发规则以及执行动作，最后提交并进行验证即可成功创建。
 
-<figure><img src="../.gitbook/assets/image (650).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (829).png" alt=""><figcaption></figcaption></figure>
 
 ### 编辑及删除策略
 
 你可以在以下地方找到编辑及删除的入口
 
-<figure><img src="../.gitbook/assets/image (643).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (830).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (831).png" alt=""><figcaption></figcaption></figure>
 
 ### 查看日志
 

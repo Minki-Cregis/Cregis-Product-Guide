@@ -20,19 +20,19 @@
 
 在订阅明细页面点击“升级”
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 窗口会弹出显示Cregis提供的升级方案，确定方案后，您可以点击该方案中的「升级」按钮。
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 接下来选择购买时长，选择完成后便会显示总费用。
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 点击“提交订单”后，将生成一个带有订单号的订单，余额不足时可立即充值，足够时则可直接进行支付完成订单。
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 为订阅项目续费
 
@@ -42,7 +42,7 @@
 
 自动续费开通后，系统会在套餐到期前一天续费，如团队账户余额不足，系统会自动发送邮件提醒，并且会在当日继续尝试扣款。若扣款日的22时 (UTC+8)都仍未扣款成功，系统将会停止自续费，并会以邮件通知用户自续费失败，在订阅项目到期前3天系统并会提醒用户充值或保持余额充足。
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 

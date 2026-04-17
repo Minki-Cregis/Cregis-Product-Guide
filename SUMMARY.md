@@ -53,7 +53,6 @@
   * [交易加速及取消](wallet_and_transaction/transaction/speed_up_and_cancel.md)
   * [交易重发](wallet_and_transaction/transaction/resend.md)
   * [交易记录](wallet_and_transaction/transaction/dashboard.md)
-  * [地址簿](wallet_and_transaction/transaction/address_book.md)
   * [Tron能量模式](wallet_and_transaction/transaction/tron_energy_mode.md)
 
 ## 风险管理 <a href="#risk_management" id="risk_management"></a>
@@ -63,6 +62,7 @@
 * [自动归集／签名](risk_management/automation.md)
 * [AML查询功能](risk_management/aml_query.md)
 * [KYB/KYC](risk_management/kyb-kyc.md)
+* [地址簿](risk_management/address_book.md)
 
 ## API
 
@@ -70,7 +70,7 @@
   * [创建项目](api/manual/creation.md)
   * [配置IP白名单](api/manual/configuration.md)
   * [查询API接入信息](api/manual/access_information.md)
-  * [生成地址](api/manual/wallet_address_creation.md)
+  * [生成子地址](api/manual/wallet_address_creation.md)
   * [查询交易记录](api/manual/transaction.md)
   * [归集](api/manual/collection.md)
   * [回调查询](api/manual/callback_query.md)
