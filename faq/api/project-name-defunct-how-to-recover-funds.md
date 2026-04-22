@@ -2,4 +2,4 @@
 
 您可在项目中找到该地址，然后进行手动发送。
 
-<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>

@@ -18,7 +18,7 @@
 
 用户可以先进入钱包页面，然后选择币种，再按右方的地址便可以查看到你现有钱包于这个加密货币下生成的地址。
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
 
 选择币种就可以查看到你现有钱包于这个加密货币下生成的地址，你可以透过标签分辨哪个地址是你的默认付款及默认收款的地址，目前一共有5种标签：
 
@@ -28,7 +28,7 @@
 * 隔离见证(兼容)：此地址格式为隔离见证（兼容）
 * 隔离见证(原生)：此地址格式为隔离见证（原生）
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>
 
 如需新增地址可按右上加号，选择隔离见证（兼容）或隔离见证（原生）地址，选择完成后可以输入新地址的别名。
 

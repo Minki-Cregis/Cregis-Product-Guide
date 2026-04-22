@@ -2,4 +2,4 @@
 
 你可以到回调记录查询异常回调，然后针对异常回调的记录进行重推。
 
-<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>

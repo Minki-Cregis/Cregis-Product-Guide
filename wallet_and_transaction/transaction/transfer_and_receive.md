@@ -32,13 +32,13 @@
 
 1.  点击“**发送**”开始，注意批量转账只可在单签钱包操作。这里的发送没有分片也可以操作，只要有钱包的发送权限即可发起交易。<br>
 
-    <figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (49) (1).png" alt=""><figcaption></figcaption></figure>
 2.  选择您想接收的币种<br>
 
-    <figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (50) (1).png" alt=""><figcaption></figcaption></figure>
 3.  选择网络<br>
 
-    <figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (51) (1).png" alt=""><figcaption></figcaption></figure>
 4.  点击批量转账后会有一个电子表格，用户可选择手动输入或上传表单，注意每次交易最多只可包含99条地址。
 
     <figure><img src="../../.gitbook/assets/image (656).png" alt=""><figcaption></figcaption></figure>
@@ -48,7 +48,7 @@
 *   手动输入\
     需输入地址以及金额，资金用途及备注则可视乎需要填写。
 
-    <figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (52) (1).png" alt=""><figcaption></figcaption></figure>
 *   上传表单\
     可到以下位置下载模版，你亦可参考模版中第二张表的模版说明。
 

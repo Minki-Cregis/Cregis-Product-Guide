@@ -24,7 +24,7 @@
 
 手机端可以按照以下流程找到添加成员的入口
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 编辑成员的钱包权限
 
