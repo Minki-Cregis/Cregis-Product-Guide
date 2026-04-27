@@ -28,7 +28,6 @@
 * [成员](team/members.md)
 * [角色](team/permission.md)
 * [团队协作](team/teamwork/README.md)
-  * [发起交易申请](team/teamwork/initiate_send_request.md)
   * [审批流](team/teamwork/approval.md)
   * [交易签名](team/teamwork/transaction_signing.md)
 

@@ -6,12 +6,14 @@
 
 1.  选择好钱包后进入信息签名页面，<mark style="color:green;">**请注意Cregis 仅支持单签钱包的消息签名。**</mark><br>
 
-    <figure><img src="../../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (892).png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
-2.  选择好网络及地址，然后输入签名的信息。
 
-    <figure><img src="../../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
+
+    <figure><img src="../../.gitbook/assets/image (893).png" alt=""><figcaption></figcaption></figure>
+2.  选择好网络及地址，然后输入签名的信息。<br>
+
+    <figure><img src="../../.gitbook/assets/image (894).png" alt=""><figcaption></figcaption></figure>
 
     目前 Cregis 只支持以下网络的信息签名：
 
@@ -26,7 +28,7 @@
     * Ethereum Classic<br>
 3.  输入完成后点击“签名”，然后进行身份验证。<br>
 
-    <figure><img src="../../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (895).png" alt=""><figcaption></figcaption></figure>
 4.  验证完成后便可成功进行信息签名。签名哈希会在签名成功后的弹出窗口中显示。<mark style="color:green;">**该记录不会存储于系统中，请记得复制签名信息以备后用。**</mark><br>
 
-    <figure><img src="../../.gitbook/assets/image (163).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (896).png" alt=""><figcaption></figcaption></figure>

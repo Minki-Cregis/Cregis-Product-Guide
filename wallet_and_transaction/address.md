@@ -2,23 +2,23 @@
 
 每个钱包可以创建多个地址。在Cregis的地址簿中，您可以高效管理您的地址，如添加新地址和设置默认地址。您可以通过下方的图标导航到地址頁面。
 
-<figure><img src="../.gitbook/assets/image (337).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (901).png" alt=""><figcaption></figcaption></figure>
 
 ## 创建地址&#x20;
 
 您可以点击右上角的 ，然后输入地址名称并按Enter键确认。
 
-<figure><img src="../.gitbook/assets/image (338).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (902).png" alt=""><figcaption></figcaption></figure>
 
 ## **默认支付地址和接收地址设置**
 
 要设置默认地址，选择您偏好的地址并点击“更多”。然后，您将看到设置为默认支付地址或接收地址的选项。
 
-<figure><img src="../.gitbook/assets/image (341).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (903).png" alt=""><figcaption></figcaption></figure>
 
 设置默认地址后，您可以在地址名称旁边查看标签。
 
-<figure><img src="../.gitbook/assets/image (339).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (904).png" alt=""><figcaption></figcaption></figure>
 
 ## **地址标签**
 
@@ -38,4 +38,4 @@
 
 要查看您的地址资源，选择您偏好的地址并点击“更多”，然后您将看到“资源”选项。
 
-<figure><img src="../.gitbook/assets/image (398).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (906).png" alt=""><figcaption></figcaption></figure>
