@@ -6,11 +6,11 @@ To create a wallet, please navigate to the Wallet page from the left sidebar.
 
 You may click the "+" icon to add a new wallet.
 
-<figure><img src="../../.gitbook/assets/image (209).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (983).png" alt=""><figcaption></figcaption></figure>
 
 You can choose to create either a **Single-signature Wallet** or **Multi-signature Wallet**. Learn more about their differences [here](./).
 
-<figure><img src="../../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (982).png" alt=""><figcaption></figcaption></figure>
 
 ### **Single-sig Wallet** <a href="#single-sig-wallet" id="single-sig-wallet"></a>
 
@@ -18,22 +18,23 @@ A single-signature (single-sig) wallet is a type of cryptocurrency wallet that r
 
 1.  Enter the wallet name and click "Continue" to proceed to the next step.<br>
 
-    <figure><img src="../../.gitbook/assets/image (211).png" alt=""><figcaption></figcaption></figure>
-2.  Carefully read the recovery phrase risk warning. Proceed only after confirming your understanding.
+    <figure><img src="../../.gitbook/assets/image (984).png" alt=""><figcaption></figcaption></figure>
+2.  Carefully read the recovery phrase risk warning. Proceed only after confirming your understanding.<br>
 
-    <figure><img src="../../.gitbook/assets/image (187).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (985).png" alt=""><figcaption></figcaption></figure>
 3.  The system will generate 12 recovery phrases. Please accurately write them down on paper and store them securely. These phrases represent ownership of your wallet assets—they are extremely important and must be safeguarded.\
     Cregis system will not record the recovery phrase for users. After completing the recovery phrase in private recording, click "Backup Successfully" to proceed to the next step.<br>
 
-    <figure><img src="../../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (986).png" alt=""><figcaption></figcaption></figure>
 4.  Based on your previous records, select the recovery phrase in the corresponding position to confirm that you have recorded the recovery phrase.<br>
 
-    <figure><img src="../../.gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure>
-5.  After answering the correct phrases, you need to complete the authentication by transaction password.<br>
+    <figure><img src="../../.gitbook/assets/image (987).png" alt=""><figcaption></figcaption></figure>
+5.  After answering the correct phrases, you need to complete the authentication by transaction password.\
+    <br>
 
-    <figure><img src="../../.gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (988).png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (989).png" alt=""><figcaption></figcaption></figure>
 6. After completing identity verification, the system will generate your wallet and automatically add mainstream cryptocurrencies.
 
 ### **Multi-sig Wallet** <a href="#multi-sig-wallet" id="multi-sig-wallet"></a>

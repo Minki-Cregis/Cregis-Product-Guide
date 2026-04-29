@@ -10,27 +10,27 @@
 
 ## View your team plan
 
-Your team plan details are available in the Team Account interface. On this page, you can review your subscription information, the benefits of your current plan, and the subscription expiry date.
+Your team plan details are available in the Team Management page. On this page, you can review your subscription information, the benefits of your current plan, and the subscription expiry date.
 
-<figure><img src="../../.gitbook/assets/image (903).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (957).png" alt=""><figcaption></figcaption></figure>
 
 ## Upgrade your team plan
 
 Click **"Upgrade"** on the Subscription Details page.
 
-<figure><img src="../../.gitbook/assets/image (904).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (958).png" alt=""><figcaption></figcaption></figure>
 
 A pop-up window will display the upgrade options provided by Cregis. Once you've decided on a plan, click the **"Upgrade"** button within that option.
 
-<figure><img src="../../.gitbook/assets/image (905).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (959).png" alt=""><figcaption></figcaption></figure>
 
 Next, select the subscription duration. The total cost will be displayed once you've made your selection.
 
-<figure><img src="../../.gitbook/assets/image (906).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (960).png" alt=""><figcaption></figcaption></figure>
 
 Click **"Submit Order"** to generate an order with a unique order number. If your balance is insufficient, you can top up immediately. If your balance is sufficient, you can proceed directly to payment to complete the order.
 
-<figure><img src="../../.gitbook/assets/image (907).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (961).png" alt=""><figcaption></figcaption></figure>
 
 ## Renew your team plan
 
@@ -47,19 +47,19 @@ Once auto-renewal is enabled, the system will automatically renew your plan one 
 
 If the charge is still unsuccessful by 22:00 (UTC+8) on the charge date, the system will cancel auto-renewal and notify you via email. Additionally, the system will send reminders 3 days before your subscription expires, prompting you to top up or maintain a sufficient balance.
 
-<figure><img src="../../.gitbook/assets/image (908).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (962).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (909).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (963).png" alt=""><figcaption></figcaption></figure>
 
 ### **Manual Renewal**
 
 For manual renewal, simply locate the corresponding subscription item in your Subscription Details and click to proceed.
 
-<figure><img src="../../.gitbook/assets/image (910).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (964).png" alt=""><figcaption></figcaption></figure>
 
 After clicking, you'll be directed to the Subscription Management page. From there, click **"Renew"** on the corresponding subscription item.
 
-<figure><img src="../../.gitbook/assets/image (911).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (965).png" alt=""><figcaption></figcaption></figure>
 
 Select the number of months you wish to renew for and submit your order.
 
@@ -67,5 +67,5 @@ Select the number of months you wish to renew for and submit your order.
 
 Once submitted, an order will be generated. Click **"Pay Now"** to complete the payment. Please ensure your account balance is sufficient. Refer to the "[Recharge Your Account](recharge-your-account.md)" guide for instructions on adding funds.
 
-<figure><img src="../../.gitbook/assets/image (913).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (966).png" alt=""><figcaption></figcaption></figure>
 

@@ -2,7 +2,9 @@
 
 In terms of wallet permission management, Cregis has separated it from the overall team account permissions. Team administrators can only grant members the ability to create wallets. To modify permissions for individual wallets, you need to go to the wallet management page itself.
 
-<figure><img src="../../.gitbook/assets/image (503).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (990).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (991).png" alt=""><figcaption></figcaption></figure>
 
 ## Wallet Authority
 
@@ -18,12 +20,15 @@ In terms of wallet permission management, Cregis has separated it from the overa
 
 1. Click <img src="../../.gitbook/assets/image (511).png" alt="" data-size="line"> under wallet management
 
-<figure><img src="../../.gitbook/assets/image (509).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (990).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (992).png" alt=""><figcaption></figcaption></figure>
 
 2. Choose the member and edit their permissions
 
-<figure><img src="../../.gitbook/assets/image (506).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (993).png" alt=""><figcaption></figcaption></figure>
 
+\
 **Cregis Mobile**
 
 On the mobile app, you can follow the process below to find the entry point for adding members.
@@ -36,12 +41,13 @@ On the mobile app, you can follow the process below to find the entry point for 
 
 1. Click the member's icon under wallet management, and a window with member's permission will be pop up. Then you can click "<mark style="color:green;">**Edit**</mark>" to start your editing.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (512).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (994).png" alt=""><figcaption></figcaption></figure>
 
 2. After finished the editing, you can click "<mark style="color:green;">**Confirm**</mark>" to save the changes.
 
-<figure><img src="../../.gitbook/assets/image (513).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (995).png" alt=""><figcaption></figcaption></figure>
 
+\
 **Cregis Mobile**
 
 You need to click on the member's icon first. You can then view the current member's wallet permissions. Click the edit button in the upper-right corner to make modifications. After editing, click "Save" to confirm.
@@ -54,7 +60,7 @@ You need to click on the member's icon first. You can then view the current memb
 
 1. Click the <img src="../../.gitbook/assets/image (515).png" alt="" data-size="line"> under wallet management, and a window will be pop up. Then you can choose the member you want to remove and click "<mark style="color:green;">**Remove**</mark>" to confirm the changes.
 
-<figure><img src="../../.gitbook/assets/image (514).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (996).png" alt=""><figcaption></figcaption></figure>
 
 **Cregis Mobile**
 
