@@ -1,0 +1,3 @@
+# How to Safely Handle a Lost Recovery Phrase?
+
+If a recovery phrase is lost, it is essential to distinguish between two scenarios. In the ideal case, you still have access to an account. You can transfer assets from the wallet with the lost recovery phrase using members who hold the necessary shards, and then continue using another wallet with a valid recovery phrase. However, if all users with wallet shards are unable to perform transfers—meaning all accounts or hardware devices are inaccessible, or all shards have been deleted—without a recovery phrase, the assets cannot be recovered. Therefore, we strongly recommend securely storing your recovery phrase. As long as the recovery phrase is intact, your assets will not be lost under any circumstances.

@@ -1,0 +1,7 @@
+# Why Do Multi-Signature Wallets Require All Parties to Be Online Simultaneously?
+
+Other wallets achieve separate signing by storing one party’s shard on the cloud after their signature is completed, then waiting for the other party to sign. However, this approach temporarily grants the platform full access to the private key, introducing significant security risks. To protect user assets, Cregis adopts a more rigorous security design to avoid such vulnerabilities.
+
+Cregis' multi-signature functionality is built on **MPC (Multi-Party Computation)** technology, ensuring that a user's private key never exists in its complete form. During the signing process, shards from all parties interact in real-time through encrypted protocols to complete the signature, eliminating the need for any shard to be stored in the cloud. This guarantees absolute security for the private key while removing the potential risks associated with centralized storage.
+
+Furthermore, Cregis now offers an [**automatic signing feature**](../../risk-management/auto-collection-signing.md). Users can set specific signing conditions (e.g., automatic signing for transactions below 1,000 USD). Once enabled, the system can automatically complete signatures based on the predefined criteria, provided the Cregis remains open. This removes the need for all parties to be online simultaneously, significantly improving convenience and efficiency while maintaining Cregis' high-security standards.
