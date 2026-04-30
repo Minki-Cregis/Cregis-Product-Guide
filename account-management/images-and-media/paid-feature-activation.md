@@ -8,11 +8,11 @@ Expanding the number of wallets allows users to flexibly manage different assets
 
 To expand, go to **Team Subscription**, locate the wallet category you wish to expand, and click **"Expand"**.&#x20;
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 A pop-up window will appear showing the associated cost—wallet expansion is $99 per wallet. Select the number of additional wallets you need and submit the order. Once payment is complete, your wallet count will be successfully expanded.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 2. Token Listing Application
 
@@ -22,11 +22,11 @@ Your current team plan includes a number of free listing attempts. These attempt
 
 To apply, go to your **Team Subscription** page, locate your wallet usage section, and click **"Apply"**. Before applying, please ensure you have a free attempt remaining or sufficient balance in your team account.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 A pop-up window will appear on the left—fill in your token listing information and submit the application. Once submitted, we will review and list the token within 2–3 business days. You will be notified of the review result via email and system notification. If you have any questions, feel free to contact us at support@cregis.com.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 3. Expand Withdrawal Limit
 
@@ -34,13 +34,13 @@ Each team plan comes with a monthly withdrawal limit that resets each month. Col
 
 To expand, find the **"Expand"** button in your **Team Subscription** page and click it.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 A pop-up window will appear showing four expansion packages. Select the package that suits your needs and submit the order. Once payment is complete, your withdrawal limit will be successfully expanded.
 
 Please note that the expanded portion is permanent. Withdrawals will consume the quota included in your team plan first.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 4. Increase WaaS Sub-Address Count
 
@@ -48,11 +48,11 @@ This feature allows clients—such as exchanges—to increase the maximum number
 
 To upgrade, go to your **Team Subscription** page, locate your WaaS section, and click **"Upgrade"**.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 A pop-up window will appear displaying the available upgrade options. Select the number of addresses and subscription duration that fit your needs, then submit the order. Once payment is complete, your sub-address limit will be successfully upgraded.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 5. Increase Policy Count
 
@@ -60,11 +60,11 @@ Adding more automated risk management policies allows users to implement complex
 
 To expand, go to your **Team Subscription** page, locate your policy usage section, and click **"Expand"**.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 A pop-up window will appear—each additional policy costs $19. Set the number of policies you wish to add and submit the order. Once payment is complete, your policy count will be successfully expanded.
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 6. Activate Auto-Collection / Auto-Signature
 
@@ -74,8 +74,8 @@ If your current team plan does not include this feature, you can activate it for
 
 To activate, go to your **Team Subscription** page, locate this feature, and click **"Activate"**.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 A pop-up window will appear—select the activation duration you need and submit the order. Once payment is complete, you can begin using the automated features.
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
