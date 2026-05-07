@@ -52,7 +52,9 @@
 
     <figure><img src="https://0xcregis.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=YjNjOGVlNjkwOWU0MGFiZDY5Mjg0MzUzMmZiNWFjY2JfSzJUbGdXNW1RTkJ0cENPV3FscGt3MHhEYmRpTXpBbzRfVG9rZW46RFQwbmJKMFdtb21maGV4NnhEQ2xEaEVoZ05lXzE3NjA5NDc4MTU6MTc2MDk1MTQxNV9WNA" alt="" width="375"><figcaption></figcaption></figure>
 * 执行动作 \
-  用户可选择每隔一段时间执行或是每天于特定的时间点进行自动归集。<mark style="color:green;">**这里的时间目前以UTC+8为准。**</mark>
+  用户可选择每隔一段时间执行或是每天于特定的时间点进行自动归集。自定义执行时间是以当前开启自动归集任务的设备的本地时间为准。\
+  \
+  **注意：若不同时区的成员先后开启同一条规则，系统将依据各操作者所在时区的本地时间分别触发，可能导致同一周期内出现多次归集执行。**<br>
 
 <figure><img src="../.gitbook/assets/image (369).png" alt=""><figcaption></figcaption></figure>
 
