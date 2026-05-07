@@ -8,13 +8,13 @@ You can delete the key shard in your device for safety concerns. If you cannot f
 
 You can click the "delete" button under shard management and then click "confirm".
 
-<figure><img src="../../.gitbook/assets/image (224).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1030).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (225).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1031).png" alt=""><figcaption></figcaption></figure>
 
 Shard will be deleted after you finish the verification.
 
-<figure><img src="../../.gitbook/assets/image (226).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1032).png" alt=""><figcaption></figcaption></figure>
 
 **Cregis Mobile**
 

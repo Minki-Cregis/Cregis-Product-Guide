@@ -6,32 +6,36 @@ Cregis Wallet allows you to authorize shards to other wallet members and their d
 
 ### Cregis Desktop
 
-1.  Navigate to the Wallet Details page.<br>
+1.  Navigate to the Wallet Details page.\
+    <br>
 
-    <figure><img src="../../.gitbook/assets/image (853).png" alt=""><figcaption></figcaption></figure>
-2.  Click "Authorized device."
+    <figure><img src="../../.gitbook/assets/image (1022).png" alt=""><figcaption></figcaption></figure>
+2.  Click "Authorized device."\
+    <br>
 
-    <figure><img src="../../.gitbook/assets/image (855).png" alt=""><figcaption></figcaption></figure>
-3.  Add a new authorization
+    <figure><img src="../../.gitbook/assets/image (1023).png" alt=""><figcaption></figcaption></figure>
+3.  Add a new authorization\
+    <br>
 
-    <figure><img src="../../.gitbook/assets/image (858).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1024).png" alt=""><figcaption></figcaption></figure>
 4.  You can select the wallet member and their device you wish to authorize, or choose "Any Device," meaning the member can use any device to receive the shard authorization.
 
     * **Note**: Multisig wallets do not support authorizing shards to other wallet members.
 
-    <figure><img src="../../.gitbook/assets/image (859).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1025).png" alt=""><figcaption></figcaption></figure>
 5.  After confirming, you can set the authorization duration. You can set an expiration time for the shard authorization or make the authorization permanent until the shard is deleted or reset.<br>
 
-    <figure><img src="../../.gitbook/assets/image (860).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1026).png" alt=""><figcaption></figcaption></figure>
 6.  After confirming, identity authentication is required.<br>
 
-    <figure><img src="../../.gitbook/assets/image (861).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1027).png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../../.gitbook/assets/image (862).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1028).png" alt=""><figcaption></figcaption></figure>
 7.  After successful verification, a one-time authorization passcode will be generated. Please copy it and provide it to the member for import on the designated device.\
-    <mark style="color:green;">**Recommendation: If the current device will no longer be used, it is recommended to delete the shard from the current device after completing the authorization.**</mark>
+    <mark style="color:green;">**Recommendation: If the current device will no longer be used, it is recommended to delete the shard from the current device after completing the authorization.**</mark>\
+    <br>
 
-    <figure><img src="../../.gitbook/assets/image (863).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1029).png" alt=""><figcaption></figcaption></figure>
 
 
 

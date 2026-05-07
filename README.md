@@ -1,15 +1,16 @@
-# 产品概览
+# Product Overview
 
-在Cregis，我们致力于为企业提供创新的金融工具，帮助企业轻松且安全地管理数字资产。我们的产品套件为企业提供强大的功能，使他们能够轻松管理、交易和利用加密货币。无论您的企业是希望整合加密货币解决方案，还是提升现有的财务运营效率，Cregis都通过最先进的技术助您实现目标。从自托管钱包到支付引擎和金融服务，Cregis将帮助您的企业自信且高效地应对不断发展的数字经济。
+At Cregis, we are dedicated to providing innovative financial tools that enable seamless and secure management of digital assets for businesses. Our suite of products empowers enterprises to manage, transact, and leverage cryptocurrencies with ease. Whether your business is looking to integrate cryptocurrency solutions or enhance existing financial operations, Cregis equips you with state-of-the-art technologies designed to optimize efficiency and security. From self-custody wallets to payment engines and financial services, Cregis is here to support your business in navigating the evolving digital economy with confidence.
 
-## **自託管MPC钱包**
+## Self-Custody MPC Wallet
 
-Cregis MPC钱包是一款加密资产管理工具，旨在让用户完全掌控他们的数字资产。与托管型钱包不同，自托管钱包的私钥由用户自己掌握，Cregis无法访问用户的私钥或资金，从而最大限度地保障安全性和隐私。此钱包支持多种加密货币和区块链网络，并具备强大的安全功能。
+Cregis MPC Wallet is a crypto asset management tool designed for users to have full control over their digital assets. Unlike custodial wallets, the private keys for self-custody wallets are held by the users themselves, ensuring that Cregis has no access to their private keys or funds, thus maximizing security and privacy. The wallet supports multiple cryptocurrencies and blockchain networks, along with robust security features.
 
-## **钱包即服务 (WaaS)**
+## Wallet as a Service
 
-Cregis提供标准化的钱包API，让企业可以创建钱包地址并进行加密货币交易，而无需自行开发或维护底层钱包技术。这些地址完全由企业拥有，且可以轻松合并管理。通过使用Cregis的钱包API，企业可以更专注于设计用户流程和界面，并提升品牌营销，最终为产品创造更大价值。
+Cregis offers a standardized wallet API that allows businesses to create wallet addresses and conduct cryptocurrency transactions without the need to develop or maintain the underlying wallet technology. These addresses are fully owned by the business and can be easily consolidated. By leveraging Cregis’s wallet API, businesses can focus more on designing user flows and interfaces while enhancing brand marketing efforts, ultimately creating greater value for their products.
 
-## **Cregis收单工具**
+## Cregis Payment Engine
 
-Cregis致力于解决传统收单支付的种种挑战，为商家提供一系列加密收单工具，包括结账页面、二维码、POS机和发票，帮助商家摆脱传统银行的限制。Cregis支持多个区块链网络和法币，并提供T+0处理的即时结算，大幅提高资金效率并降低跨境结算成本。
+Cregis is committed to addressing the various challenges of traditional acquiring for merchants, offering a range of crypto acquiring tools including checkout pages, QR codes, POS machines, and invoices to help merchants break free from the constraints of traditional banks. Cregis supports multiple blockchain networks and fiat currencies, providing real-time settlement with T+0 processing, significantly enhancing capital efficiency while reducing cross-border settlement costs.
+

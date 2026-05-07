@@ -104,7 +104,8 @@ Only one cryptocurrency can be set per rule. When adding, the system will displa
 <figure><img src="../.gitbook/assets/image (842).png" alt="" width="294"><figcaption></figcaption></figure>
 
 * Execution Actions \
-  Scheduled signing can be configured here. The time is currently based on UTC+8. Additionally, users need to set the interval (in minutes) for signing. If multiple transactions are triggered, they will be bundled on-chain, which may save gas fees on certain chains.
+  Scheduled signing can be configured here. Additionally, users need to set the interval (in minutes) for signing. If multiple transactions are triggered, they will be bundled on-chain, which may save gas fees on certain chains. The custom execution time is based on the local time of the device on which the automatic collection task is currently enabled.\
+  **Note: If members in different time zones enable the same rule at different times, the system will trigger the rule based on each operator's local time zone, which may result in multiple collection executions within the same period.**
 
 <figure><img src="../.gitbook/assets/image (411).png" alt="" width="278"><figcaption></figcaption></figure>
 
