@@ -52,95 +52,93 @@
 
 先点击右上角进入钱包信息页面
 
-<figure><img src="../../.gitbook/assets/image (575).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (964).png" alt=""><figcaption></figcaption></figure>
 
 然后点击重置功能
 
-<figure><img src="../../.gitbook/assets/image (696).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (965).png" alt=""><figcaption></figcaption></figure>
 
 点击后会弹出重置视窗，您可以选择使用助记词或使用分片进行重置，两者分别可参考上述简介。
 
-<figure><img src="../../.gitbook/assets/image (697).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (966).png" alt=""><figcaption></figcaption></figure>
 
 #### 使用助记词重置
 
 选择使用助记词重置后进入等待画面，这里需要等待所有钱包创建人上线，请注意，所有钱包创建人必须都切换到当前团队，才会判定为在线。
 
-<figure><img src="../../.gitbook/assets/image (698).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (967).png" alt=""><figcaption></figcaption></figure>
 
 所有人上线后即可发送邀请，其他创建人可在自己的设备上接受邀请。
 
-<figure><img src="../../.gitbook/assets/image (699).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (968).png" alt=""><figcaption></figcaption></figure>
 
 所有创建人都接受邀请后，发起人的画面会转为准备就绪，即可开始重置流程。
 
-<figure><img src="../../.gitbook/assets/image (700).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (969).png" alt=""><figcaption></figcaption></figure>
 
 开始后进入输入助记词流程，注意支持添加TON、SUI链的钱包会有两套助记词，较早期创建的则只有一套助记词。
 
-<figure><img src="../../.gitbook/assets/image (701).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (970).png" alt=""><figcaption></figcaption></figure>
 
 完成助记词输入后，需等待所有创建人完成输入
 
-<figure><img src="../../.gitbook/assets/image (702).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (971).png" alt=""><figcaption></figcaption></figure>
 
 所有成员完成输入助记词后，画面会出现准备就绪，发起人即可开始验证助记词及重置
 
-<figure><img src="../../.gitbook/assets/image (703).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (972).png" alt=""><figcaption></figcaption></figure>
 
 注意只要任意创建人的助记词校验失败，流程都需要重新验证。
 
-<figure><img src="../../.gitbook/assets/image (704).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (973).png" alt=""><figcaption></figcaption></figure>
 
 助记词校验成功后，新的分片会在当前设备生成，包括已授权的旧分片将全部失败，如有需要请重新进行分片授权。
-
-<figure><img src="../../.gitbook/assets/image (705).png" alt=""><figcaption></figcaption></figure>
 
 #### 使用分片重置
 
 选择使用分片重置后进行进入等待画面，这里需要等待所有钱包创建人上线，请注意，所有钱包创建人必须都切换到当前团队，才会判定为在线。
 
-<figure><img src="../../.gitbook/assets/image (707).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (974).png" alt=""><figcaption></figcaption></figure>
 
 当所有人在线后即可发送邀请
 
-<figure><img src="../../.gitbook/assets/image (708).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (975).png" alt=""><figcaption></figcaption></figure>
 
 点击发送邀请后需要进行交易密码认证
 
-<figure><img src="../../.gitbook/assets/image (706).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (976).png" alt=""><figcaption></figcaption></figure>
 
 完成验证后需等待其他钱包创建人加入，其他创建人加入时亦需进行交易密码验证。请注意最后需要足够成员进行签名，建议加入时使用有分片的设备。
 
-<figure><img src="../../.gitbook/assets/image (709).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (977).png" alt=""><figcaption></figcaption></figure>
 
 所有创建人加入后，画面会转为准备就绪，并展示当前已加入成员设备的分片状态，当所有人已加入且分片数量满足决策模式时，发起人即可开始重置。
 
-<figure><img src="../../.gitbook/assets/image (710).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (978).png" alt=""><figcaption></figcaption></figure>
 
 开始后系统会重置分片，然后生成新助记词。
 
-<figure><img src="../../.gitbook/assets/image (711).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (979).png" alt=""><figcaption></figcaption></figure>
 
 请确保你的环境安全，点击了解后可开始备份新助记词。
 
-<figure><img src="../../.gitbook/assets/image (713).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (980).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (714).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (981).png" alt=""><figcaption></figcaption></figure>
 
 备份完成后需验证助记词
 
-<figure><img src="../../.gitbook/assets/image (715).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (982).png" alt=""><figcaption></figcaption></figure>
 
 完成备份后需等待其他成员完成
 
-<figure><img src="../../.gitbook/assets/image (716).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (984).png" alt=""><figcaption></figcaption></figure>
 
 当所有成员完成，系统会弹出安全提醒，请注意旧的助记词仍然有效且可被用来恢复钱包资产。
 
 点撃确定后完成分片重置流程。
 
-<figure><img src="../../.gitbook/assets/image (717).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (985).png" alt=""><figcaption></figcaption></figure>
 
 ### Cregis手机端操作流程
 
