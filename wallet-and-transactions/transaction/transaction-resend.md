@@ -6,14 +6,12 @@ Solana transactions may fail due to network congestion or insufficient gas fees.
 
 1.  If a Solana transaction remains in a "pending confirmation" state for over 5 minutes, the system will display a "<mark style="color:green;">**Resend**</mark>" button.<br>
 
-    <figure><img src="../../.gitbook/assets/image (725).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1047).png" alt=""><figcaption></figcaption></figure>
 2.  Click the button to enter the resend interface, where transaction details, including the gas fee, will be displayed. Click "Confirm" to proceed.\
     <mark style="color:green;">**Note: Funds from the original transaction are frozen, and insufficient account balance will prevent further action.**</mark><br>
 
-    <figure><img src="../../.gitbook/assets/image (727).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1048).png" alt=""><figcaption></figcaption></figure>
 3.  Complete identity verification after clicking "Confirm."<br>
 
-    <figure><img src="../../.gitbook/assets/image (726).png" alt=""><figcaption></figcaption></figure>
-4.  Once the transaction is successfully resent, a notification will appear. After the transaction is completed, the funds from the previous transaction will be unfrozen, and the <mark style="color:green;">**gas fee will not be deducted**</mark>.<br>
-
-    <figure><img src="../../.gitbook/assets/image (729).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1049).png" alt=""><figcaption></figcaption></figure>
+4. Once the transaction is successfully resent, a notification will appear. After the transaction is completed, the funds from the previous transaction will be unfrozen, and the <mark style="color:green;">**gas fee will not be deducted**</mark>.<br>
