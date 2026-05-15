@@ -60,6 +60,7 @@
 
 <div><figure><img src="../../.gitbook/assets/img_v3_0211n_4ce2c41f-024d-4e64-9dbb-8a8bf3b264hu.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/img_v3_0211n_90ac07a6-c4a4-46bb-a941-930313673dhu.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/img_v3_0211n_d7b2f54b-9488-471d-b4af-1620342fcahu.jpg" alt=""><figcaption></figcaption></figure></div>
 
-验证完成后会进入多签环节，这里可以看到哪些成员已加入，当加入的多签签名人数达至最低签名门槛时，便会有预计矿工费，由签名发起人进行签名确认。
+验证完成后会进入多签环节。**如果您是发起人**，可以在这里看到哪些成员已加入。\
+当加入的多签签名人数达到最低签名门槛时，签名发起人即可看到预估矿工费，并由发起人进行确认。
 
 <div><figure><img src="../../.gitbook/assets/img_v3_0211n_b3a53dac-2a6f-46fb-b2ec-2c441bdcfbhu.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/img_v3_0211n_0c4073c0-e479-4f2c-b7c1-770acf631ehu.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/img_v3_0211n_4b68bf29-772f-4575-96f8-6be4447fc0hu.jpg" alt=""><figcaption></figcaption></figure></div>
