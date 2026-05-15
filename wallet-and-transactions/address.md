@@ -2,25 +2,25 @@
 
 Each wallet can create multiple addresses. In Cregis's address book, you can efficiently manage your addresses, such as adding new ones and setting a default address. You can navigate to address book by the icon below
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Create an Address
 
 You can click the <img src="../.gitbook/assets/image (498).png" alt="" data-size="line">  in the top right corner, then input the name of the address and click "Save". The Address would be created after you finished the authentication.
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Default Payment Address and Receive Address Setting
 
 To set a default address, select your preferred address and click "<mark style="color:green;">**More**</mark>." You will then see options to set it as the default payment or receiving address.
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 After you set the default address, you can view the tag next to the address name.
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Address Tag
 
@@ -42,5 +42,5 @@ In the Cregis platform, users can easily view the available resources associated
 
 To check your address resources, select your preferred address and click "<mark style="color:green;">**More**</mark>." You will then see options of "resource".
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 

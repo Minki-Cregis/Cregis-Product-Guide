@@ -8,15 +8,15 @@ Resetting shards will invalidate all previous shards, and only the device used f
 
 Click the upper-right corner to enter the Wallet Info page.
 
-<figure><img src="../../.gitbook/assets/image (742).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Select the Reset function under Shard Management.
 
-<figure><img src="../../.gitbook/assets/image (761).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Enter the wallet's recovery phrase to reset shards.
 
-<figure><img src="../../.gitbook/assets/image (760).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 After entering the correct phrase, an identity verification window will appear. Complete verification to finalize the shard reset.
 
@@ -61,94 +61,94 @@ Resetting a multisig wallet generates new recovery phrases, with variations depe
 
 Enter the Wallet Info page via the upper-right menu.
 
-<figure><img src="../../.gitbook/assets/image (742).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 Click Reset.
 
-<figure><img src="../../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 Clicking will open a reset window. You can choose to reset using either the recovery phrases or the shards. Refer to the above introduction for details on each method.
 
-<figure><img src="../../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 A reset window appears— you need to wait for other members to come online.\
 Note: Other members need to switch their page to the current team to be recognized as online.
 
-<figure><img src="../../.gitbook/assets/image (746).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 #### **Reset Using Recovery Phrases**
 
 Selecting this method will bring you to a waiting screen. **Note:** You must wait for **all** wallet co-creators to come online, and they must have switched to the current team to be considered online.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 Once everyone is online, the initiator can send invitations, which other co-creators can accept on their devices.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 After all co-creators accept, the initiator's screen will show "Ready," and the reset process can begin.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 You will then enter the recovery phrases. **Note:** Wallets that support adding TON and SUI chains have two sets of recovery phrases, while earlier created wallets only have one set.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 After entering your recovery phrases, wait for all co-creators to complete their input.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 Once all members have finished, the "Ready" prompt will appear, allowing the initiator to start recovery phrase verification and the reset. **Important:** If **any** co-creator's recovery phrase verification fails, the entire process must be re-verified.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 After successful verification, new shards will be generated on the current device. All previously authorized old shards will become invalid and require re-authorization if needed.
 
-<figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 #### **Reset Using Shards**
 
 Selecting this method will bring you to a waiting screen. **Note:** You must wait for **all** wallet co-creators to come online, and they must have switched to the current team to be considered online.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 Once everyone is online, the initiator can send invitations.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 Clicking "Send Invitation" requires transaction password authentication.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 After verification, wait for other wallet co-creators to join. Other co-creators also need to verify their transaction password when joining. **Note:** A sufficient number of members must ultimately sign; it is recommended to join using a device that holds a shard.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 After all co-creators join, the screen will show "Ready" and display the shard status of the currently joined member devices. When everyone has joined and the number of shards meets the decision-making threshold, the initiator can start the reset.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 The system will first reset the shards and then **generate new recovery phrases**.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 **Please ensure your environment is secure.** Click "I Understand" to begin backing up the new recovery phrases.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 After backup, you need to verify the recovery phrases.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 Once backup is complete, wait for other members to finish.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 When all members are done, the system will display a security reminder. **Please note: The old recovery phrases remain valid and can still be used to recover wallet assets.** Click "Confirm" to complete the shard reset process.
 
-<figure><img src="../../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 ### Cregis Mobile
 
