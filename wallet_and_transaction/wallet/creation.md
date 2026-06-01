@@ -122,7 +122,7 @@
 
 <figure><img src="../../.gitbook/assets/image (726).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://native-resource/sdk/image?resource_type=image&#x26;key=img_v3_02ui_e01aa182-1bab-486a-89aa-5b108db951hu_MIDDLE_WEBP&#x26;fs_unit=larksgaws-cdn&#x26;crypto=CAESMAogAtpTjxqTcSG64CDj478p%2FvXB6RsX1E22Z6jMxj%2BUbgQSDCIF4WscNaI0OCCzXA%3D%3D&#x26;width=1772&#x26;height=1202&#x26;gif_optimize=true" alt=""><figcaption></figcaption></figure>
+<figure><img src="native-resource://sdk/image?resource_type=image&#x26;key=img_v3_02ui_e01aa182-1bab-486a-89aa-5b108db951hu_MIDDLE_WEBP&#x26;fs_unit=larksgaws-cdn&#x26;crypto=CAESMAogAtpTjxqTcSG64CDj478p%2FvXB6RsX1E22Z6jMxj%2BUbgQSDCIF4WscNaI0OCCzXA%3D%3D&#x26;width=1772&#x26;height=1202&#x26;gif_optimize=true" alt=""><figcaption></figcaption></figure>
 
 进入备份助记词的页面。单签钱包共有15个助记词，请用纸笔准确抄写并妥善保管。助记词代表钱包资产的所有权，非常重要，请务必保管好。Cregis系统不会为用户备份助记词，一旦遗失助记词可能导致资产丢失，平台也无法为用户找回。完成备份后，点击继续根据提示进行助记词验证。
 

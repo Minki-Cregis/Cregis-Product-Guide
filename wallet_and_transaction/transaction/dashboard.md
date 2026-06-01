@@ -4,13 +4,17 @@
 
 ## 查看记录明细
 
-用户可点击记录想查看的记录明细
+用户可点击交易记录查看所有钱包相关的交易记录，这里包括了钱包的日常转账以及基于该钱包生成的WaaS项目交易记录。
 
-<figure><img src="../../.gitbook/assets/image (925).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1021).png" alt=""><figcaption></figcaption></figure>
+
+注意您只可以查看自己有查看权限的团队钱包交易记录，您可以在所属钱包的提示中看到自己可查看的钱包列表。
+
+<figure><img src="../../.gitbook/assets/image (1023).png" alt=""><figcaption></figcaption></figure>
 
 点击后会有视窗弹出展示此交易的详细记录
 
-<figure><img src="../../.gitbook/assets/image (926).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1022).png" alt=""><figcaption></figcaption></figure>
 
 ## 更改数据时区
 
