@@ -17,7 +17,7 @@
 
 点击页面「新增」按钮进入创建页面。
 
-<div><figure><img src="../../.gitbook/assets/image (994).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (995).png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../../.gitbook/assets/image (1027).png" alt=""><figcaption></figcaption></figure>
 
 配置归集规则，包括规则名称、归集币种、归集金额、到账地址，归集金额支持以下四种模式：
 
@@ -26,7 +26,7 @@
 * 小于等于：仅归集余额小于等于指定金额的地址；
 * 金额区间：仅归集余额在指定金额范围内的地址。
 
-<figure><img src="../../.gitbook/assets/image (996).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1028).png" alt=""><figcaption></figcaption></figure>
 
 配置完成后，点击「确定」按钮进行Google Authenticator验证，验证通过则规则创建成功。
 
@@ -34,19 +34,19 @@
 
 规则创建完成后，可在规则列表中点击「开始归集」按钮发起归集。
 
-<figure><img src="https://0xcregis.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=YWI5YWUzNTE5MWFhMjE0NDZiOWFiMDdiNTI0MGEwZjFfWmdCMVdpWU90VUhlelhrMGthTWdBdkRpUUJjTHNscW9fVG9rZW46U05QOGJxMkplb3ZJeDF4NkhKQWw2RGZzZ1JiXzE3ODAyODI0NDM6MTc4MDI4NjA0M19WNA" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1029).png" alt=""><figcaption></figcaption></figure>
 
 进入归集确认页面，系统将根据当前规则自动筛选符合条件的子地址，并显示预计可归集金额/笔数，确认后点击「确定」按钮。
 
-<figure><img src="../../.gitbook/assets/image (997).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1030).png" alt=""><figcaption></figcaption></figure>
 
 输入交易密码后，点击「确定」按钮开始归集。
 
-<figure><img src="../../.gitbook/assets/image (998).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1031).png" alt=""><figcaption></figcaption></figure>
 
-开始归集后，可点击规则列表的「归集中」按钮，查看归集进度。
+开始归集后，可在「任务记录」页面查看归集进度。
 
-<figure><img src="../../.gitbook/assets/image (999).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1033).png" alt=""><figcaption></figcaption></figure>
 
 ## **API归集**
 
@@ -68,7 +68,7 @@
 
 输入交易密码后，点击「确定」按钮开始归集。
 
-<figure><img src="https://0xcregis.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=YmE3OGFlYmVmY2VmY2NmMjU5ZGQ2Njc1YTJiM2VmYzRfSWlCYXVBQnYzaG1TRUVvTDc2cXNSUktOQTJlQno4T0dfVG9rZW46T2FVMWJzakJ0b3JlZ3V4YWVZYWxUS1JXZ1FkXzE3ODAyODI2MzM6MTc4MDI4NjIzM19WNA" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1034).png" alt=""><figcaption></figcaption></figure>
 
 开始归集后，可点击API归集页面右下角的归集进度按钮，查看归集进度
 
