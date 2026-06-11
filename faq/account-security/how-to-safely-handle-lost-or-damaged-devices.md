@@ -6,7 +6,7 @@ If the device does store an MPC shard and is lost, to prevent unauthorized use o
 
 ## **1. If the wallet creator’s device is damaged or lost**
 
-If the wallet creator has multiple devices with the wallet shard, authorization can be completed using another functional device. You might refer to [**here**](/broken/pages/Zvukm7MAGL6ooitMTmpY) for instruction details.<br>
+If the wallet creator has multiple devices with the wallet shard, authorization can be completed using another functional device. You might refer to [**here**](https://app.gitbook.com/s/g3NzJ0yGNKhTsgI2zNjK/getting-started) for instruction details.<br>
 
 <figure><img src="../../.gitbook/assets/image (340).png" alt=""><figcaption></figcaption></figure>
 
