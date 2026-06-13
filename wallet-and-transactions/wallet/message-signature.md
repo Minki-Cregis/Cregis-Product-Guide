@@ -10,10 +10,10 @@ Message signature is a cryptographic technology used to ensure data security. It
 
     <br>
 
-    <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 2.  Select the appropriate network and address, then enter the information to be signed.<br>
 
-    <figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
     \
     Currently, Cregis supports message signatures on the following networks:
@@ -29,8 +29,8 @@ Message signature is a cryptographic technology used to ensure data security. It
     * Ethereum Classi
 3.  After entering the information, click "Sign" and proceed with identity verification.<br>
 
-    <figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 4.  Once the verification is completed, the message signature will be successfully processed. The signature hash will be displayed in a pop-up window after the signature is successfully completed. This record will not be stored in the system, so please remember to copy the signature information for future reference.\
     <br>
 
-    <figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>

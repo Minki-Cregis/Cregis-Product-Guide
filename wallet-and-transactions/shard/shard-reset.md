@@ -8,15 +8,15 @@ Resetting shards will invalidate all previous shards, and only the device used f
 
 Click the upper-right corner to enter the Wallet Info page.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 Select the Reset function under Shard Management.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Enter the wallet's recovery phrase to reset shards.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 After entering the correct phrase, an identity verification window will appear. Complete verification to finalize the shard reset.
 
@@ -61,20 +61,20 @@ Resetting a multisig wallet generates new recovery phrases, with variations depe
 
 Enter the Wallet Info page via the upper-right menu.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Click Reset.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Clicking will open a reset window. You can choose to reset using either the recovery phrases or the shards. Refer to the above introduction for details on each method.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 A reset window appears— you need to wait for other members to come online.\
 Note: Other members need to switch their page to the current team to be recognized as online.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **Reset Using Recovery Phrases**
 
@@ -84,7 +84,7 @@ Selecting this method will bring you to a waiting screen. **Note:** You must wai
 
 Once everyone is online, the initiator can send invitations, which other co-creators can accept on their devices.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 After all co-creators accept, the initiator's screen will show "Ready," and the reset process can begin.&#x20;
 

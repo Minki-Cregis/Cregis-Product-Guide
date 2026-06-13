@@ -43,6 +43,6 @@ Collection History is used to view transaction records related to sub-address co
 Collection History is categorized into:
 
 * History: Displays collection transaction records in their final state (Successful, Failed, Canceled).
-* In Progress: Displays collection transaction records that are currently still pending confirmation on the chain.
+* Processing: Displays collection transaction records that are currently still pending confirmation on the chain.
 
 <figure><img src="../../.gitbook/assets/image (1052).png" alt=""><figcaption></figcaption></figure>
