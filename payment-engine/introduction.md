@@ -12,7 +12,6 @@ Cregis supports multiple currencies and chains as [order currencies](https://dev
 * **Minimum Threshold Settlement**: If the accumulated pending settlement amount remains below the equivalent of 50 USDT (testing phase) / 500 USDT (live phase), a Minimum Threshold Settlement will be triggered. This ensures merchants receive a payout at least once every 24 hours. To facilitate testing for newly onboarded merchants, the first transaction under 50 USDT will automatically trigger this settlement within 10 minutes.
 * **Settlement Amount**: The amount will be credited after deducting transaction fees.
 * **Settlement Address**: When setting up the payment engine, merchants can select internal Cregis wallet addresses. Funds can also be settled to an external address after the settlement process.
-* **Exchange Rate for Settlement**: Calculations are based on the real-time exchange rate from CoinMarketCap. The rate will be fixed once the order is created.
 
 If fiat settlement is required, please [contact us](https://www.cregis.com/appointment/) for inquiries.
 
