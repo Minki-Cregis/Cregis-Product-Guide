@@ -162,7 +162,7 @@
 ## 条款与细则 <a href="#terms_and_conditions" id="terms_and_conditions"></a>
 
 * [Cregis的标准用户使用条款](terms_and_conditions/cregis-standard-terms-of-service.md)
-* [收集个人资料声明](terms_and_conditions/personal_information_collection_statement.md)
+* [私隐政策及个人资料收集声明](terms_and_conditions/personal_information_collection_statement.md)
 
 ## Cregis Support
 
