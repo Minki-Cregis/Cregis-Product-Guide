@@ -94,11 +94,11 @@
 * [Create Payment Engine](payment-engine/create-payment-engine.md)
 * [Update Payment Engine Configuration](payment-engine/update-payment-engine-configuration.md)
 * [View Order Related Records](payment-engine/view-order-related-records.md)
+* [Payment Link (Checkout Page)](payment-engine/payment-link-checkout-page.md)
 
 ***
 
 * [Order Logic](order-logic.md)
-* [Payment Link (Checkout Page)](payment-link-checkout-page.md)
 
 ## FAQ
 
