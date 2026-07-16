@@ -38,51 +38,51 @@ Elliptic全链查询功能共支持49条区块链网络，所支持的网络列�
 
 前往AML查询页面并点击“新增查询”，或在交易详情页面点击地址旁的图标<img src="../.gitbook/assets/image (300).png" alt="" data-size="line">。
 
-<figure><img src="../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
+<div><figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure></div>
 
 先选择查询类型，如查询交易则要输入方向、网络、收款地址、交易哈希及服务商。如查询地址则输入网络、地址及供应商，网络并输入您想查询的地址。
 
-<figure><img src="../.gitbook/assets/image (624).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-请注意不同的服务商收费及支持的网络都不一样，你可以点击服务商比较查看更多。
+点击“确定”后，系统会显示温馨提示。
 
-<figure><img src="../.gitbook/assets/image (625).png" alt=""><figcaption></figcaption></figure>
-
-点击“查看”后，系统会显示温馨提示。
-
-<figure><img src="../.gitbook/assets/image (618).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 然后，您需要输入交易密码完成验证。
 
-<figure><img src="../.gitbook/assets/image (306).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 完成验证后，您可以查看查询结果。
 
-<figure><img src="../.gitbook/assets/image (307).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 你也可以在查询记录找到查询详情包括来源风险及去向风险评分
 
-<figure><img src="../.gitbook/assets/image (619).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 ### 3.2. 自动查询
 
-Cregis AML的自动查询功能可以根据用户预设的规则对API收款交易进行筛选，对用户希望重点关注的交易进行风险评估，并依据评估结果采取相应的风险控制措施。规则创建与管理需要在Cregis桌面端进行，查询结果可以在桌面端及手机端查看。要使用自动查询功能，用户必须首先创建查询规则：
+Cregis AML的自动查询功能可以根据用户预设的规则对API收款交易进行筛选，对用户希望重点关注的交易进行风险评估，并依据评估结果采取相应的风险控制措施。规则创建与管理需要在Cregis桌面端进行，查询结果可以在桌面端及手机端查看。
+
+要使用自动查询功能，用户必须首先创建查询规则：
 
 1. 设置查询的触发条件，包括需要进行交易监控的项目、币种和金额。用户可创建多条规则，但每个项目只能设置一条查询规则，且每条规则只能选择一个服务商。每条规则中可以对不同币种设置不同的风控触发金额。
 2. 根据业务需要和风险偏好自定义风险标准，在0到10.0之间选择适合的数值，当交易的风险评分达到或超过这一数值时，Cregis AML将判定该交易为危险交易。
 3. 选择风险警报接收人，Cregis AML识别危险交易后将向接收人发送风险警报。
 
-完成规则设置并启用规则后，Cregis AML将对触发规则的收款交易进行交易风险评估（KYT）。评估完成后，Cregis AML将根据所触发规则设定的风险标准，判断交易是否属于危险交易。若收款地址/项目被禁用，在手动解禁前，Cregis AML将不会再筛查该地址/项目的任何交易。识别到危险交易后，Cregis AML将禁用该收款地址，暂停该地址API回调和资金归集，并向用户指定的警报接收人发送风险警报。用户收到风险警报后，可查看查询详情以了解交易风险来源。如果认定风险在可接受范围内，用户可手动进行API回调和地址解禁。
+完成规则设置并启用规则后，Cregis AML将对触发规则的收款交易进行交易风险评估（KYT）。评估完成后，Cregis AML将根据所触发规则设定的风险标准，判断交易是否属于危险交易。若收款地址/项目被禁用，在手动解禁前，Cregis AML将不会再筛查该地址/项目的任何交易。
+
+识别到危险交易后，Cregis AML将禁用该收款地址，暂停该地址API回调和资金归集，并向用户指定的警报接收人发送风险警报。用户收到风险警报后，可查看查询详情以了解交易风险来源。如果认定风险在可接受范围内，用户可手动进行API回调和地址解禁。
 
 **操作步骤**
 
 自动查询主要的操作是设定好AML自动规则，可以先进入以下页面然后点击创建。
 
-<figure><img src="../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1036).png" alt=""><figcaption></figcaption></figure>
 
 点击后可以开始创建规则
 
-<figure><img src="../.gitbook/assets/image (620).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1037).png" alt=""><figcaption></figcaption></figure>
 
 * 规则名称：为规则命名
 * 项目：选择需要监控交易的项目，请注意每个项目只能创建一条规则
@@ -90,7 +90,6 @@ Cregis AML的自动查询功能可以根据用户预设的规则对API收款交�
 
 <figure><img src="../.gitbook/assets/image (95).png" alt=""><figcaption><p>币种设定图示</p></figcaption></figure>
 
-* 服务商：选择你用来查询的服务商
 * 风险分级标准：可设置0.0 (安全)-10.0(非常危险)之间，当风险分数大于你所设置的标准时便会定义为危险交易，发送警报通知及自动禁止该项目地址。
 * 风险警报接收人：可设置负责接收风险警报的团队成员
 
@@ -98,7 +97,7 @@ Cregis AML的自动查询功能可以根据用户预设的规则对API收款交�
 
 每次创建、编辑、启用及删除规则都会有记录，可在日志查看。
 
-<figure><img src="../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1038).png" alt=""><figcaption></figcaption></figure>
 
 ## 4. 查询结果说明
 
