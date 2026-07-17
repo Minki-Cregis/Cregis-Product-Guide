@@ -2,19 +2,16 @@
 
 ## 1. What is AML Query?
 
-Cregis AML is a risk management feature that helps users to identify, control and mitigate on-chain risks and is implemented through integration with Elliptic, a renowned crypto risk control service provider. Cregis AML supports Know Your Address (KYA) and Know Your Transaction (KYT) analyses and allows users to run manual queries and auto queries. Users may choose suitable features and methods based on their business requirements and manage on-chain transaction risks in a more efficient way.
+Cregis AML is a risk management feature that helps users to identify, control and mitigate on-chain risks and is implemented through integration with renowned crypto risk control service providers including Elliptic. Cregis AML supports Know Your Address (KYA) and Know Your Transaction (KYT) analyses and allows users to run manual queries and auto queries. Users may choose suitable features and methods based on their business requirements and manage on-chain transaction risks in a more efficient way.
 
 Cregis AML function is available to all users and is charged based on the selected service provider and the number of queries. Subscribed users enjoy up to a 50% discount on query fees, and Business and Enterprise users also receive a certain number of free queries each month.
 
-Please be advised that this service is provided by Cregis in partnership with Elliptic and Regtank. Under no circumstances shall Cregis or its partners be held responsible for any actual or potential legal or regulatory violations identified during the use of the service. You should be aware of risks linked to transactions, and exercise caution and independent judgment when making transactions.
+Please be advised that this service is provided by Cregis in partnership with Elliptic. Under no circumstances shall Cregis or its partners be held responsible for any actual or potential legal or regulatory violations identified during the use of the service. You should be aware of risks linked to transactions, and exercise caution and independent judgment when making transactions.
 
 ## 2. Service Provider Introduction
 
-Currently, Cregis AML has two partner service providers for risk control services, Elliptic and Regtank. Different service providers have different methods for risk assessment, support different blockchain networks, and charge different fees for queries. We suggest users select appropriate service providers that best meet their needs.
-
-### 2.1. Elliptic
-
-Elliptic detects the source and destination of on-chain funds, and assesses the level of association of the funds to wallet addresses with high money laundering risks and sanctioned addresses. It calculates risk scores of addresses or transactions based on the proportion of risky funds. The query fee for Elliptic is 2 USD per query, regardless of query subject or method. Subscribed users enjoy a certain discount on query fees.Elliptic's holistic query supports 49 blockchain networks. Here is a list of networks supported by Elliptic.
+Elliptic detects the source and destination of on-chain funds, and assesses the level of association of the funds to wallet addresses with high money laundering risks and sanctioned addresses. It calculates risk scores of addresses or transactions based on the proportion of risky funds. The query fee for Elliptic is 2 USD per query, regardless of query subject or method. Subscribed users enjoy a certain discount on query fees.\
+Elliptic's holistic query supports 49 blockchain networks. Here is a list of networks supported by Elliptic.
 
 | Algorand            | Aptos       | Arbitrum          | Avalanche   | Base        | Binance Chain |
 | ------------------- | ----------- | ----------------- | ----------- | ----------- | ------------- |
@@ -26,15 +23,6 @@ Elliptic detects the source and destination of on-chain funds, and assesses the 
 | Ripple              | Sei         | Solana            | Stellar     | Sui         | Tezos         |
 | TON                 | Tron        | Unichain          | Worldcoin   | XDC         | Zilliqa       |
 | zkSync              | <p><br></p> | <p><br></p>       | <p><br></p> | <p><br></p> | <p><br></p>   |
-
-### 2.2. Regtank
-
-Regtank leverages on-chain data analysis and a risk labeling system to provide comprehensive assessments of wallets, transactions, and VASPs, displays entity information and risk labels, and identifies source and destination of funds as a supplement. The service fee for Regtank is 0.3 USD per query, regardless of query subject or method. Subscribed users enjoy a certain discount on query fees.Regtank supports the following 18 blockchain networks.
-
-| Arbitrumone | Avalanche | Base     | Bitcoin  | Bitcoincash | Blast    |
-| ----------- | --------- | -------- | -------- | ----------- | -------- |
-| BSC         | Dash      | Dogecoin | Ethereum | Litecoin    | Optimism |
-| Polygon     | Ripple    | Solana   | Tezos    | Ton         | Tron     |
 
 ## 3. Feature Description
 
@@ -50,35 +38,29 @@ To initiate a manual KYT query, users need to select the direction of the query 
 
 **User Manual**
 
-Before using the AML query function, please ensure that you are a subscribed user. For subscription steps, please refer to [this page.](../account-management/images-and-media/manage-your-pricing-plan-old.md)
+Navigate to the AML Query Page and click "<mark style="color:green;">**Manual Query**</mark>", or click the icon next to address on the transaction detail page.
 
-Navigate to the AML Query Page and click "<mark style="color:green;">**New Query**</mark>", or click the icon <img src="../.gitbook/assets/image (400).png" alt="" data-size="line">next to address on the transaction detail page.
+<div><figure><img src="../.gitbook/assets/image (1074).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (1075).png" alt=""><figcaption></figcaption></figure></div>
 
-<div><figure><img src="../.gitbook/assets/image (236).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (238).png" alt=""><figcaption></figcaption></figure></div>
+First, select the query type. For transaction queries, you need to enter the direction, network, recipient address, and transaction hash For address queries, enter the network, address, and provider, and input the address you wish to query.
 
-First, select the query type. For transaction queries, you need to enter the direction, network, recipient address, transaction hash, and service provider. For address queries, enter the network, address, and provider, and input the address you wish to query.
-
-<figure><img src="../.gitbook/assets/image (797).png" alt=""><figcaption></figcaption></figure>
-
-Please note that different service providers have varying fees and supported networks. You can click "Compare Service Providers" to view more details.
-
-<figure><img src="../.gitbook/assets/image (798).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1076).png" alt=""><figcaption></figcaption></figure>
 
 After clicking "View", the system will display a reminder message.
 
-<figure><img src="../.gitbook/assets/image (392).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1077).png" alt=""><figcaption></figcaption></figure>
 
 Then, you will need to enter your transaction password to complete verification.
 
-<figure><img src="../.gitbook/assets/image (393).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1078).png" alt=""><figcaption></figcaption></figure>
 
 After verification is completed, you can view the query results.
 
-<figure><img src="../.gitbook/assets/image (394).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1079).png" alt=""><figcaption></figcaption></figure>
 
 You may also check the details in record page including source risk score and destination risk score.
 
-<figure><img src="../.gitbook/assets/image (230).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1080).png" alt=""><figcaption></figcaption></figure>
 
 ### 3.2. Auto Query
 
@@ -98,11 +80,11 @@ When a dangerous transaction is identified, Cregis AML disables the incoming add
 
 First, navigate to the following page and click "Create."
 
-<figure><img src="../.gitbook/assets/image (231).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1081).png" alt=""><figcaption></figcaption></figure>
 
 After clicking, you can begin creating a rule
 
-<figure><img src="../.gitbook/assets/image (232).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1082).png" alt=""><figcaption></figcaption></figure>
 
 * Rule Name: Name your rule
 * API Project: Select the project whose transactions you want to monitor. Please note that only one rule can be applied to a project.
@@ -110,7 +92,6 @@ After clicking, you can begin creating a rule
 
 <figure><img src="../.gitbook/assets/image (233).png" alt=""><figcaption></figcaption></figure>
 
-* Service Provider: Select the service provider you wish to use for the query.
 * Risk Classification Criteria: Can be set between 0.0 (Safe) - 10.0 (Extremely Risky). When a transaction's risk score exceeds your set threshold, it will be flagged as a risky transaction, triggering alert notifications and automatically disabling the project address.
 * Alert Recipients: Designate team members to receive risk alerts
 
@@ -118,7 +99,7 @@ After completing the settings, click "Submit" and complete identity verification
 
 All rule activities (creation, editing, enabling, and deletion) are logged and can be viewed in the log page.
 
-<figure><img src="../.gitbook/assets/image (234).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1083).png" alt=""><figcaption></figcaption></figure>
 
 ## 4. Query Results
 
@@ -128,23 +109,17 @@ The results of manual query include risk score, risk level, entity associated wi
 
 1. **Risk Score & Risk Level**
 
-The risk score of an address ranges from 0.0 to 10.0, and a higher score indicates a higher risk level. A risk score of 0 means that the relative risk is minimal, while a risk score of 10.0 signals an extremely high risk. Since each service provider has its own scoring mechanism, query results are categorized based on the risk classification methods recommended by the service provider.Please note that the following risk classification methods are recommended by the service provider based on general scenarios, and they may not be suitable for users with specific risk control requirements. To ensure the security of funds and operations, users are advised to account for their own needs and circumstances and assess the risk profile of an address or transaction based on the risk score and query details.The correspondence between risk scores and risk levels recommended by Elliptic is as follows.
+The risk score of an address ranges from 0.0 to 10.0, and a higher score indicates a higher risk level. A risk score of 0 means that the relative risk is minimal, while a risk score of 10.0 signals an extremely high risk. Since each service provider has its own scoring mechanism, query results are categorized based on the risk classification methods recommended by the service provider.
+
+Please note that the following risk classification methods are recommended by the service provider based on general scenarios, and they may not be suitable for users with specific risk control requirements. To ensure the security of funds and operations, users are advised to account for their own needs and circumstances and assess the risk profile of an address or transaction based on the risk score and query details.
+
+The correspondence between risk scores and risk levels recommended by Elliptic is as follows.
 
 | **Range**   | **Risk Levels**   |
 | ----------- | ----------------- |
 | \[0,2.5)    | Low/Safe          |
 | \[2.5,7.5)  | Medium/Suspicious |
 | \[7.5,10.0] | High/Dangerous    |
-
-The correspondence between risk scores and risk levels recommended by Regtank is as follows.
-
-| **Range**  | **Risk Levels**   |
-| ---------- | ----------------- |
-| \[0,3.0]   | Low/Safe          |
-| (3.0,7.0]  | Medium/Suspicious |
-| (7.0,10.0] | High/Dangerous    |
-
-Regtank takes a different way to label and categorize addresses and calculate risk scores than Elliptic. Therefore, a significant number of addresses, particularly those belonging to Exchanges and commercial wallets, may be flagged as suspicious when using Regtank for risk assessment. In practice, addresses with a score below 6 are generally considered to have lower risk. Users are advised to review the query details and make their own judgment based on their risk appetite.
 
 2. **Associated Entity & Label**
 
@@ -184,7 +159,7 @@ The risk score calculated by Elliptic is directly correlated with the contributi
 Query details show risk-linked entities of the sending address of the target transaction, i.e., risky entities which have sent funds to the sending address. Users can review the risk category, contribution value and contribution percentage of each risk-linked entity.
 
 * Risk Category\
-  The risk category is the type of risk an entity is linked to, such as Scam, Thief, Dark Service, etc. Cregis AML utilizes the address label database of our partner to determine the risk category of an entity. A summary of risk categories and descriptions can be found in Appendix A.
+  When using Elliptic as the service provider, the risk category is the type of risk an entity is linked to, such as Scam, Thief, Dark Service, etc. Cregis AML utilizes the address label database of our partner to determine the risk category of an entity. A summary of risk categories and descriptions can be found in the Appendix A.
 * Contribution Value\
   The contribution value is the amount of fund inflows to the sending address from a risk-linked entity, priced in the US dollar.
 * Contribution Percentage\
@@ -228,9 +203,7 @@ Cregis AML adopts a risk assessment model based on historical behaviors. Risk is
 * **Why are there details for risk-linked entities while the risk score is 0.0?**\
   It means that the total amount of funds associated with all risk-linked entities accounts for less than 1% of total funds of the target address. Since the proportion of risky funds is very low, the risk score is determined to be 0.0.
 * **Why is the contribution value of a risk-linked entity shown as 0.00 while the contribution percentage is positive?**\
-  It happens when the inflow/outflow of funds of this entity is less than USD 0.01 and the total fund amount of the target address is less than USD 100. The proportion of risky funds to total funds exceeds 0.01%, and thus the contribution percentage is positive.
-* **What does "Ignored Small Amounts" mean in the query detail part when I use Regtank as my service provider? Why do addresses under this category receive a risk score of 5?**\
-  A: Regtank uses fund tracing analysis and node risk aggregation to calculate the risk score. As the tracing depth increases, the contribution of a node address to the target address or transaction generally decreases. When a node’s fund contribution falls below 0.01% and the address does not belong to any labeled entity in the Regtank database, Regtank stops evaluating its risk to save computing resources. Such addresses are categorized as "Ignored Small Amounts". In the query detail part, the fund contribution for "Ignored Small Amounts" represents the combined contribution of all such addresses. Since the risk of these addresses is unknown, Regtank assigns them a default risk score of 5.<br>
+  It happens when the inflow/outflow of funds of this entity is less than USD 0.01 and the total fund amount of the target address is less than USD 100. The proportion of risky funds to total funds exceeds 0.01%, and thus the contribution percentage is positive.<br>
 
 ## 8. Appendix
 
@@ -298,26 +271,3 @@ Cregis AML adopts a risk assessment model based on historical behaviors. Risk is
 | Token                              | Representations of specific assets, utilities, intangible assets, or crypto assets                                                                                                                                                                                                              | Venture Capital          | Venture capital organizations that work with startups, early-stage companies, and emerging companies considered to have high growth potential                                                                                                                |
 | Token Sale                         | Crowdfunding, presales, or other sales related to the launch of tokens or other crypto assets                                                                                                                                                                                                   | VPN Vendor               | Providers of Virtual Private Network (VPN) services                                                                                                                                                                                                          |
 | Trading Platform                   | Providers of exchange software and services that do not operate exchanges                                                                                                                                                                                                                       | <p><br></p>              | <p><br></p>                                                                                                                                                                                                                                                  |
-
-### C. Regtank-Entity labels
-
-| Label                     | Description                                                                                                                           | Label                           | Description                                                                                                                                                  |
-| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Exchange                  | Crypto Exchange                                                                                                                       | Wallet                          | Specific wallets, such as those used for advertising ICOs or company wallets                                                                                 |
-| Donations                 | Addresses used by projects, companies, or non-profit associations to raise funds                                                      | Decentralized Servie            | Decentralized cryptocurrency platforms that are not exchanges, such as DeFi platforms and smart contracts                                                    |
-| Mining Pool               | Addresses used by a group of pooled miners                                                                                            | Decentralized Exchange          | Decentralized Exchange                                                                                                                                       |
-| Cloud Mining              | Addresses used for mining with remote computing power                                                                                 | Closed Exchange                 | Non-public exchange                                                                                                                                          |
-| Token                     | Smart contract addresses representing the ERC20 standard on Ethereum or equivalent standards on other blockchains                     | Suspicious                      | Addresses associated with fraud reports that are unconfirmed or have not yet resulted in legal action                                                        |
-| Service                   | Non-exchange entities belonging to centralized cryptocurrency platforms, such as payment processors, lending platforms, and merchants | Mixing Service                  | <p>Centralized platforms that help users mix their funds with those of other users<br></p>                                                                   |
-| Airdrop                   | Addresses used to distribute free cryptocurrencies or tokens to other wallets                                                         | Scam                            | Addresses associated with fraud                                                                                                                              |
-| ICO                       | Addresses used to raise funds for new cryptocurrency projects                                                                         | Hack                            | Addresses used to attack or exploit cryptocurrency platforms, resulting in platform fund losses due to the attack or exploitation                            |
-| Gambling                  | Addresses used by crypto casinos                                                                                                      | Phishing                        | An activity in which the attacker steals private keys and other sensitive data by impersonating a trusted entity, resulting in financial loss for the victim |
-| Darkweb                   | Addresses and entities associated with darknet activities, such as darknet markets, stolen funds, and similar illicit operations      | Community Reported Scam         | Fraud addresses reported by users in online forums or communities but not yet officially confirmed                                                           |
-| Sanction List             | Addresses on the sanctions list of OFAC (the U.S. Office of Foreign Assets Control).                                                  | Ongoing Legal Action            | Addresses involved in ongoing litigation or cases under review                                                                                               |
-| Terrorism                 | Addresses or entities associated with terrorist activities                                                                            | Cross-chain Bridge Protocol     | Entities that use smart contract technology to exchange different cryptocurrencies across different blockchains, including custodial wallet addresses        |
-| Child Abuse               | Addresses associated with child exploitation                                                                                          | Unspent Output                  | Unspent funds on the blockchain that are available to be used in subsequent transactions                                                                     |
-| Block Reward              | Rewards received by miners upon successfully mining new cryptocurrency                                                                | Payment Channel                 | Payment channels opened for using the Lightning Network                                                                                                      |
-| Ignored Small Amounts     | The proportion of funds that is so small that it's ignored by the algorithm and not subjected to risk tracing.                        | Peeling Chain of Unknown Origin | Peeling chains with unknown source addresses                                                                                                                 |
-| Maximum Exploration Depth | The algorithm reached its exploration limit and found no entity names                                                                 | Large Transaction               | <p>A transaction that has more than 200 inputs/outputs. Cautious review on the transaction is recommended<br></p>                                            |
-| Mixing Pattern            | Decentralized function that allows users to quickly and efficiently mix their funds with those of other users                         | Secondary Coin Creation         | The creation of new ERC20 tokens                                                                                                                             |
-| Secondary Coin Removal    | The burning of new ERC20 tokens.                                                                                                      | Bank                            | Addresses belonging to a bank                                                                                                                                |
