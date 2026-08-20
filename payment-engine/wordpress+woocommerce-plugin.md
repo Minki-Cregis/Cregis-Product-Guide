@@ -41,7 +41,7 @@ Before setting up Cregis Payment, ensure you have the following items ready:
 
 
 
-1. Download the Cregis portal from [https://support.cregis.com/getting-started/quickstart](https://support.cregis.com/getting-started/quickstart) and create your merchant account. Once you have access to the portal, complete your full account setup by following the step-by-step guide available at [https://support.cregis.com/payment-engine/create-payment-engine](https://support.cregis.com/payment-engine/create-payment-engine). This includes settlement wallet configuration, API credentials generation and selecting your supported cryptocurrencies.<br>
+1. Download the Cregis portal from [Quick Start Guide](https://support.cregis.com/getting-started/quickstart) and create your merchant account. Once you have access to the portal, complete your full account setup by following the step-by-step guide available at [Create Payment Engine](https://support.cregis.com/payment-engine/create-payment-engine) section. This includes settlement wallet configuration, API credentials generation and selecting your supported cryptocurrencies.<br>
 2.  A critical step is adding your e-commerce platform's server IP address to the Cregis portal's IP whitelist. Then navigate to Settings > IP Whitelist in the Cregis portal, add your server IP address and save the changes. Without proper IP whitelisting, API requests from your store will be rejected.<br>
 
     <figure><img src="../.gitbook/assets/image (1101).png" alt=""><figcaption></figcaption></figure>
@@ -67,7 +67,7 @@ Before setting up Cregis Payment, ensure you have the following items ready:
 
 
 3. Once you've set up the required information, products sold on your e-commerce platform will automatically accept cryptocurrency payments.<br>
-4.  The order amount is based on your WooCommerce store currency settings, which you can find at WooCommerce > Settings > Currency options > Currency. (Please make sure your currency is supported by our available currencies which you can find here: [https://developers.cregis.com/en/payment-engine-supported-currencies/](https://developers.cregis.com/en/payment-engine-supported-currencies/)).
+4.  The order amount is based on your WooCommerce store currency settings, which you can find at WooCommerce > Settings > Currency options > Currency. (Please make sure your currency is supported by our available currencies which you can find [here](https://developers.cregis.com/en/payment-engine-supported-currencies/).
 
     <figure><img src="../.gitbook/assets/image (1104).png" alt=""><figcaption></figcaption></figure>
 
@@ -105,11 +105,11 @@ Before setting up Cregis Payment, ensure you have the following items ready:
 
 
 
-2. The checkout page is an industry-standard interface for accepting cryptocurrency payments. The payer can select their preferred cryptocurrency and complete the payment following the on-screen instructions. For a detailed step-by-step flow of the checkout process, you can refer to the checkout product manual at [https://support.cregis.com/payment-engine/payment-link-checkout-page](https://support.cregis.com/payment-engine/payment-link-checkout-page).\
+2. The checkout page is an industry-standard interface for accepting cryptocurrency payments. The payer can select their preferred cryptocurrency and complete the payment following the on-screen instructions. For a detailed step-by-step flow of the checkout process, you can refer to the [Payment Link (Checkout Page)](https://support.cregis.com/payment-engine/payment-link-checkout-page) section.\
    ![](<../.gitbook/assets/image (1111).png>)<br>
 3. When payment is done in checkout page, it will be redirected to your order status page. Please note that there will be a few status according to different payment status. Below is the table you can refer to.
 
-<table><thead><tr><th width="153.4140625">Payment Status</th><th width="130.03125">Order Status</th><th>Followup Action</th></tr></thead><tbody><tr><td>Paid in Full</td><td>Completed</td><td>No action required.</td></tr><tr><td>Underpaid</td><td>On hold</td><td>Payers will see an alert on the order status page and receive an email notification to complete the additional payment within 7 days. For more information: <a href="https://support.cregis.com/payment-engine/introduction#additional-payment-flow">https://support.cregis.com/payment-engine/introduction#additional-payment-flow </a></td></tr><tr><td>Overpaid</td><td>On hold</td><td>Payers will see an alert on the order status page and receive an email notification to request a partial refund within 7 days. For more information: <a href="https://support.cregis.com/payment-engine/introduction#partial-refund-process">https://support.cregis.com/payment-engine/introduction#partial-refund-process</a></td></tr><tr><td>Payment Timeout</td><td>Completed</td><td>No action required.</td></tr></tbody></table>
+<table><thead><tr><th width="153.4140625">Payment Status</th><th width="130.03125">Order Status</th><th>Followup Action</th></tr></thead><tbody><tr><td>Paid in Full</td><td>Completed</td><td>No action required.</td></tr><tr><td>Underpaid</td><td>On hold</td><td>Payers will see an alert on the order status page and receive an email notification to complete the additional payment within 7 days. For more information: <a href="https://support.cregis.com/payment-engine/introduction#additional-payment-flow">Additional Payment Flow</a></td></tr><tr><td>Overpaid</td><td>On hold</td><td>Payers will see an alert on the order status page and receive an email notification to request a partial refund within 7 days. For more information: <a href="https://support.cregis.com/payment-engine/introduction#partial-refund-process">Partial Refund Process</a></td></tr><tr><td>Payment Timeout</td><td>Completed</td><td>No action required.</td></tr></tbody></table>
 
 <figure><img src="../.gitbook/assets/image (1112).png" alt=""><figcaption></figcaption></figure>
 
