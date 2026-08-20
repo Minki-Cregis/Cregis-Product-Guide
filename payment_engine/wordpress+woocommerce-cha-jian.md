@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # WordPress+WooCommerce 插件
 
 ## 简介
@@ -85,7 +89,7 @@ Cregis Payment 于 WooCommerce 是一个将 Cregis 加密货币的支付网关�
        <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 
-   7.  每个支付默认有 60 分钟的有效时间。您可以根据需要调整此设置，最短为 10 分钟，最长为 1440 分钟（24 小时）。
+   7.  每个支付默认有 60 分钟的有效时间。您可以根据需要调整此设置，最短为 10 分钟，最长为 1440 分钟（24 小时）。&#x20;
 
        <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
