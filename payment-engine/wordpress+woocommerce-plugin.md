@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # WordPress+WooCommerce Plugin
 
 ## Introduction
