@@ -56,7 +56,7 @@ Before setting up Cregis Payment, ensure you have the following items ready:
 
 
 
-2.  After installation, you'll see Cregis Payment in the left sidebar menu. Click on Cregis Payment > Settings to access the configuration page. You'll need to copy three pieces of information from your Cregis portal: the Base URL, Project ID and API Key. These can all be found in the Cregis portal under Settings. Enter these values in the plugin settings and click Save Changes.
+2.  After installation, you'll see Cregis Payment in the left sidebar menu. Click to access the configuration page. You'll need to copy three pieces of information from your Cregis portal: the Base URL, Project ID and API Key. These can all be found in the Cregis portal under Settings. Enter these values in the plugin settings and click Save Changes.
 
     <figure><img src="../.gitbook/assets/image (1115).png" alt=""><figcaption></figcaption></figure>
 
