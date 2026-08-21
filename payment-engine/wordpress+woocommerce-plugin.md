@@ -65,31 +65,31 @@ Before setting up Cregis Payment, ensure you have the following items ready:
 
 
 3. Once you've set up the required information, products sold on your e-commerce platform will automatically accept cryptocurrency payments.<br>
-4.  The order amount is based on your WooCommerce store currency settings, which you can find at WooCommerce > Settings > Currency options > Currency. (Please make sure your currency is supported by our available currencies which you can find [here](https://developers.cregis.com/en/payment-engine-supported-currencies/).
+   1.  The order amount is based on your WooCommerce store currency settings, which you can find at WooCommerce > Settings > Currency options > Currency. (Please make sure your currency is supported by our available currencies which you can find [here](https://developers.cregis.com/en/payment-engine-supported-currencies/).
 
-    <figure><img src="../.gitbook/assets/image (1104).png" alt=""><figcaption></figcaption></figure>
-
-
-5.  The product price is individually based on each product at Products > All Products > \[Select Product] > Sale price.
-
-    <figure><img src="../.gitbook/assets/image (1105).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (1104).png" alt=""><figcaption></figcaption></figure>
 
 
-6. If your store currency is USD and the listed currency is a USD-pegged stablecoin, the exchange rate will be 1:1. Otherwise, the exchange rate between your product's listed price and the currency selected by the payer will be based on the real-time exchange rate from CoinMarketCap.<br>
-7. The payer's email address is automatically collected during checkout and will be used to handle cases of overpayment and underpayment.<br>
-8.  The available payment currencies for payers are determined by which cryptocurrencies you've activated in your Cregis portal.
+   2.  The product price is individually based on each product at Products > All Products > \[Select Product] > Sale price.
 
-    <figure><img src="../.gitbook/assets/image (1106).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (1105).png" alt=""><figcaption></figcaption></figure>
 
 
-9.  In Web3 payments, it's common to encounter overpayments or partial payment. You can select Accept All Underpaid to accept all underpayments and select Accept All Overpaid to accept all overpayments. Or, you can configure tolerance levels in the plugin settings using percentages to control the upper and lower limits you'll accept. For example, if you set an underpayment tolerance of 2% and an overpayment tolerance of 5% on a $100 order, you'll accept payments between $98 and $105.&#x20;
+   3. If your store currency is USD and the listed currency is a USD-pegged stablecoin, the exchange rate will be 1:1. Otherwise, the exchange rate between your product's listed price and the currency selected by the payer will be based on the real-time exchange rate from CoinMarketCap.<br>
+   4. The payer's email address is automatically collected during checkout and will be used to handle cases of overpayment and underpayment.<br>
+   5.  The available payment currencies for payers are determined by which cryptocurrencies you've activated in your Cregis portal.
 
-    <figure><img src="../.gitbook/assets/image (1119).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (1106).png" alt=""><figcaption></figcaption></figure>
 
 
-10. Each payment request has a valid time of 60 minutes by default. You can adjust this based on your needs, with a minimum of 10 minutes and a maximum of 1440 minutes (24 hours).
+   6.  In Web3 payments, it's common to encounter overpayments or partial payment. You can select Accept All Underpaid to accept all underpayments and select Accept All Overpaid to accept all overpayments. Or, you can configure tolerance levels in the plugin settings using percentages to control the upper and lower limits you'll accept. For example, if you set an underpayment tolerance of 2% and an overpayment tolerance of 5% on a $100 order, you'll accept payments between $98 and $105.&#x20;
 
-    <figure><img src="../.gitbook/assets/image (1120).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (1119).png" alt=""><figcaption></figcaption></figure>
+
+
+   7.  Each payment request has a valid time of 60 minutes by default. You can adjust this based on your needs, with a minimum of 10 minutes and a maximum of 1440 minutes (24 hours).
+
+       <figure><img src="../.gitbook/assets/image (1120).png" alt=""><figcaption></figcaption></figure>
 
 
 
