@@ -42,9 +42,11 @@ Before setting up Cregis Payment, ensure you have the following items ready:
 
 
 1. Download the Cregis portal from [Quick Start Guide](https://support.cregis.com/getting-started/quickstart) and create your merchant account. Once you have access to the portal, complete your full account setup by following the step-by-step guide available at [Create Payment Engine](https://support.cregis.com/payment-engine/create-payment-engine) section. This includes settlement wallet configuration, API credentials generation and selecting your supported cryptocurrencies.<br>
-2.  A critical step is adding your e-commerce platform's server IP address to the Cregis portal's IP whitelist. Then navigate to Settings > IP Whitelist in the Cregis portal, add your server IP address and save the changes. Without proper IP whitelisting, API requests from your store will be rejected.<br>
+2.  A critical step is adding your e-commerce platform's server IP address to the Cregis portal's IP whitelist. You can copy your IP address in Cregis Payment settings if your server IP is static address. Then navigate to Settings > IP Whitelist in the Cregis portal, add your server IP address and save the changes. Without proper IP whitelisting, API requests from your store will be rejected.
 
-    <figure><img src="../.gitbook/assets/image (1101).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1116).png" alt=""><figcaption></figcaption></figure>
+
+    <figure><img src="../.gitbook/assets/image (1122).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -58,9 +60,9 @@ Before setting up Cregis Payment, ensure you have the following items ready:
 
 
 
-2.  After installation, you'll see Cregis Payment in the left sidebar menu. Click on Cregis Payment > Settings to access the configuration page. You'll need to copy three pieces of information from your Cregis portal: the Base URL, Project ID and API Key. These can all be found in the Cregis portal under Settings. Enter these values in the plugin settings and click Save Changes.<br>
+2.  After installation, you'll see Cregis Payment in the left sidebar menu. Click on Cregis Payment > Settings to access the configuration page. You'll need to copy three pieces of information from your Cregis portal: the Base URL, Project ID and API Key. These can all be found in the Cregis portal under Settings. Enter these values in the plugin settings and click Save Changes.
 
-    <figure><img src="../.gitbook/assets/image (1102).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1115).png" alt=""><figcaption></figcaption></figure>
 
     <figure><img src="../.gitbook/assets/image (1103).png" alt=""><figcaption></figcaption></figure>
 
@@ -84,14 +86,14 @@ Before setting up Cregis Payment, ensure you have the following items ready:
     <figure><img src="../.gitbook/assets/image (1106).png" alt=""><figcaption></figcaption></figure>
 
 
-9.  In Web3 payments, it's common to encounter overpayments or partial payment. You can configure tolerance levels in the plugin settings using percentages to control the upper and lower limits you'll accept. For example, if you set an underpayment tolerance of 2% and an overpayment tolerance of 5% on a $100 order, you'll accept payments between $98 and $105.
+9.  In Web3 payments, it's common to encounter overpayments or partial payment. You can select Accept All Underpaid to accept all underpayments and select Accept All Overpaid to accept all overpayments. Or, you can configure tolerance levels in the plugin settings using percentages to control the upper and lower limits you'll accept. For example, if you set an underpayment tolerance of 2% and an overpayment tolerance of 5% on a $100 order, you'll accept payments between $98 and $105.&#x20;
 
-    <figure><img src="../.gitbook/assets/image (1107).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1119).png" alt=""><figcaption></figcaption></figure>
 
 
 10. Each payment request has a valid time of 60 minutes by default. You can adjust this based on your needs, with a minimum of 10 minutes and a maximum of 1440 minutes (24 hours).
 
-    <figure><img src="../.gitbook/assets/image (1108).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1120).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -112,6 +114,8 @@ Before setting up Cregis Payment, ensure you have the following items ready:
 <table><thead><tr><th width="153.4140625">Payment Status</th><th width="130.03125">Order Status</th><th>Followup Action</th></tr></thead><tbody><tr><td>Paid in Full</td><td>Completed</td><td>No action required.</td></tr><tr><td>Underpaid</td><td>On hold</td><td>Payers will see an alert on the order status page and receive an email notification to complete the additional payment within 7 days. For more information: <a href="https://support.cregis.com/payment-engine/introduction#additional-payment-flow">Additional Payment Flow</a></td></tr><tr><td>Overpaid</td><td>On hold</td><td>Payers will see an alert on the order status page and receive an email notification to request a partial refund within 7 days. For more information: <a href="https://support.cregis.com/payment-engine/introduction#partial-refund-process">Partial Refund Process</a></td></tr><tr><td>Payment Timeout</td><td>Completed</td><td>No action required.</td></tr></tbody></table>
 
 <figure><img src="../.gitbook/assets/image (1112).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (1121).png" alt=""><figcaption></figcaption></figure>
 
 
 
