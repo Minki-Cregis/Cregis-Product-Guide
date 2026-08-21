@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # WordPress+WooCommerce 插件
 
 ## 简介
