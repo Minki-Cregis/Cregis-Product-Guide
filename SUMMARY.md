@@ -57,7 +57,6 @@
 ## 风险管理 <a href="#risk_management" id="risk_management"></a>
 
 * [策略中心](risk_management/policy_engine.md)
-* [Copy of 策略中心](risk_management/policy_engine-1.md)
 * [自动归集／签名](risk_management/automation.md)
 * [AML查询功能](risk_management/aml_query.md)
 * [KYB/KYC](risk_management/kyb-kyc.md)
@@ -87,7 +86,6 @@
 * [创建支付引擎](payment_engine/creation.md)
 * [修改支付引擎配置](payment_engine/configuration.md)
 * [查询订单相关记录](payment_engine/records.md)
-* [订单逻辑](payment_engine/additional_payment_and_refund_processes.md)
 * [支付链结（收银台）](payment_engine/checkout_page.md)
 * [WordPress+WooCommerce 插件](payment_engine/wordpress+woocommerce-cha-jian.md)
 
@@ -95,11 +93,6 @@
 
 * [简介](marketplace/jian-jie.md)
 * [管理应用](marketplace/guan-li-ying-yong.md)
-
-## 汇款 <a href="#remittance" id="remittance"></a>
-
-* [發起匯款單](remittance/records.md)
-* [常用收款人](remittance/recipient_list.md)
 
 ## FAQ
 
