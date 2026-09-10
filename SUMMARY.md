@@ -28,8 +28,8 @@
 * [成员](team/members.md)
 * [角色](team/permission.md)
 * [团队协作](team/teamwork/README.md)
-  * [审批流](team/teamwork/approval.md)
-  * [交易签名](team/teamwork/transaction_signing.md)
+  * [审批](team/teamwork/approval.md)
+  * [签名](team/teamwork/transaction_signing.md)
 * [API管理](team/api-management.md)
 
 ## 钱包及交易 <a href="#wallet_and_transaction" id="wallet_and_transaction"></a>
