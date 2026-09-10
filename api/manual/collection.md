@@ -1,23 +1,33 @@
 # 归集
 
-归集用于将 WaaS 项目子地址中的资产，主动归集到指定的归集地址，便于统一管理资金余额、提升资金利用效率以及减少分散资产管理成本。当前支持以下三种归集方式：
+归集用于将 WaaS 项目子地址中的资产，主动归集到指定的归集地址，便于统一管理资金余额、提升资金利用效率以及减少分散资产管理成本。当前支持以下三种归集方式：手动归集  支持以下两种手动归集方式：
 
-* 手动归集
+* 基于归集规则发起
   * 通过创建归集规则后，手动发起归集，系统会根据规则自动筛选符合条件的子地址，并将地址内符合条件的资产，全部归集到指定接收地址。
-* API归集
-  * 通过 API 发起归集请求后，在 API 归集页面手动处理或开启自动化处理，可指定归集地址和金额，精确控制归集行为；
-* 自动归集
-  * 通过创建自动化规则后，系统自动发起归集，无需人工手动操作，系统会根据规则自动筛选符合条件的子地址，并将地址内符合条件的资产，全部归集到指定接收地址。
+* 快速归集
+  * 无需创建归集规则，可直接发起归集任务。用户可手动选择需要归集的币种和归集地址，系统将根据所选条件筛选符合条件的子地址，并将地址内符合条件的资产全部归集到指定的归集地址，适用于临时或一次性的归集需求。
+
+API归集
+
+* 通过 API 发起归集请求后，在 API 归集页面手动处理或开启自动化处理，可指定归集地址和金额，精确控制归集行为；
+
+自动归集
+
+* 通过创建自动化规则后，系统自动发起归集，无需人工手动操作，系统会根据规则自动筛选符合条件的子地址，并将地址内符合条件的资产，全部归集到指定接收地址。
 
 ## **手动归集**
 
+手动归集支持**基于归集规则发起**和**快速归集**两种方式，用户可根据业务场景选择不同的归集方式。
+
+### **方式一：基于归集规则发起**
+
 用户可提前配置归集规则，在需要时手动触发归集任务，系统会根据规则筛选符合条件的子地址进行归集。功能入口：WaaS 项目 → 归集 → 规则配置
 
-### **创建归集规则**
+#### **创建归集规则**
 
 点击页面「新增」按钮进入创建页面。
 
-<figure><img src="../../.gitbook/assets/image (1027).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1122).png" alt=""><figcaption></figcaption></figure>
 
 配置归集规则，包括规则名称、归集币种、归集金额、到账地址，归集金额支持以下四种模式：
 
@@ -26,27 +36,58 @@
 * 小于等于：仅归集余额小于等于指定金额的地址；
 * 金额区间：仅归集余额在指定金额范围内的地址。
 
-<figure><img src="../../.gitbook/assets/image (1028).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1123).png" alt=""><figcaption></figcaption></figure>
 
 配置完成后，点击「确定」按钮进行Google Authenticator验证，验证通过则规则创建成功。
 
-### **发起归集**
+#### **发起归集**
 
-规则创建完成后，可在规则列表中点击「开始归集」按钮发起归集。
+规则创建完成后，可在规则列表中点击「开始」按钮发起归集。
 
-<figure><img src="../../.gitbook/assets/image (1029).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1124).png" alt=""><figcaption></figcaption></figure>
 
 进入归集确认页面，系统将根据当前规则自动筛选符合条件的子地址，并显示预计可归集金额/笔数，确认后点击「确定」按钮。
 
-<figure><img src="../../.gitbook/assets/image (1030).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1125).png" alt=""><figcaption></figcaption></figure>
 
 输入交易密码后，点击「确定」按钮开始归集。
 
-<figure><img src="../../.gitbook/assets/image (1031).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1126).png" alt=""><figcaption></figcaption></figure>
 
-开始归集后，可在「任务记录」页面查看归集进度。
+开始归集后，自动进入归集进度页，后续可在「任务记录」页面查看。
 
-<figure><img src="../../.gitbook/assets/image (1033).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1127).png" alt=""><figcaption></figcaption></figure>
+
+### **方式二：快速归集**
+
+快速归集无需提前创建归集规则，可直接发起归集任务，适用于临时或一次性的归集需求。功能入口：WaaS 项目 → 归集 → 规则配置 → 快速归集
+
+#### **发起快速归集**
+
+点击页面「快速归集」按钮，进入归集确认页面
+
+<figure><img src="../../.gitbook/assets/image (1128).png" alt=""><figcaption></figcaption></figure>
+
+选择需要归集的币种、金额、到账地址，归集金额支持以下四种模式：
+
+* 不限：归集所有地址资金，如果地址余额小于等于最小发送金额，则不进行归集；
+* 大于等于：仅归集余额大于等于指定金额的地址；
+* 小于等于：仅归集余额小于等于指定金额的地址；
+* 金额区间：仅归集余额在指定金额范围内的地址。
+
+<figure><img src="../../.gitbook/assets/image (1129).png" alt=""><figcaption></figcaption></figure>
+
+系统根据所选币种和归集金额自动筛选符合条件的子地址，并展示预计可归集金额及归集笔数，确认归集点击「开始归集」按钮。
+
+<figure><img src="../../.gitbook/assets/image (1130).png" alt=""><figcaption></figcaption></figure>
+
+输入交易密码，点击「确定」按钮开始归集。
+
+<figure><img src="../../.gitbook/assets/image (1131).png" alt=""><figcaption></figcaption></figure>
+
+开始归集后，自动进入归集明细页，后续可在「任务记录」页面查看。
+
+<figure><img src="../../.gitbook/assets/image (1132).png" alt=""><figcaption></figcaption></figure>
 
 ## **API归集**
 
