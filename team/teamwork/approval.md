@@ -6,14 +6,14 @@
 
 进入协作 > 待审批，找到需要处理的交易，点击交易右侧的「处理」。
 
-<figure><img src="https://0xcregis.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=NTU5NGFmNDU2ZGM3YTRiODdjMWQzMzIzM2ZjNmJhYmNfMmtvcWFzV0F6WWp5QXpKMnNaRDFLR251cm93WVhjcW5fVG9rZW46UmdNMmJOMEF2b212aWx4bmd3T2xQWHBOZ3VoXzE3ODkwMDYzNDI6MTc4OTAwOTk0Ml9WNA&#x26;add_watermark=true&#x26;scene_type=CCM" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1149).png" alt=""><figcaption></figcaption></figure>
 
 进入审批详情后，可以查看该笔交易的详细信息，确认交易信息后，可以根据实际情况选择：
 
 **审批**：同意该交易继续执行。\
 **驳回**：拒绝该交易，交易将终止。
 
-<figure><img src="https://0xcregis.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=MTA2YzljNTAwODJiOTc1MGZhMWJiYmVhNWNlYmIzYTBfS1dqZ1k3TGF5RWVNbWpVUERDc05jUlVpOXZUaEtiY2dfVG9rZW46WTFhZGJ4UnRWbzl1ZEJ4NFg0UGxwanRJZ3hnXzE3ODkwMDYzNTk6MTc4OTAwOTk1OV9WNA&#x26;add_watermark=true&#x26;scene_type=CCM" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1150).png" alt=""><figcaption></figcaption></figure>
 
 点击「审批/驳回」 后，系统会要求进行身份验证，输入交易密码并点击「确定」。身份验证通过后，系统会提示操作成功。
 
