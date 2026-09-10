@@ -52,6 +52,8 @@
 
 <figure><img src="../../.gitbook/assets/img_v3_0211n_b58e5659-578a-4dd4-bd4d-877f8dbb7ahu.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
+### 多签钱包交易签名
+
 #### Cregis PC客户端
 
 对于多签钱包的交易需要满足钱包配置的签名门限，因此与单签钱包的处理方式不同。进入协作 > 待签名后，选择需要处理的多签钱包交易，点击「处理」。
