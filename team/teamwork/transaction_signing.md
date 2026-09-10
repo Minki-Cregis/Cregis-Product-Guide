@@ -42,53 +42,6 @@
 
 <figure><img src="../../.gitbook/assets/image (1093).png" alt=""><figcaption></figcaption></figure>
 
-**多签钱包交易签名**
-
-对于多签钱包的交易需要满足钱包配置的签名门限，因此与单签钱包的处理方式不同。进入协作 > 待签名后，选择需要处理的多签钱包交易，点击「处理」。
-
-<figure><img src="../../.gitbook/assets/image (1094).png" alt=""><figcaption></figcaption></figure>
-
-进入签名详情后，可以查看该笔交易的详细信息，确认交易信息后，可以根据实际情况选择：
-
-**签名**：确认授权该交易执行，需其他签名人参与。\
-**驳回**：拒绝该交易，不再继续签名。
-
-如果接收方为黑名单地址，则只能选择驳回，无法签名。
-
-<figure><img src="../../.gitbook/assets/image (1095).png" alt=""><figcaption></figcaption></figure>
-
-点击「签名」后，系统会要求进行身份验证，输入交易密码并点击「确定」。
-
-<figure><img src="../../.gitbook/assets/image (1096).png" alt=""><figcaption></figcaption></figure>
-
-身份验证通过后，进入等待页面，需等待钱包其他成员加入，并且满足签名门限后，才能完成签名。
-
-<figure><img src="../../.gitbook/assets/image (1097).png" alt=""><figcaption></figcaption></figure>
-
-发起交易签名请求后，钱包的其他在线成员将会收到邀请通知，点击「多签邀请」。
-
-<figure><img src="../../.gitbook/assets/image (1098).png" alt=""><figcaption></figcaption></figure>
-
-确认交易信息后，点击「加入」。
-
-<figure><img src="../../.gitbook/assets/image (1099).png" alt=""><figcaption></figcaption></figure>
-
-系统会要求进行身份验证，输入交易密码并点击「确定」。
-
-<figure><img src="../../.gitbook/assets/image (1100).png" alt=""><figcaption></figcaption></figure>
-
-当参与成员达到签名门限要求，发起人点击「确定」。
-
-<figure><img src="../../.gitbook/assets/image (1101).png" alt=""><figcaption></figcaption></figure>
-
-弹出矿工费弹窗，确认矿工费后，点击「确定」。
-
-<figure><img src="../../.gitbook/assets/image (1102).png" alt=""><figcaption></figcaption></figure>
-
-进入交易签名页面，签名成功后，系统自动将交易广播上链，并提示操作成功。
-
-<figure><img src="../../.gitbook/assets/image (1103).png" alt=""><figcaption></figcaption></figure>
-
 #### Cregis手机端
 
 您可以从首页待办页面或协作看到待签名的项目，点击后可看到该交易的详情，确认签名后可以看到矿工费预估费用。
@@ -97,9 +50,7 @@
 
 点击发送后需完成交易密码验证则签名成功。
 
-<figure><img src="../../.gitbook/assets/img_v3_0211n_b58e5659-578a-4dd4-bd4d-877f8dbb7ahu.jpg" alt="" width="375"><figcaption></figcaption></figure>
-
-### 多签钱包交易签名
+<figure><img src="../../.gitbook/assets/img_v3_0211n_b58e5659-578a-4dd4-bd4d-877f8dbb7ahu.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
 #### Cregis PC客户端
 
