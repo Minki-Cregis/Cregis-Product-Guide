@@ -1,84 +1,91 @@
-# API管理
+# API Management
 
-团队 API 提供团队级资源管理能力，支持开发者通过 API 查询和管理团队相关数据，包括团队账户、钱包、账单等信息。
+The Team API provides programmatic access to team-level resources, allowing developers to query and manage team-related data, including team accounts, wallets, billing information, and other team resources.Unlike the WaaS API, the Team API uses a Team API Key for authentication and authorization. Each API key is scoped to a single team and can only access resources within that team.The Team API enables seamless integration with internal business systems for automated operations, financial reconciliation, asset management, and other enterprise workflows.
 
-与 WaaS API 不同，团队 API 基于团队 API Key进行身份认证，仅允许访问当前团队下具有权限的资源，无法访问其他团队的数据。
+## **Create API**
 
-开发者可通过团队 API 将团队管理能力集成到内部业务系统，实现自动化运营、财务对账、资产管理等场景。
+Go to Management > API Management and click Create.
 
-## **创建API**
+<figure><img src="https://0xcregis.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=MDAyMjA0MzM2MzVjMWU1ZTUzNDY0MTI1NTYyMDJlNDFfSjFrYW9wMjFJRElFTnhBam1qcnJ0QlViWmRrNVNQY1FfVG9rZW46T0pVemJ4aUlLb3R4Njd4bnl1RWxyeWdBZzRnXzE3ODM1Njc0MjQ6MTc4MzU3MTAyNF9WNA&#x26;add_watermark=true&#x26;scene_type=CCM" alt=""><figcaption></figcaption></figure>
 
-点击「管理 > API管理」页面的「创建」按钮
+On the Create API page, configure the following:
 
-<figure><img src="../.gitbook/assets/image (1133).png" alt=""><figcaption></figcaption></figure>
+* API Name
+* Permission
+* IP Whitelist
 
-进入创建页面后，完成API名称、权限、IP白名单配置，点击左下方「创建」按钮。
+Click Create.
 
-<figure><img src="../.gitbook/assets/image (1134).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://0xcregis.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=N2Q2MjYwMjI1MDZhNzA1YjE1YTA0OGM3Mzc0ZTY3MGNfSTZRbnZHbXVoakRIY2pwZFM3dUhVbTZLb29SemdOWXRfVG9rZW46TXNrdWJtNkd1b3cxWWd4MlA3c2xvRmcyZ1VXXzE3ODM1Njc0MjQ6MTc4MzU3MTAyNF9WNA&#x26;add_watermark=true&#x26;scene_type=CCM" alt=""><figcaption></figcaption></figure>
 
-完成身份验证
+Complete identity verification.
 
-<figure><img src="../.gitbook/assets/image (1135).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://0xcregis.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=OWUzN2RlNGRhZTkxNmIzMjhlODg2M2QwMmYxMDNhYTBfVHFlRVcyQURqa2dTMEJmdWRTWGpKSEgxMXZNbVRVTTdfVG9rZW46SWRlVWI4WlF0bzNTYzJ4dkxOUmxFQks1ZzZjXzE3ODM1Njc0MjQ6MTc4MzU3MTAyNF9WNA&#x26;add_watermark=true&#x26;scene_type=CCM" alt=""><figcaption></figcaption></figure>
 
-创建成功
+The API is created successfully.
 
-<mark style="color:$danger;">**注意：请复制您的 Secret Key 并妥善保管，后续将不再显示完整内容。**</mark>
+<mark style="color:$danger;">**Note: Please copy and securely store your Secret Key. For security reasons, the complete Secret Key will not be displayed again.**</mark>
 
-<figure><img src="../.gitbook/assets/image (1136).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://0xcregis.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=ODBiMDhiNDQwODkzM2E2OTk4YmRmZTJkZDA2Y2UzNzdfaldsMGpWMG5nZDU5cHNJbWZMN2xpdkhCY0JMSldLODNfVG9rZW46T1Y1QmJMazZkb2U4aGp4bE1GM2xKa0IwZ2tFXzE3ODM1Njc0MjQ6MTc4MzU3MTAyNF9WNA&#x26;add_watermark=true&#x26;scene_type=CCM" alt=""><figcaption></figcaption></figure>
 
-## **编辑API**
+## **Edit API**
 
-点击「管理 > API管理」页面的「编辑」按钮
+Go to Management > API Management and click Edit.
 
-<figure><img src="../.gitbook/assets/image (1137).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://0xcregis.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=MzQ1NjBiNjE0YzgxMjAwZWM3Y2I4MjQzN2VlYzBkZjRfY3A2eUhOMW13cWp5VlA0bWJHV3g5dmNlaldVdVUwbXVfVG9rZW46QzAyZmJTTG1IbzUwZ3J4bzdwTGxMRklwZ2lkXzE3ODM1Njc0MjQ6MTc4MzU3MTAyNF9WNA&#x26;add_watermark=true&#x26;scene_type=CCM" alt=""><figcaption></figcaption></figure>
 
-进入编辑页面后，可对API名称、权限、IP白名单进行编辑，完成后，点击左下方「保存」按钮。
+On the Edit API page, update the following settings as needed:
 
-<figure><img src="../.gitbook/assets/image (1138).png" alt=""><figcaption></figcaption></figure>
+* API Name
+* Permissions
+* IP Whitelist
 
-完成身份验证，编辑成功
+Click Save.
 
-<figure><img src="../.gitbook/assets/image (1139).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://0xcregis.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=ZTVhNDZjMzJkOTBjYWNmZmMyMDMwZTQ0OTYzNWU3MzBfU3BsS0xJQWlkR0JvWndXNlBzOUV5aGdGQ01GM3hlNnpfVG9rZW46QVdUdWJaVExib0hSelh4eG5RRWxLUlBiZ29iXzE3ODM1Njc0MjQ6MTc4MzU3MTAyNF9WNA&#x26;add_watermark=true&#x26;scene_type=CCM" alt=""><figcaption></figcaption></figure>
 
-## **启用/禁用API**
+Complete identity verification.The API is updated successfully.
 
-点击「管理 > API管理」页面的「启用/禁用」按钮
+<figure><img src="https://0xcregis.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=MzVhMDQ5MjdmNjExZWZjNjc3MjUyZjIxZTFmYWFjMjVfU01DQlFFdk9UdmFlYTZZV3A2SjIzTmNBOXQ4Y01IOWtfVG9rZW46UlpuOGJLRXYzb25lQ2V4MjBHdmxaSFUzZ3FnXzE3ODM1Njc0MjQ6MTc4MzU3MTAyNF9WNA&#x26;add_watermark=true&#x26;scene_type=CCM" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1140).png" alt=""><figcaption></figcaption></figure>
+## **Enable / Disable API**
 
-弹出提示弹窗，点击「确定」按钮
+Go to Management > API Management and click Enable/Disable.
 
-<figure><img src="../.gitbook/assets/image (1141).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://0xcregis.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=YmRlOTAxMzc0MjYyMmY0ODFjYzE0MmUwYTYyNGQwNmZfWVBCTW9aNE5sZEc0bU1KN1ZtYmpHWmJENHNYWjVsQlRfVG9rZW46V1R2SWJrQXo5b2xUa1F4QkdsbmxDengxZ1FoXzE3ODM1Njc0MjQ6MTc4MzU3MTAyNF9WNA&#x26;add_watermark=true&#x26;scene_type=CCM" alt=""><figcaption></figcaption></figure>
 
-完成身份验证，则启用/禁用成功
+In the confirmation dialog, click Confirm.
 
-<figure><img src="../.gitbook/assets/image (1142).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://0xcregis.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=MzE4N2IzYzM2NGMyYmRmYWEzYzVmZDcwMzE0M2FjYWNfWmJ3aGlXdjVkMUFYR1d2VXpybkhzMjRMNUJvZlVqN3FfVG9rZW46SThhRmJ4SW5Db1VVTlR4MWxxUGxBTkJ3Z01QXzE3ODM1Njc0MjQ6MTc4MzU3MTAyNF9WNA&#x26;add_watermark=true&#x26;scene_type=CCM" alt=""><figcaption></figcaption></figure>
 
-## **查看API Key**
+Complete identity verification.The API is enabled or disabled successfully.
 
-点击「管理 > API管理」页面的「更多 > 查看API Key」按钮
+<figure><img src="https://0xcregis.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=OGJmNzczYmQ4MjVhNDNjNWVhMDRhMjE5YTA2MmZlNTNfb2JXQk9OS2RxVkdHNkpDb0lpa1ZGM3F1SzFRQzhWVDJfVG9rZW46STJLb2JwSGJKb1A5dEx4ZnNBdGwxaHM0Z09kXzE3ODM1Njc0MjQ6MTc4MzU3MTAyNF9WNA&#x26;add_watermark=true&#x26;scene_type=CCM" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1143).png" alt=""><figcaption></figcaption></figure>
+## **View API Key**
 
-完成身份验证
+Go to Management > API Management and click More > View API Key.
 
-<figure><img src="../.gitbook/assets/image (1144).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://0xcregis.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=NGEyZTdmZTFhNmZkMDc5MDg0Yzc4YTkwMmMzODM5NmZfaGwyWlBWT1hBMVprTEJQbzV4dTJRQ3Jmc2U1NlhHN0JfVG9rZW46TlVZZWJoVk81b2lJVHd4aHVJUGxyTU51Z3JjXzE3ODM1Njc0MjQ6MTc4MzU3MTAyNF9WNA&#x26;add_watermark=true&#x26;scene_type=CCM" alt=""><figcaption></figcaption></figure>
 
-可查看并复制 API Key 信息
+Complete identity verification.
 
-<figure><img src="../.gitbook/assets/image (1145).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://0xcregis.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=ZDQzMzhiZTQ0ZjU1OTA5N2QxMmQ1YWU3OGQwMjM1NDVfSHQwSTBxZnd4clFHa21FYzhEOTJBNGtPT1Z4SXNzeWlfVG9rZW46TlhWdGJwQndrb0JIdzJ4c0UyVmxkU3prZ3RoXzE3ODM1Njc0MjQ6MTc4MzU3MTAyNF9WNA&#x26;add_watermark=true&#x26;scene_type=CCM" alt=""><figcaption></figcaption></figure>
 
-## **删除API**
+View and copy the API Key.
 
-点击「管理 > API管理」页面的「更多 > 删除」按钮
+<figure><img src="https://0xcregis.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=YWIxZTZmZTFmYzNiMmY0N2VmMWRjNjM3ODg0NGMwMTRfekZWQlM2M1FMUXVYc09wdEV4NU9LcUhNUktERUdpZFBfVG9rZW46QTFLRmJjclY2b1FOTmh4dkNMWmw3VVdQZ0djXzE3ODM1Njc0MjQ6MTc4MzU3MTAyNF9WNA&#x26;add_watermark=true&#x26;scene_type=CCM" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1146).png" alt=""><figcaption></figcaption></figure>
+**Delete API**
 
-弹出提示弹窗，点击「确定」按钮
+Go to Management > API Management and click More > Delete.
 
-<figure><img src="../.gitbook/assets/image (1147).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://0xcregis.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=MzU4ODkxOWQ4MDlhNWQ2MWM5MTg0NTcwN2E5YjM4NjhfMWZ4VTFVaWQzME9QRFVmdlNEM0E2WGkzbFVVRUJvRHNfVG9rZW46UUxxUGJoWFZVb0FYTnh4RWZnY2xJZW5HZzZjXzE3ODM1Njc0MjQ6MTc4MzU3MTAyNF9WNA&#x26;add_watermark=true&#x26;scene_type=CCM" alt=""><figcaption></figcaption></figure>
 
-完成身份验证，则删除成功
+In the confirmation dialog, click Confirm.
 
-<figure><img src="../.gitbook/assets/image (1148).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://0xcregis.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=MDVjNDg4YTkzODQwZjQxZWRmNmNjYzNlYjA2NjdkODJfcWhmdW5qUVRtMEFnR3ZiRlZqUmtQZXR1V2ZFZFlxV3VfVG9rZW46WEtOWGJmNmJob3BocnV4dHdzZWxnZk5RZ0RiXzE3ODM1Njc0MjQ6MTc4MzU3MTAyNF9WNA&#x26;add_watermark=true&#x26;scene_type=CCM" alt=""><figcaption></figcaption></figure>
 
+Complete identity verification.The API is deleted successfully.
+
+<figure><img src="https://0xcregis.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=YzBhZDc5ODdlZjYxNWVkMjk1MTg5MGIwMTIzZjRiNTdfYkk3aG9ZNFhyWHVxcjZCZ252cDBwQlYwcUhHUkVXSW1fVG9rZW46QzI5aGJVbkhVb3FSOTN4U0VsUmw5TzlHZ2djXzE3ODM1Njc0MjQ6MTc4MzU3MTAyNF9WNA&#x26;add_watermark=true&#x26;scene_type=CCM" alt=""><figcaption></figcaption></figure>

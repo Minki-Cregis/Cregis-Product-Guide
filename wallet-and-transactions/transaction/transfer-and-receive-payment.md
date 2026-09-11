@@ -23,7 +23,7 @@
 6.  Confirm the transaction to proceed.<br>
 
     <figure><img src="../../.gitbook/assets/image (1007).png" alt=""><figcaption></figcaption></figure>
-7. After submitting the transaction request, please go to the [team activity page](../../team/team-activity/transaction-signing.md) to check the processing status. For detailed procedures, please refer to the relevant guide.
+7. After submitting the transaction request, please go to the [team activity page](../../team/team-activity/signing.md) to check the processing status. For detailed procedures, please refer to the relevant guide.
 
 ### Batch Transaction
 
