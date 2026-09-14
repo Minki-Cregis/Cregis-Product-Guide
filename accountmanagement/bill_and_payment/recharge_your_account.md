@@ -1,9 +1,9 @@
-# 充值团队帐户
+# 充值团队账户
 
 **请注意Cregis账户费用**<mark style="color:green;">**仅适用于以下情况**</mark>**：**&#x20;
 
 * 购买团队方案及团队的附加功能
-* 购买Tron能量（更多详情请参阅“[Tron能量](../../wallet_and_transaction/transaction/tron_energy_mode.md)”）
+* 购买Tron能量（更多详情请参阅“[Tron能量](../../transaction-riskcontrol/transaction/tron_energy_mode.md)”）
 
 您可以按照以下步骤为您的账户充值： 前往账户费用页面。
 
