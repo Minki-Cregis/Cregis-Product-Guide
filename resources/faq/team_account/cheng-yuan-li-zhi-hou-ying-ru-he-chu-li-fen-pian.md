@@ -8,7 +8,7 @@
 
 通过钱包的分片管理功能，直接通过分片管理，可将该员工相关的所有设备分片进行删除，保障分片不外泄。
 
-<figure><img src="../../../.gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1203).png" alt=""><figcaption></figcaption></figure>
 
 【方法二：重置分片功能指引】
 
@@ -16,11 +16,11 @@
 
 只有钱包的创建者，才具有重置分片的权限，操作入口如下图：
 
-<figure><img src="../../../.gitbook/assets/image (170).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1204).png" alt=""><figcaption></figcaption></figure>
 
 重置分片需要输入助记词，在完成助记词的输入后，即可完成重置。被重置的钱包所有相关的分片会立即失效，需要重新授权。
 
-<figure><img src="../../../.gitbook/assets/image (171).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1205).png" alt=""><figcaption></figcaption></figure>
 
 \
 <br>

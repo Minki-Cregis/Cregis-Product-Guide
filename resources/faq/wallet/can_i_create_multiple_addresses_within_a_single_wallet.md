@@ -2,4 +2,5 @@
 
 可以，Cregis的钱包允许客户创建多个地址，亦可以随时更改钱包的默认付款及收款地址。详细操作步骤可参考[这里](../../../transaction-riskcontrol/address_book.md)。
 
-<figure><img src="../../../.gitbook/assets/image (256).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1177).png" alt=""><figcaption></figcaption></figure>
+

@@ -6,7 +6,7 @@ API次数用完后系统会返回错误代码，客户可以有两个解决方�
 
 客户可到团队版本页面进行地址数升级，详情可参考[这里](../../../accountmanagement/bill_and_payment/feature_activation.md)。
 
-<figure><img src="../../../.gitbook/assets/image (274).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1196).png" alt=""><figcaption></figcaption></figure>
 
 ## **2. 删除不需要的项目，释放可用地址数**
 

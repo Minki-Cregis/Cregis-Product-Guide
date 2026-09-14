@@ -12,4 +12,4 @@
 
 如果您是该团队的创建者，可通过以下指引找到解散团队的操作入口：
 
-<figure><img src="../../../.gitbook/assets/image (280).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1206).png" alt=""><figcaption></figcaption></figure>
