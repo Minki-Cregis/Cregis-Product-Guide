@@ -36,7 +36,7 @@
 
 系统会要求进行身份验证，输入交易密码并点击「确定」。
 
-<figure><img src="../../.gitbook/assets/image (1092).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1151).png" alt=""><figcaption></figcaption></figure>
 
 身份验证通过后，进入交易签名页面，签名成功后，系统自动将交易广播上链，并提示操作成功。
 
