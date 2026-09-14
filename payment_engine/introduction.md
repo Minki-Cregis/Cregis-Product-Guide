@@ -17,7 +17,7 @@ Cregis 支持多种币种及网络作为[订单币种](https://developer-cn.creg
 * **结算金额**：金额会在扣除交易手续费后入帐
 * **结算地址**：商户可在建立支付引擎时选择 Cregis 钱包内部地址，结算后可结算到外部。
 
-如有法币结算需求，可[联系我们](https://www.cregis.com/zh/appointment/)查询。
+如有法币结算需求，可[联系我们](https://www.cregis.com/zh/contact-us)查询。
 
 
 

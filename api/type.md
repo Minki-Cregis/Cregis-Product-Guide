@@ -16,7 +16,7 @@ Cregis提供标准化API，允许企业将我们的钱包无缝集成到他们�
 
 ## 3. 支付引擎 （加密支付网关）
 
-<mark style="color:green;">**此API需要申请。如果您有兴趣，请**</mark>[<mark style="color:blue;">**联系我们**</mark>](https://www.cregis.com/zh/appointment/)<mark style="color:green;">**。**</mark>
+<mark style="color:green;">**此API需要申请。如果您有兴趣，请**</mark>[<mark style="color:blue;">**联系我们**</mark>](https://www.cregis.com/zh/contact-us)<mark style="color:green;">**。**</mark>
 
 * Cregis为企业提供API，帮助企业将加密支付网关集成到其在线商店或实体POS系统中。消费者可以选择加密货币作为支付方式进行结算。
 * Cregis将代表商户收款，并在结算时返还给商户。

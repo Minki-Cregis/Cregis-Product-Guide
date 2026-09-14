@@ -4,21 +4,13 @@
 
 这项自动化功能让用户可以根据预设的规则进行自动资金归集和交易签名，无需企业安排人手进行持续监控。一旦设置好规则，系统便可24小时不间断地按照设定规则运行，大幅减少人工干预。例如，过去企业可能需要每天手动进行资金归集，但有了自动化功能，用户可以设定每隔多长时间自动归集资金。此外，还可以根据特定的币种且达到某个金额数值后再启动归集流程。目前，自动签名功能仅限于API出金操作，并只对单签钱包开放。另外，这些自动化功能全部都是本地化进行﹐无需有任何托管分片的动作，用户只需要保持在线状态便可以执行，这既保证了系统的安全性，也为需要频繁交易的企业带来了极大的运营效率提升。
 
-<figure><img src="../.gitbook/assets/image (28) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1158).png" alt=""><figcaption></figcaption></figure>
 
-## 收费表及开通流程
+## 开通流程
 
-* 目前自动化功能只开放于月费用户，并需每月额外支付 USD $500才可以使用此功能。如需开通可到以下帐户介面，点击「开通」。
+* 目前自动化功能需每月额外支付 USD $500才可以使用此功能，或可通过升级至特定版本免费开通。如需开通可到以下团队订阅找到进阶功能开通自动化或直接进行订阅。
 
-<figure><img src="../.gitbook/assets/image (359).png" alt=""><figcaption></figcaption></figure>
-
-* 点击后会有视窗弹出，用户可以选择所需的月份并按提交。
-
-<figure><img src="../.gitbook/assets/image (360).png" alt=""><figcaption></figcaption></figure>
-
-* 提交订单后可以立即支付，支付成功后便可开通。
-
-<figure><img src="../.gitbook/assets/image (361).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1159).png" alt=""><figcaption></figcaption></figure>
 
 ## 操作手册
 
@@ -26,18 +18,18 @@
 
 1. 进入自动化功能页面，并点击「**创建规则**」
 
-<figure><img src="../.gitbook/assets/image (30) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1153).png" alt=""><figcaption></figcaption></figure>
 
 2. ### 创建自动归集规则
 
 点击「**创建规则**」后，右边有栏目弹出可以开始设定。
 
-<figure><img src="../.gitbook/assets/image (363).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1154).png" alt=""><figcaption></figcaption></figure>
 
 **基础设置** \
 创建规则时先设置名称及类型，选择「自动归集」类型后，便会有栏目弹出需选择归集类型和WaaS项目
 
-<figure><img src="../.gitbook/assets/image (31) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1155).png" alt=""><figcaption></figcaption></figure>
 
 归集类型分为系统归集和API归集，系统归集是指根据您设定的规则，系统自动归集符合条件的子地址资金；API归集是指根据您设定的规则，归集由API发起的归集请求
 
@@ -64,19 +56,19 @@
     <figure><img src="https://0xcregis.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=NmI0ZTI4NWRhYmUwZDFlYWE1M2Q5Nzk3ZjM0OTg2OThfdW5WNGVKR1R1d2lBVWJ4V2JSSkhWQktDZUF3VDB1TTFfVG9rZW46TVRhb2JoTXJUbzVxdVB4azN0WGxIWlFKZ1ViXzE3NjA5NDc4NzA6MTc2MDk1MTQ3MF9WNA" alt="" width="375"><figcaption></figcaption></figure>
 *   完成后点击提交，提交后需进行身份认证，认证成功即创建完成。<br>
 
-    <figure><img src="../.gitbook/assets/image (32) (1).png" alt=""><figcaption></figcaption></figure>
-*   创建后需启用规则才会生效，启用时需进行密码及Google双重验证，验证成功后正式开始使用。<br>
+    <figure><img src="../.gitbook/assets/img_v3_0215h_0e679287-6e63-48a8-af8b-76aa62ca10hu.jpg" alt=""><figcaption></figcaption></figure>
+*   创建后需启用规则才会生效，启用时需进行密码及Google双重验证，验证成功后正式开始使用。
 
-    <figure><img src="../.gitbook/assets/image (33) (1).png" alt=""><figcaption></figcaption></figure>
-* 归集成功后可到项目地址页面，上面会显示「自动归集中」。请注意自动归集进行中必须保持客户端处于在线状态，否则自动归集会中断。
+    <figure><img src="../.gitbook/assets/image (1156).png" alt=""><figcaption></figcaption></figure>
+*   归集成功后可到项目地址页面，上面会显示「自动归集中」。请注意自动归集进行中必须保持客户端处于在线状态，否则自动归集会中断。<br>
 
-<figure><img src="../.gitbook/assets/image (373).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1157).png" alt=""><figcaption></figcaption></figure>
 
 3. ### 创建自动签名规则
 
 点击「**创建规则**」后，右边有栏目弹出可以开始设定。
 
-<figure><img src="../.gitbook/assets/image (34) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1154).png" alt=""><figcaption></figcaption></figure>
 
 **基础设置** \
 创建规则时先设置名称及类型，选择「自动签名」类型后，便会有栏目弹出需选择提币类型和出款钱包，**请注意 目前只支持单签钱包并使用预设付款地址进行签名出款。**
@@ -105,11 +97,11 @@
 
 * 完成后点击提交，提交后需进行身份认证，认证成功即创建完成。
 
-<figure><img src="../.gitbook/assets/image (37) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/img_v3_0215h_0e679287-6e63-48a8-af8b-76aa62ca10hu.jpg" alt=""><figcaption></figcaption></figure>
 
 * 启用后可到协作页面，右下会显示自动签名进行中。<mark style="color:green;">**请注意自动签名进行中必须保持上线状态，否则自动签名会中断。**</mark>
 
-<figure><img src="../.gitbook/assets/image (381).png" alt=""><figcaption></figcaption></figure>
+<div><figure><img src="../.gitbook/assets/image (1161).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (1162).png" alt=""><figcaption></figcaption></figure></div>
 
 4. ### 编辑及删除自动化规则
 
@@ -117,29 +109,23 @@
 
 已创建的规则可以在规则配置页面进行编辑，进行编辑前必须先禁用规则，禁用时需要进行身份验证。
 
-<figure><img src="../.gitbook/assets/image (38) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1163).png" alt=""><figcaption></figcaption></figure>
 
 * 删除规则&#x20;
 
 删除已创建的规则可以在规则配置页面中进行，删除前必须先禁用规则，禁用时需要进行身份验证。
 
-<figure><img src="../.gitbook/assets/image (39) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1164).png" alt=""><figcaption></figcaption></figure>
 
 5. ### 查看自动化日志
 
 进入执行日志可以看到每一个规则的动向，包括日期时间、操作人员及动作。
 
-<figure><img src="../.gitbook/assets/image (40) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1165).png" alt=""><figcaption></figcaption></figure>
 
-在此页面用户亦可根据操作日期、操作人或日志类型进行筛选
+在此页面用户亦可根据操作日期、操作人或日志类型进行筛选，同时搜寻栏亦支持使用日志名称及编号去搜寻相关记录。
 
-<figure><img src="../.gitbook/assets/image (41) (1).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (42) (1).png" alt=""><figcaption></figcaption></figure>
-
-同时搜寻栏亦支持使用日志名称及编号去搜寻相关记录。
-
-<figure><img src="../.gitbook/assets/image (43) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1166).png" alt=""><figcaption></figcaption></figure>
 
 6. ### 触发自动归集
 
@@ -149,17 +135,17 @@
 
 * 详情中会显示运行时长、开放时间及已归集的笔数及金额，另外交易记录亦有列明每笔归集的记录
 
-<figure><img src="../.gitbook/assets/image (45) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1167).png" alt=""><figcaption></figcaption></figure>
 
 * 如果因矿工费不足导致自动归集暂停，有提示显示需要充值，用户可直接于此页面按「**充值**」，然后可通过充值弹窗的地址及 QR 码进行充值，充值后会在下一个触发点再执行动作。
 
-<figure><img src="../.gitbook/assets/image (47) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1168).png" alt=""><figcaption></figcaption></figure>
 
 7. ### 触发自动签名
 
 * 如触发自动签名的规则条件，系统便会进行自动签名，用户可到协作看自动签详情，右下会出现「自动签名运行中」的图标。
 
-<figure><img src="../.gitbook/assets/image (48) (1).png" alt=""><figcaption></figcaption></figure>
+<div><figure><img src="../.gitbook/assets/image (1169).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (1170).png" alt=""><figcaption></figcaption></figure></div>
 
 * 详情中会显示运行时长、开启时间、已签名的笔数、金额及签名所用的矿工费，另外交易记录有显示每笔归集的记录。如果因矿工费不足导致自动签名暂停，有提示显示需要充值，用户可直接于此页面按「**充值**」，然后可通过弹窗的地址及 QR 码进行充值，充值后会在下一个触发点再执行动作。
 

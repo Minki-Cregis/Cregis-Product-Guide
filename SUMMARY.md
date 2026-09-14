@@ -10,17 +10,16 @@
 * [下载及安装](gettingstarted/download.md)
 * [帐号注册及登录](gettingstarted/registration.md)
 
-## 帐户管理 <a href="#accountmanagement" id="accountmanagement"></a>
+## 账户管理 <a href="#accountmanagement" id="accountmanagement"></a>
 
 * [个人空间及团队空间](accountmanagement/space.md)
-* [帐单及付款](accountmanagement/bill_and_payment/README.md)
-  * [管理团队版本 (Old ver.)](accountmanagement/bill_and_payment/pricing_plan.md)
-  * [管理团队版本](accountmanagement/bill_and_payment/pricing_plan-1.md)
+* [账户及付款](accountmanagement/bill_and_payment/README.md)
+  * [管理团队版本](accountmanagement/bill_and_payment/pricing_plan.md)
   * [付费扩容功能](accountmanagement/bill_and_payment/feature_activation.md)
   * [订单管理](accountmanagement/bill_and_payment/manage_your_bill.md)
-  * [充值团队帐户](accountmanagement/bill_and_payment/recharge_your_account.md)
-* [帐户安全](accountmanagement/security.md)
-* [帐户设定](accountmanagement/settings.md)
+  * [充值账户](accountmanagement/bill_and_payment/recharge_your_account.md)
+* [账户安全](accountmanagement/security.md)
+* [账户设定](accountmanagement/settings.md)
 
 ## 团队 <a href="#team" id="team"></a>
 
@@ -129,7 +128,7 @@
   * [我的项目已经停止，但仍有用户不小心转账到项目地址，应如何处理？](faq/api/project-name-defunct-how-to-recover-funds.md)
   * [我团队版本到期后项目无法进行归集，应如何处理？](faq/api/wo-tuan-dui-ban-ben-dao-qi-hou-xiang-mu-wu-fa-jin-xing-gui-ji-ying-ru-he-chu-li.md)
   * [每次归集有笔数的限制吗？](faq/api/mei-ci-gui-ji-you-bi-shu-de-xian-zhi-ma.md)
-* [团队帐户相关](faq/team_account/README.md)
+* [团队账户相关](faq/team_account/README.md)
   * [为什么我的团队账户无法升级？](faq/team_account/wei-shen-me-wo-de-tuan-dui-zhang-hu-wu-fa-sheng-ji.md)
   * [成员离职后应如何处理分片？](faq/team_account/cheng-yuan-li-zhi-hou-ying-ru-he-chu-li-fen-pian.md)
   * [如何解散团队？](faq/team_account/ru-he-jie-san-tuan-dui.md)
