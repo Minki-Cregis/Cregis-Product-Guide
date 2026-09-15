@@ -12,7 +12,7 @@ To expand, go to **Team Subscription**, locate the wallet category you wish to e
 
 A pop-up window will appear showing the associated cost—wallet expansion is $99 per wallet. Select the number of additional wallets you need and submit the order. Once payment is complete, your wallet count will be successfully expanded.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 2. Token Listing Application
 
@@ -22,11 +22,11 @@ Your current team plan includes a number of free listing attempts. These attempt
 
 To apply, go to your **Team Subscription** page, locate your wallet usage section, and click **"Apply"**. Before applying, please ensure you have a free attempt remaining or sufficient balance in your team account.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 A pop-up window will appear on the left—fill in your token listing information and submit the application. Once submitted, we will review and list the token within 2–3 business days. You will be notified of the review result via email and system notification. If you have any questions, feel free to contact us at support@cregis.com.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 3. Expand Withdrawal Limit
 
@@ -34,13 +34,13 @@ Each team plan comes with a monthly withdrawal limit that resets each month. Col
 
 To expand, find the **"Expand"** button in your **Team Subscription** page and click it.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 A pop-up window will appear showing four expansion packages. Select the package that suits your needs and submit the order. Once payment is complete, your withdrawal limit will be successfully expanded.
 
 Please note that the expanded portion is permanent. Withdrawals will consume the quota included in your team plan first.
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 4. Increase WaaS Sub-Address Count
 

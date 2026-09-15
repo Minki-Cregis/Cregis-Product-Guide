@@ -10,15 +10,15 @@ This automated feature allows users to perform automatic fund collection and tra
 
 * Currently, the automated feature is only available to monthly subscription users and requires an additional payment of USD $500 per month. To activate, go to the account interface below and click "Activate."
 
-<figure><img src="../.gitbook/assets/image (401).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 * After clicking, a window will pop up where users can select the desired number of months and press "Submit."
 
-<figure><img src="../.gitbook/assets/image (405).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 * After submitting the order, you can proceed with payment immediately. Once the payment is successful, the feature will be activated.
 
-<figure><img src="../.gitbook/assets/image (404).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ## User Manual
 
@@ -26,17 +26,17 @@ This automated feature allows users to perform automatic fund collection and tra
 
 1\. Navigate to the automated feature page and click "Create Rule."
 
-<figure><img src="../.gitbook/assets/image (826).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/img_v3_0215h_17f6fdcb-238a-40aa-b5fc-b645a38994hu.jpg" alt=""><figcaption></figcaption></figure>
 
 2\. Create an Auto-collection Rule
 
 After clicking "Create Rule," a sidebar will pop up to begin configuration.
 
-<figure><img src="../.gitbook/assets/image (821).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/img_v3_0215h_71de8b8e-a2af-45e5-8a9c-9c85ff39f2hu.jpg" alt=""><figcaption></figcaption></figure>
 
 **Basic Settings**&#x20;
 
-When creating a rule, first set the name and type. After selecting the "Auto-collection" type, a section will pop up requiring the selection of the collection type and WaaS project.<br>
+When creating a rule, first set the name and type. After selecting the "Auto-collection" type, a section will pop up requiring the selection of the collection type and WaaS project.
 
 <figure><img src="../.gitbook/assets/image (829).png" alt=""><figcaption></figcaption></figure>
 
@@ -66,17 +66,17 @@ Trigger rules require setting the cryptocurrency, collection time, and receiving
 
 *   After completion, click "Submit." Identity verification is required after submission. The rule is created once verification is successful.<br>
 
-    <figure><img src="../.gitbook/assets/image (833).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/img_v3_0215h_a2d51bb3-862f-4d0f-9575-d54e62a467hu.jpg" alt=""><figcaption></figcaption></figure>
 *   After creation, the rule must be enabled to take effect. Enabling requires the current device to have the wallet shard imported and password and Google two-factor authentication. The feature starts officially after successful verification.<br>
 
-    <figure><img src="../.gitbook/assets/image (835).png" alt=""><figcaption></figcaption></figure>
-*   After successful collection, go to the project address page, where "Auto-collection" will be displayed. **Note: The client must remain online during auto-collection; otherwise, the process will be interrupted.**
+    <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+*   After successful collection, go to the project address page, where "Auto-collection" will be displayed. **Note: The client must remain online during auto-collection; otherwise, the process will be interrupted.**<br>
 
-    <figure><img src="../.gitbook/assets/image (837).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 3\. Create an Auto-Signing Rule
 
-After clicking "Create Rule," a sidebar will pop up to begin configuration.<br>
+After clicking "Create Rule," a sidebar will pop up to begin configuration.
 
 <figure><img src="../.gitbook/assets/image (838).png" alt=""><figcaption></figcaption></figure>
 
@@ -115,11 +115,11 @@ Only one cryptocurrency can be set per rule. When adding, the system will displa
 
 * After creating the rule, you must enable it for it to take effect. During activation, you will need to enter your password and complete Google two-factor authentication (2FA). Once verification is successful, the rule will be officially active and ready for use.
 
-<figure><img src="../.gitbook/assets/image (414).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1196).png" alt=""><figcaption></figcaption></figure>
 
 * After you enable the rule, you can go to Team activity page, where the status will display "Operating Auto Sign" <mark style="color:green;">**Please note that you must remain online during the Auto-Signing process; otherwise, it will be interrupted.**</mark>
 
-<figure><img src="../.gitbook/assets/image (415).png" alt=""><figcaption></figcaption></figure>
+<div><figure><img src="../.gitbook/assets/image (1197).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (1198).png" alt=""><figcaption></figcaption></figure></div>
 
 4\. Edit and Delete Automation Rules
 
@@ -127,48 +127,42 @@ Only one cryptocurrency can be set per rule. When adding, the system will displa
 
 Established rules can be edited in the rule configuration page. Before editing, you must first disable the rule, and identity verification is required when disabling the rule.
 
-<figure><img src="../.gitbook/assets/image (844).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1199).png" alt=""><figcaption></figcaption></figure>
 
 * Delete Rules \
   Established rules can be deleted from the rule configuration page. Before deleting, the rule must first be disabled, and identity verification will be required during the disabling process.
 
-<figure><img src="../.gitbook/assets/image (845).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1200).png" alt=""><figcaption></figcaption></figure>
 
 5\. View Automation Logs
 
 In the execution logs, you can track the activity of each rule, including the date, time, operator, and action taken.
 
-<figure><img src="../.gitbook/assets/image (846).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1201).png" alt=""><figcaption></figcaption></figure>
 
-On this page, users can also filter the logs by operation date, operator, or log type.
+On this page, users can also filter the record by different conditions.
 
-<figure><img src="../.gitbook/assets/image (847).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (848).png" alt=""><figcaption></figcaption></figure>
-
-The search bar also supports searching for related records using the rule name or ID.
-
-<figure><img src="../.gitbook/assets/image (849).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1202).png" alt=""><figcaption></figcaption></figure>
 
 6\. Triggering Auto-Collection
 
 When the conditions of an Auto-Collection rule are met, the system will automatically execute the collection. Users can check the details of the Auto-Collection on the project address page.
 
-<figure><img src="../.gitbook/assets/image (850).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1203).png" alt=""><figcaption></figcaption></figure>
 
 * The details will show the runtime, start time, number of collections, and total amount collected. Additionally, the transaction history will list each collection.
 
-<figure><img src="../.gitbook/assets/image (851).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1204).png" alt=""><figcaption></figcaption></figure>
 
 * If there are insufficient gas fees, the Auto-Collection will pause, and a prompt will appear notifying the user to top up. The user can directly click "Recharge" on this screen and recharge using the provided address or QR code. After recharging, the system will resume the action at the next trigger point.
 
-<figure><img src="../.gitbook/assets/image (852).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1205).png" alt="" width="298"><figcaption></figcaption></figure>
 
 7\. Triggering Auto-Signing
 
-* When the conditions for an auto-signing rule are met, the system will automatically perform the signing. Users can view the signing details in the collaboration section, and an "Auto-Signing in Progress" icon will appear in the lower-right corner.
+* When the conditions for an auto-signing rule are met, the system will automatically perform the signing. Users can view the signing details in the Tasks section, and an "Auto-Signing" icon will appear in the top-right corner.
 
-<figure><img src="../.gitbook/assets/image (422).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1206).png" alt=""><figcaption></figcaption></figure>
 
 * The details will show the runtime, start time, the number of signed transactions, total amount, and the gas fees used for signing. The transaction history will also list each signed transaction. If there are insufficient gas fees, the auto-signing process will be paused, and a prompt will notify you to top up. You can top up directly from this screen by clicking "Top Up," and using the address and QR code provided. Once the top-up is complete, the action will resume at the next trigger point.
 
