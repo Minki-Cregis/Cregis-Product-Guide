@@ -134,7 +134,7 @@
 
 如触发自动归集的规则条件，系统便会进行自动归集，用户可到项目地址查看自动归集详情
 
-<figure><img src="../.gitbook/assets/image (44) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1215).png" alt=""><figcaption></figcaption></figure>
 
 * 详情中会显示运行时长、开放时间及已归集的笔数及金额，另外交易记录亦有列明每笔归集的记录
 
