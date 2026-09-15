@@ -75,17 +75,18 @@
 **基础设置** \
 创建规则时先设置名称及类型，选择「自动签名」类型后，便会有栏目弹出需选择提币类型和出款钱包，**请注意 目前只支持单签钱包并使用预设付款地址进行签名出款。**
 
-<figure><img src="https://0xcregis.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=ZGU3OThlNDI3MzYxNjRlYjM4ZDkyZDExNWM2ZjBlNWVfRHZldDlPQ1V4alh0NEJXdExab1c0RnZOQ2l3MmJqa01fVG9rZW46UjRBdGI3QW1wbzRpWTN4dkdTMGxGMVdBZ1hjXzE3NjA5NDc5NzY6MTc2MDk1MTU3Nl9WNA" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1214).png" alt=""><figcaption></figcaption></figure>
 
 提币类型分为提币和子地址API出款，提币是指根据您设定的规则，系统自动签名符合条件的API提币申请；子地址API出款是指根据您设定的规则，系统自动签名符合条件的子地址API出款申请
 
-<figure><img src="https://0xcregis.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=MTZjNmM5MWJhMTk3MGYyNzM4MzNlZWE0MWJmNzEzYTlfOG1Da3RxeDlXWmtFWjlpMkZIRlgxM1ZadVdXQllUdXVfVG9rZW46VUp5c2JHbDEzb3J6ZFl4MHBNVWxoQWFQZ2hoXzE3NjA5NDgwMDY6MTc2MDk1MTYwNl9WNA" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1213).png" alt="" width="289"><figcaption></figcaption></figure>
 
 **触发規則**\
 触发规则中需要设定币种、出金类型及执行动作条件
 
-*   币种 \
-    每个规则中只允许设定一种币种，按添加时会显示你所选的出款钱包内已设定的币种。设定币种后需设立触发自动签名的金额，大于及小于的条件可以同时符合。如想设定$100-$200时，可设定大于等于100及小于等于200。 <mark style="color:green;">**请注意如果设定条件不合理时将无法成功创建规则，例如小于等于50及大于等于51。**</mark><br>
+* 币种 \
+  每个规则中只允许设定一种币种，按添加时会显示你所选的出款钱包内已设定的币种。设定币种后需设立触发自动签名的金额，大于及小于的条件可以同时符合。如想设定$100-$200时，可设定大于等于100及小于等于200。&#x20;
+*   <mark style="color:green;">**请注意如果设定条件不合理时将无法成功创建规则，例如小于等于50及大于等于51。**</mark><br>
 
     <figure><img src="../.gitbook/assets/image (35) (1).png" alt="" width="290"><figcaption></figcaption></figure>
 *   出金类型 \
