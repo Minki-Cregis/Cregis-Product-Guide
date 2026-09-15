@@ -2,4 +2,4 @@
 
 您可以在 Cregis 重置您的交易密码，操作入口如下：
 
-<figure><img src="../../../.gitbook/assets/image (514).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1210).png" alt=""><figcaption></figcaption></figure>

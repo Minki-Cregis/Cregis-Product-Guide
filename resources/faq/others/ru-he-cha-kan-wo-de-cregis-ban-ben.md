@@ -2,4 +2,4 @@
 
 您可以根据以下图示找到Cregis版本信息。
 
-<figure><img src="../../../.gitbook/assets/image (165).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1209).png" alt=""><figcaption></figcaption></figure>
