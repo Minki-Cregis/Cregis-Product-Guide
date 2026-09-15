@@ -106,7 +106,7 @@
     * [什么是Tron能量模式？](resources/faq/transaction/shen-me-shi-tron-neng-liang-mo-shi.md)
     * [我可以使用团队账户余额支付矿工费吗？](resources/faq/transaction/wo-ke-yi-shi-yong-tuan-dui-zhang-hu-yuezhi-fu-kuang-gong-fei-ma.md)
     * [我可以授权给我的员工签名吗？](resources/faq/transaction/wo-ke-yi-shou-quan-gei-wo-de-yuan-gong-qian-ming-ma.md)
-  * [API相关](resources/faq/api/README.md)
+  * [WaaS相关](resources/faq/api/README.md)
     * [API 项目创建后还可以编辑类型吗？](resources/faq/api/waas-type-edition.md)
     * [为什么我找不到订单收款的项目创建？](resources/faq/api/wei-shen-me-wo-zhao-bu-dao-ding-dan-shou-kuan-de-xiang-mu-chuang-jian.md)
     * [API次数用完后系统会立即停止吗？](resources/faq/api/api-ci-shu-yong-wan-hou-xi-tong-hui-li-ji-ting-zhi-ma.md)
