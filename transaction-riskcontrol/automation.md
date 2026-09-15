@@ -51,9 +51,11 @@
 <figure><img src="../.gitbook/assets/image (369).png" alt=""><figcaption></figcaption></figure>
 
 *   收款地址 \
-    收款地址目前只支持选择当前项目钱包的地址进行收款，所以系统会默认设定该钱包的预设收款地址。
+    收款地址目前只支持选择当前项目钱包的地址进行收款，所以系统会默认设定该钱包的预设收款地址。<br>
 
     <figure><img src="https://0xcregis.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=NmI0ZTI4NWRhYmUwZDFlYWE1M2Q5Nzk3ZjM0OTg2OThfdW5WNGVKR1R1d2lBVWJ4V2JSSkhWQktDZUF3VDB1TTFfVG9rZW46TVRhb2JoTXJUbzVxdVB4azN0WGxIWlFKZ1ViXzE3NjA5NDc4NzA6MTc2MDk1MTQ3MF9WNA" alt="" width="375"><figcaption></figcaption></figure>
+
+    <figure><img src="../.gitbook/assets/image (1211).png" alt=""><figcaption></figcaption></figure>
 *   完成后点击提交，提交后需进行身份认证，认证成功即创建完成。<br>
 
     <figure><img src="../.gitbook/assets/img_v3_0215h_0e679287-6e63-48a8-af8b-76aa62ca10hu.jpg" alt=""><figcaption></figcaption></figure>
