@@ -1,24 +1,24 @@
-# Team Activity
+# Tasks
 
-## What is Team Collaboration?
+## **What is Tasks?**
 
-Team collaboration is Cregis's transaction management and multi-person co-handling capability designed for enterprise teams. Through mechanisms such as approval and signing, enterprises can segregate transaction initiation, business approval, and transaction signing. Different roles participate together to complete transaction processing, thereby reducing single-point operational risks and establishing a more standardized, secure fund management workflow.
+Tasks is Cregis's transaction management and multi-person co-handling capability designed for enterprise teams. Through mechanisms such as approval and signing, enterprises can segregate transaction initiation, business approval, and transaction signing. Different roles participate together to complete transaction processing, thereby reducing single-point operational risks and establishing a more standardized, secure fund management workflow.
 
 For example, an enterprise can configure the following workflow: Employee initiates transaction → Finance approves → Department Head approves → Signer signs → Transaction broadcast to the blockchain.
 
-Through team collaboration, enterprises can assign different members to different business stages based on their internal fund management policies, achieving segregation of duties, multi-person re-checking, and audit logging.
+Through Tasks, enterprises can assign different members to different business stages based on their internal fund management policies, achieving segregation of duties, multi-person re-checking, and audit logging.
 
-Team collaboration is suitable for the following scenarios:
+Tasks is suitable for the following scenarios:
 
-* **High-Value Transaction Approva**l: Large transfers require manager approval before execution.
-* **Multi-Person Joint Fund Managemen**t: Transactions require multiple members to participate in confirmation or signing.
-* **Segregation of Duties**: Business operators initiate transactions, finance personnel handle approvals, and signers perform signing.
-* **Transaction Risk Control**: Initiated transactions trigger manual approval when specific conditions are met.
-* **Enterprise Fund Management**: Establish standardized fund operation workflows through approval and signing mechanisms.
+* **High-Value Transaction Approval:** Large transfers require manager approval before execution.
+* **Multi-Person Joint Fund Management:** Transactions require multiple members to participate in confirmation or signing.
+* **Segregation of Duties:** Business operators initiate transactions, finance personnel handle approvals, and signers perform signing.
+* **Transaction Risk Control:** Initiated transactions trigger manual approval when specific conditions are met.
+* **Enterprise Fund Management:** Establish standardized fund operation workflows through approval and signing mechanisms.
 
-## Collaboration Workflow
+## Task Workflow
 
-Cregis team collaboration primarily revolves around transaction initiation, policy matching, approval, signing, and broadcasting to the blockchain.
+Cregis Tasks primarily revolves around transaction initiation, policy matching, approval, signing, and broadcasting to the blockchain.
 
 Typical Transaction Workflow:
 
@@ -30,7 +30,7 @@ Team members or business systems can initiate transactions based on their assign
 
 * Wallet / Sub-address
 * WaaS API
-* App Store
+* Marketplace
 
 Once a transaction is initiated, Cregis determines whether it needs to enter the approval process based on the team's configured policies.
 
@@ -66,8 +66,8 @@ Upon approval, the transaction enters the signing stage. Members with signing pe
 
 After signing is completed, the transaction is broadcast to the blockchain. The final outcome is determined by the on-chain execution result.
 
-## **Roles in Collaboration**
+## **Roles in Workflow**
 
-In team collaboration, different members can perform distinct duties:
+In team tasks, different members can perform distinct duties:
 
 <table data-header-hidden><thead><tr><th width="183.57421875"></th><th></th></tr></thead><tbody><tr><td><strong>Role</strong></td><td><strong>Primary Responsibilities</strong></td></tr><tr><td>Initiator</td><td>Initiates transaction requests</td></tr><tr><td>Approver</td><td>Reviews transactions against business requirements and approves or rejects them</td></tr><tr><td>Signer</td><td>Signs transactions to authorize broadcasting to the blockchain</td></tr><tr><td>Viewer</td><td>Views collaboration requests and transaction processing statuses</td></tr></tbody></table>

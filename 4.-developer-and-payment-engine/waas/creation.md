@@ -5,7 +5,7 @@ Click the "WaaS" module to enter the project page. When using the project for th
 <figure><img src="../../.gitbook/assets/image (948).png" alt=""><figcaption></figcaption></figure>
 
 The "Create Project" interface will pop up on the right side. Enter the project name and select the interface type required for the project. Multiple interface types can be opened at the same time. \
-You may check [here](/broken/pages/ubaK4DDIMbGeXX8e1fTt) for API type details.
+You may check [here](./) for API type details.
 
 <figure><img src="../../.gitbook/assets/image (949).png" alt=""><figcaption></figcaption></figure>
 
