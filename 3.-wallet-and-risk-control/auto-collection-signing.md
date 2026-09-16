@@ -4,7 +4,7 @@
 
 This automated feature allows users to perform automatic fund collection and transaction signing based on preset rules, eliminating the need for manual monitoring by the enterprise. Once the rules are set, the system can operate 24/7 according to the configured rules, significantly reducing manual intervention. For example, while enterprises previously had to manually collect funds daily, with this automated feature, users can set intervals for automatic fund collection. Additionally, collection can be triggered when a specific cryptocurrency reaches a certain amount. Currently, the auto-signing feature is limited to API withdrawals and is only available for single-signature wallets. Furthermore, all these automated functions are performed locally, requiring no custodial sharding actions. Users only need to stay online to execute them, ensuring system security while greatly improving operational efficiency for businesses requiring frequent transactions.<br>
 
-<figure><img src="../.gitbook/assets/image (828).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/img_v3_0215h_7c292554-04e6-4409-a6db-684b401395hu.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Pricing and Activation Process
 
@@ -78,13 +78,13 @@ Trigger rules require setting the cryptocurrency, collection time, and receiving
 
 After clicking "Create Rule," a sidebar will pop up to begin configuration.
 
-<figure><img src="../.gitbook/assets/image (838).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/img_v3_0215h_c6f0f7eb-85ec-41f8-a131-1302279021hu.jpg" alt=""><figcaption></figcaption></figure>
 
 **Basic Settings**&#x20;
 
 When creating a rule, first set the name and type. After selecting the "Auto Signing" type, a section will pop up requiring the selection of the withdrawal type and withdrawal wallet. <mark style="color:green;">**Please note that only single-signature wallets are supported, and the default payment address will be used for signing and withdrawals.**</mark><br>
 
-<figure><img src="../.gitbook/assets/image (839).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1207).png" alt=""><figcaption></figcaption></figure>
 
 **Trigger Conditions**
 
