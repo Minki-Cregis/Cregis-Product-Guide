@@ -2,4 +2,5 @@
 
 You can locate the address within the project and manually transfer the funds from that address.
 
-<figure><img src="../../../.gitbook/assets/image (333).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+

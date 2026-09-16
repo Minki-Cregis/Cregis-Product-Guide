@@ -2,4 +2,4 @@
 
 You can reset your transaction password in Cregis. Please refer to the steps below for the reset process.
 
-<figure><img src="../../../.gitbook/assets/image (723).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1215).png" alt=""><figcaption></figcaption></figure>

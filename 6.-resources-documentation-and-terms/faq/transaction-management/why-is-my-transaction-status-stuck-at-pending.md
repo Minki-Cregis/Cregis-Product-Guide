@@ -4,4 +4,4 @@ If your transaction status remains in "Pending" for an extended period, it may b
 
 To resolve this, you can use transaction acceleration to increase the gas fee. For detailed steps, please refer to [here](../../../3.-wallet-and-risk-control/transaction/transaction-speed-up-and-cancellation.md).
 
-<figure><img src="../../../.gitbook/assets/image (363).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>

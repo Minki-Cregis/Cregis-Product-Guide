@@ -10,15 +10,15 @@ This automated feature allows users to perform automatic fund collection and tra
 
 * Currently, the automated feature is only available to monthly subscription users and requires an additional payment of USD $500 per month. To activate, go to the account interface below and click "Activate."
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
 * After clicking, a window will pop up where users can select the desired number of months and press "Submit."
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * After submitting the order, you can proceed with payment immediately. Once the payment is successful, the feature will be activated.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## User Manual
 
@@ -69,10 +69,10 @@ Trigger rules require setting the cryptocurrency, collection time, and receiving
     <figure><img src="../.gitbook/assets/img_v3_0215h_a2d51bb3-862f-4d0f-9575-d54e62a467hu.jpg" alt=""><figcaption></figcaption></figure>
 *   After creation, the rule must be enabled to take effect. Enabling requires the current device to have the wallet shard imported and password and Google two-factor authentication. The feature starts officially after successful verification.<br>
 
-    <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 *   After successful collection, go to the project address page, where "Auto-collection" will be displayed. **Note: The client must remain online during auto-collection; otherwise, the process will be interrupted.**<br>
 
-    <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 3\. Create an Auto-Signing Rule
 

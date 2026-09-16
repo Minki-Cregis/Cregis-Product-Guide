@@ -4,4 +4,4 @@ You can use the API provided by Cregis to initiate withdrawal requests. However,
 
 If you wish to perform the entire withdrawal operation through the API, you can opt to deploy shards to your private cloud. Please note that this is a non-standard solution, and additional deployment and service fees will need to be evaluated separately.
 
-For detailed information on shard deployment to private clouds and related costs, please [contact our team](https://www.cregis.com/appointment/).
+For detailed information on shard deployment to private clouds and related costs, please [contact our team](https://www.cregis.com/contact-us).

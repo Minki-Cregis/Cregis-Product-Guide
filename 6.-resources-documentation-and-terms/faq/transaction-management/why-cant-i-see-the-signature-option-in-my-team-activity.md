@@ -4,14 +4,12 @@ Regardless of whether you are the wallet creator, you cannot perform signatures 
 
 You can go to m**anagement -> Members** to check your role.
 
-
-
-<figure><img src="../../../.gitbook/assets/image (360).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 Then navigate to **Management -> Roles** to review your permissions. Note that signature permissions are part of the collaboration scope.
 
-<figure><img src="../../../.gitbook/assets/image (361).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
-Once the permission is successfully enabled, the signature option will appear in the collaboration section.
+Once the permission is successfully enabled, the signature option will appear in the Task section.
 
-<figure><img src="../../../.gitbook/assets/image (362).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>

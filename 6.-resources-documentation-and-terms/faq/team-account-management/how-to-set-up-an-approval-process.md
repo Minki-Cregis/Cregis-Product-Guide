@@ -4,4 +4,5 @@ Currently, the approval process must be configured through the Policy Center. Us
 
 you can follow the[ **instructions**](../../../3.-wallet-and-risk-control/policy-engine.md) to configure the settings.
 
-<figure><img src="../../../.gitbook/assets/image (717).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1214).png" alt=""><figcaption></figcaption></figure>
+

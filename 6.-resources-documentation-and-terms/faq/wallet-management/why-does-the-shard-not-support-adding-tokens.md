@@ -4,4 +4,4 @@ Different tokens within a blockchain have varying technical requirements. The sh
 
 If you encounter this issue, simply <mark style="color:green;">**reset the shard**</mark>. For detailed steps on resetting shards, please refer to [here](../../../3.-wallet-and-risk-control/shard/#reset-a-shard).
 
-<figure><img src="../../../.gitbook/assets/image (358).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>

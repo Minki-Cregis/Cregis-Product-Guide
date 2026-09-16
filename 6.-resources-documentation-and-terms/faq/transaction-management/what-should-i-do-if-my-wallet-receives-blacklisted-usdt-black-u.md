@@ -4,16 +4,19 @@ If your wallet receives Black U (USDT flagged as potentially linked to illegal a
 
 1.  Enter the **Address Book**.<br>
 
-    <figure><img src="../../../.gitbook/assets/image (366).png" alt=""><figcaption></figcaption></figure>
-2.  Click the **Add (+)** button to add a new address, input the address name, and press **"Enter"**.<br>
+    <figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+2.  Click the **Add (+)** button to add a new address, input the address name, and press **"Enter"**.\
+    <br>
 
-    <figure><img src="../../../.gitbook/assets/image (367).png" alt=""><figcaption></figcaption></figure>
-3.  Complete **Google Verification**.<br>
+    <figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+3.  Complete **Google Verification**.\
+    <br>
 
-    <figure><img src="../../../.gitbook/assets/image (368).png" alt=""><figcaption></figcaption></figure>
-4.  Click <mark style="color:green;">**More**</mark> on the new address, then set it as the default address for receiving and sending transactions.
+    <figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+4.  Click <mark style="color:green;">**More**</mark> on the new address, then set it as the default address for receiving and sending transactions.\
+    <br>
 
-    <figure><img src="../../../.gitbook/assets/image (370).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 In addition to these steps, we recommend:
 

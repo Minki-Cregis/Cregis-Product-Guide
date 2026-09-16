@@ -12,4 +12,4 @@ After the team is disbanded, all member data, shard information, and collaborati
 
 If you are the creator of the team, you can locate the option to disband the team by following these steps:
 
-<figure><img src="../../../.gitbook/assets/image (352).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1212).png" alt=""><figcaption></figcaption></figure>
