@@ -6,7 +6,7 @@
 
 ## **1. 钱包的创建者的设备损毁或遗失**
 
-如果该钱包的创建者有多台设备具有该钱包分片，则可以通过其他正常的设备进行授权，操作流程可参考此链接。
+如果该钱包的创建者有多台设备具有该钱包分片，则可以通过其他正常的设备进行授权，操作流程可参考此[链接](../../../transaction-riskcontrol/shard/authorization.md)。
 
 如对不可用设备上的分片有安全疑虑，可直接在其他设备上，对该有问题的设备的分片进行删除操作，操作流程可参考此[链接](../../../transaction-riskcontrol/shard/authorization.md#shou-quan-fen-pian-cao-zuo-liu-cheng)。
 
