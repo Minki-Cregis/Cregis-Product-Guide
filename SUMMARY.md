@@ -30,7 +30,7 @@
   * [重新命名钱包](accountmanagement/wallet/rename.md)
   * [隐藏钱包](accountmanagement/wallet/hide_your_wallet.md)
   * [信息签名](accountmanagement/wallet/message_signature.md)
-  * [隐藏小额交易说明](accountmanagement/wallet/yin-cang-xiaoejiao-yi-shuo-ming.md)
+  * [隐藏小额交易说明](accountmanagement/wallet/hidden_small_transaction.md)
 
 ## 3. 交易与风控 <a href="#transaction-riskcontrol" id="transaction-riskcontrol"></a>
 
