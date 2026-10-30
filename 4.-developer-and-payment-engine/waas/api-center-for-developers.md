@@ -1,4 +1,4 @@
 # API Center for Developers
 
-[https://developer.cregis.com/introduction](https://developer.cregis.com/introduction)
+[https://developers.cregis.com/en/introduction/](https://developers.cregis.com/en/introduction/)
 
