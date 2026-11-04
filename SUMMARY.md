@@ -20,7 +20,7 @@
 * [账户设定](accountmanagement/settings.md)
 * [团队管理](accountmanagement/management.md)
 * [成员](accountmanagement/members/README.md)
-  * [移除成员风险说明](accountmanagement/members/yi-chu-cheng-yuan-feng-xian-shuo-ming.md)
+  * [移除成员风险说明](accountmanagement/members/risk-notice-for-member-removal.md)
 * [角色](accountmanagement/permission.md)
 * [团队协作](accountmanagement/teamwork/README.md)
   * [审批流](accountmanagement/teamwork/approval.md)
