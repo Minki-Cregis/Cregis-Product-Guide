@@ -70,7 +70,8 @@
 * [开发者API中心](4.-waas-xiang-mu/developer.md)
 * [于API接入TON链](4.-waas-xiang-mu/ton.md)
 * [提币外部验证](4.-waas-xiang-mu/payout-external-verification.md)
-* [WaaS 订单模式](4.-waas-xiang-mu/waas-ding-dan-mo-shi.md)
+* [WaaS 订单模式](4.-waas-xiang-mu/waas-ding-dan-mo-shi/README.md)
+  * [开始使用](4.-waas-xiang-mu/waas-ding-dan-mo-shi/kai-shi-shi-yong.md)
 
 ## 5. 支付引擎
 
