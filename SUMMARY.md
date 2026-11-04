@@ -76,6 +76,7 @@
     * [Onboarding](4.-developer-and-payment-engine/waas/waas-order-mode/onboarding.md)
     * [Payer Interface](4.-developer-and-payment-engine/waas/waas-order-mode/payer-interface.md)
     * [Core Records](4.-developer-and-payment-engine/waas/waas-order-mode/core-records.md)
+    * [Financial Reconciliation](4.-developer-and-payment-engine/waas/waas-order-mode/financial-reconciliation.md)
 * [Payment Engine](4.-developer-and-payment-engine/payment-engine/README.md)
   * [Create Payment Engine](4.-developer-and-payment-engine/payment-engine/create-payment-engine.md)
   * [Update Payment Engine Configuration](4.-developer-and-payment-engine/payment-engine/update-payment-engine-configuration.md)

@@ -3,7 +3,6 @@ description: >-
   This chapter explains what WaaS Order Mode is, the payment rules, the core
   records and the rules that govern transfers, additional payments, refunds and
   service fees.
-hidden: true
 ---
 
 # WaaS Order Mode
