@@ -73,6 +73,8 @@
 * [WaaS 订单模式](4.-waas-xiang-mu/waas-ding-dan-mo-shi/README.md)
   * [开始使用](4.-waas-xiang-mu/waas-ding-dan-mo-shi/kai-shi-shi-yong.md)
   * [付款方界面](4.-waas-xiang-mu/waas-ding-dan-mo-shi/fu-kuan-fang-jie-mian.md)
+  * [核心记录](4.-waas-xiang-mu/waas-ding-dan-mo-shi/he-xin-ji-lu.md)
+  * [Page 2](4.-waas-xiang-mu/waas-ding-dan-mo-shi/page-2.md)
 
 ## 5. 支付引擎
 
