@@ -1,8 +1,7 @@
 ---
 description: >-
   This chapter walks you through creating a project, setting permissions, payout
-  external verification, API integration and notification settings. As a rule of
-  thumb, project creation and settings are n
+  external verification, API integration and notification settings.
 ---
 
 # Onboarding
