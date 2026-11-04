@@ -71,7 +71,7 @@
   * [Integrating the TON Chain via API](4.-developer-and-payment-engine/waas/integrating-the-ton-chain-via-api.md)
   * [Payout External Verification](4.-developer-and-payment-engine/waas/payout-external-verification.md)
   * [WaaS Order Mode](4.-developer-and-payment-engine/waas/waas-order-mode/README.md)
-    * [Page 1](4.-developer-and-payment-engine/waas/waas-order-mode/page-1.md)
+    * [Onboarding](4.-developer-and-payment-engine/waas/waas-order-mode/onboarding.md)
 * [Payment Engine](4.-developer-and-payment-engine/payment-engine/README.md)
   * [Create Payment Engine](4.-developer-and-payment-engine/payment-engine/create-payment-engine.md)
   * [Update Payment Engine Configuration](4.-developer-and-payment-engine/payment-engine/update-payment-engine-configuration.md)
