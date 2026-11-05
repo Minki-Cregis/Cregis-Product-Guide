@@ -4,254 +4,252 @@ description: 本章说明 Cregis 客户端在 WaaS 订单模式下的各类记�
 
 # 核心记录
 
-1. Order Records - A record is created when the Create Order API responds with valid data.<br>
-   1.  Order Records: To view order view, you can click Order Records under WaaS Order Mode.
+1. 订单记录 - 当「创建订单」API 回传有效数据时，即会建立一笔记录。<br>
+   1.  订单记录：如需查看订单记录，请在 WaaS 订单模式下点击「订单记录」。
 
-       <figure><img src="../../.gitbook/assets/image (1270).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (1326).png" alt=""><figcaption></figcaption></figure>
 
 
-   2.  Order Details: you can click on the record to view the order details, including the order information as well as the related payment, refund, and transfer information.
+   2.  查看详情：您可以点击该笔记录查看订单详情包括订单资讯及相关的付款、退款与转账资讯。
 
-       <figure><img src="../../.gitbook/assets/image (1271).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (1327).png" alt=""><figcaption></figcaption></figure>
 
 
-   3.  Filtering: you use the Filter icon in the upper-right corner to filter the order records (for example, by status, currency or creation time).
+   3.  筛选：使用右上角的「筛选」图示筛选订单记录（例如按状态、币种或创建时间）。
 
-       <figure><img src="../../.gitbook/assets/image (1272).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (1328).png" alt=""><figcaption></figcaption></figure>
 
 
-   4.  Timezone: click the timezone shown in the table header to switch the display timezone.
+   4.  时区：点击表头显示的时区，即可切换显示时区。
 
-       <figure><img src="../../.gitbook/assets/image (1273).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (1329).png" alt=""><figcaption></figcaption></figure>
 
 
-   5.  Export: use the Export icon in the upper-right corner to export the order records. The exported results are filtered by the conditions set in step 3 and the timezone follows the selection made in step 4.
+   5.  导出：使用右上角的「导出」图示导出订单记录。导出结果按步骤 3 所设的条件筛选，时区则跟随步骤 4。
 
-       <figure><img src="../../.gitbook/assets/image (1274).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (1330).png" alt=""><figcaption></figcaption></figure>
 
 
-   6.  Summary: when the filter is set to a specific currency, the summary at the bottom right shows the totals of partial payments, completed payments and transferred amounts.
+   6.  汇总：当筛选条件为特定币种时，右下角会显示部分支付、已完成支付及已转账金额的总数。
 
-       <figure><img src="../../.gitbook/assets/image (1275).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (1331).png" alt=""><figcaption></figcaption></figure>
 
 
-2. Bulk Transfer Records - A record is created when the order(s) meet the transfer rules (see Section 1.5).<br>
-   1.  Bulk Transfer Records: To view bulk transfer records, you can click Bulk Transfer Records under WaaS Order Mode.
+2. 批量转账单记录 - 当订单满足转账规则时（第一页第五部分），即会建立一笔记录。<br>
+   1.  批量转账单记录：如需查看批量转账单记录，请在 WaaS 订单模式下点击「批量转账单记录」。
 
-       <figure><img src="../../.gitbook/assets/image (1276).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (1332).png" alt=""><figcaption></figcaption></figure>
 
 
-   2.  Bulk Transfer Details: you can click on the record to view the bulk transfer details including each transfer record which groups the orders that share the same receiving address.
+   2.  查看详情：点击记录查看批量转账单详情，同时可查看每条转账单记录。转账单是其同一收款地址的订单归为一组。
 
-       <figure><img src="../../.gitbook/assets/image (1277).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (1333).png" alt=""><figcaption></figcaption></figure>
 
 
-   3.  Filtering: you use the Filter icon in the upper-right corner to filter the bulk transfer records (for example, by status, currency or creation time).
+   3.  筛选：使用右上角的「筛选」图示筛选批量转账单记录（例如按状态、币种或创建时间）。
 
-       <figure><img src="../../.gitbook/assets/image (1278).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (1334).png" alt=""><figcaption></figcaption></figure>
 
 
-   4.  Timezone: click the timezone shown in the table header to switch the display timezone.
+   4.  时区：点击表头显示的时区，即可切换显示时区。
 
-       <figure><img src="../../.gitbook/assets/image (1279).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (1335).png" alt=""><figcaption></figcaption></figure>
 
 
-   5.  Export: use the Export icon in the upper-right corner to export the bulk transfer records. The exported results are filtered by the conditions set in step 3 and the timezone follows the selection made in step 4.
+   5.  导出：使用右上角的「导出」图示导出批量转账单记录。导出结果按步骤 3 所设的条件筛选，时区则跟随步骤 4。
 
-       <figure><img src="../../.gitbook/assets/image (1280).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (1336).png" alt=""><figcaption></figcaption></figure>
 
 
-   6.  Summary: when the filter is set to a specific currency, the summary at the bottom right shows the totals of transfer failed, transferring and transferred amounts.
+   6.  汇总：当筛选条件为特定币种时，右下角会显示转账失败、转账中及已转账金额的总数。
 
-       <figure><img src="../../.gitbook/assets/image (1281).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (1337).png" alt=""><figcaption></figcaption></figure>
 
 
-3. Payment Exception Records - A record is created when a payment hits an AML rule or when a payment has been made but cannot be matched to any order receiving logic.<br>
-   1.  Payment Exception Records: To view payment exception records, you can click Payment Exception Records under WaaS Order Mode.
+3. 异常支付单记录 - 当在付款触发 AML 规则时或付款已完成但无法匹配任何订单收款逻辑时建立。<br>
+   1.  异常支付单记录：如需查看异常支付单记录，请在 WaaS 订单模式下点击「异常支付单记录」。
 
-       <figure><img src="../../.gitbook/assets/image (1282).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (1338).png" alt=""><figcaption></figcaption></figure>
 
 
-   2.  Payment Exception Details: you can click on the record to view the payment exception details including received address, block time, reason, etc
+   2.  查看详情：点击记录查看异常支付单详情，包括收款地址、链上时间、原因等资讯。
 
-       <figure><img src="../../.gitbook/assets/image (1283).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (1339).png" alt=""><figcaption></figcaption></figure>
 
 
-   3.  Filtering: you use the Filter icon in the upper-right corner to filter the payment exception records (for example, by transaction hash, currency or creation time).
+   3.  筛选：使用右上角的「筛选」图示筛选异常支付单记录（例如按交易哈希、币种或创建时间）。
 
-       <figure><img src="../../.gitbook/assets/image (1284).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (1340).png" alt=""><figcaption></figcaption></figure>
 
 
-   4.  Timezone: click the timezone shown in the table header to switch the display timezone.
+   4.  时区：点击表头显示的时区，即可切换显示时区。
 
-       <figure><img src="../../.gitbook/assets/image (1285).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (1341).png" alt=""><figcaption></figcaption></figure>
 
 
-   5.  Export: use the Export icon in the upper-right corner to export the payment exception records. The exported results are filtered by the conditions set in step 3 and the timezone follows the selection made in step 4.
+   5.  导出：使用右上角的「导出」图示导出异常支付单记录。导出结果按步骤 3 所设的条件筛选，时区则跟随步骤 4。
 
-       <figure><img src="../../.gitbook/assets/image (1286).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (1342).png" alt=""><figcaption></figcaption></figure>
 
 
-   6.  Summary: when the filter is set to a specific currency, the summary at the bottom right shows the total payment exception amount, transferred amount and transfer fee.
+   6.  汇总：当筛选条件为特定币种时，右下角会显示异常支付单、已转账及转账手续费的总数。
 
-       <figure><img src="../../.gitbook/assets/image (1287).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (1343).png" alt=""><figcaption></figcaption></figure>
 
 
-   7.  Self-transfer: merchants may transfer a payment exception themselves in the Cregis portal. Click the Transfer button to initiate it. Only the same token on the same chain can be transferred.
+   7.  自行转账：商户可在 Cregis 客户端自行转账异常支付。点击「转账」按钮即可发起；仅限同链同币。
 
-       <figure><img src="../../.gitbook/assets/image (1288).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (1344).png" alt=""><figcaption></figcaption></figure>
 
 
-   8.  Receiving address and remark: merchants can manually enter the receiving address for the transfer and create a remark for it.
+   8.  收款地址及备注：商户可手动输入转账的收款地址，并为该笔转账设定备注。
 
-       <figure><img src="../../.gitbook/assets/image (1289).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (1345).png" alt=""><figcaption></figcaption></figure>
 
 
-   9.  Service fee rate: if the Cregis team has assigned a fee rate to your project, the same rate applies across all currencies; otherwise, the default rate is 1%.\
-       Minimum service fee: if the token to be transferred matches your configured transfer currency, the minimum fee mirrors the standard rate shown on the Receiving and Transfer page under Settings. If the Cregis team has waived the minimum service fee for your account, no minimum fee applies here either. Otherwise, the minimum fee follows the currency table below. For currencies not listed, a 1 USD equivalent (calculated at the real-time CoinMarketCap rate) applies.
+   9.  服务费率：如 Cregis 团队已为您的项目设定费率，所有币种均采用相同费率；否则预设费率为 1%。\
+       最低服务费：如待转账的币种与您已设定的转账币种一致，最低费用将与「设定」→「收款及转账」页面所示的标准收费相同。如 Cregis 团队已为您的帐户减免最低服务费，此处亦不收取最低费用。否则，最低费用按下表币种而定；未列入表中的币种，按等值 1 USD 收取（以 CoinMarketCap 即时汇率换算）。
 
-       <figure><img src="../../.gitbook/assets/image (1290).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (1346).png" alt=""><figcaption></figcaption></figure>
 
 
 
-| Token                                                                                                | Minimum Transaction Fee |
-| ---------------------------------------------------------------------------------------------------- | ----------------------- |
-| USDT-TRC20, USDT-ERC20                                                                               | 1 USDT                  |
-| USDT-BEP20, USDT-Solana, USDT-Polygon, USDT-Avalanche-C, USDT-Arbitrum One                           | 0.5 USDT                |
-| USDC-ERC20                                                                                           | 1 USDC                  |
-| USDC-Base, USDC-BEP20, USDC-Solana, USDC-Polygon, USDC-Avalanche-C, USDC-Arbitrum One, USDC-Optimism | 0.5 USDC                |
-| TRON                                                                                                 | 1 TRX                   |
-| Solana                                                                                               | 0.0002 SOL              |
-| BNB-BSC                                                                                              | 0.0002 BNB              |
-| Ethereum, Base, Arbitrum One, Optimism                                                               | 0.0002 ETH              |
-| Bitcoin                                                                                              | 0.00001 BTC             |
+| 币种                                                                                                   | 最低交易手续费     |
+| ---------------------------------------------------------------------------------------------------- | ----------- |
+| USDT-TRC20, USDT-ERC20                                                                               | 1 USDT      |
+| USDT-BEP20, USDT-Solana, USDT-Polygon, USDT-Avalanche-C, USDT-Arbitrum One                           | 0.5 USDT    |
+| USDC-ERC20                                                                                           | 1 USDC      |
+| USDC-Base, USDC-BEP20, USDC-Solana, USDC-Polygon, USDC-Avalanche-C, USDC-Arbitrum One, USDC-Optimism | 0.5 USDC    |
+| TRON                                                                                                 | 1 TRX       |
+| Solana                                                                                               | 0.0002 SOL  |
+| BNB-BSC                                                                                              | 0.0002 BNB  |
+| Ethereum, Base, Arbitrum One, Optimism                                                               | 0.0002 ETH  |
+| Bitcoin                                                                                              | 0.00001 BTC |
 
-Please note that:<br>
+请注意：<br>
 
-* Transfer is only applicable if the payment exception is not AML-related. For AML-related exceptions, please contact the Cregis support team.<br>
-* If the transaction fee is greater than or equal to the payment exception amount, the transfer will not be allowed.
+* 仅异常支付单与 AML 不相符时才可在客户端进行转账。如与 AML 有关，请联络 Cregis 支援团队。<br>
+* 如交易手续费大于或等于异常支付单金额，将不允许转账。
 
 
 
-4. Refund Records - A record is created when the received payment(s) do not fulfill the requirements of the submitted order<br>
-   1.  Refund Records: To view refund records, you can click Refund Records under WaaS Order Mode.
+4. 退款记录 - 当已收的款项不符合所提交订单要求时建立<br>
+   1.  退款单记录：如需查看退款单记录，请在 WaaS 订单模式下点击「退款单记录」。
 
-       <figure><img src="../../.gitbook/assets/image (1291).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (1347).png" alt=""><figcaption></figcaption></figure>
 
 
-   2.  Record Details: you can click on the record to view the record details including refund type, reason, etc
+   2.  查看详情：点击记录查看退款单详情，包括退款类型、原因等资讯。
 
-       <figure><img src="../../.gitbook/assets/image (1292).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (1348).png" alt=""><figcaption></figcaption></figure>
 
 
-   3.  Filtering: you use the Filter icon in the upper-right corner to filter the refund records (for example, by order id, refund reason or refund type).
+   3.  筛选：使用右上角的「筛选」图示筛选退款单记录（例如按订单号、退款原因或退款类型）。
 
-       <figure><img src="../../.gitbook/assets/image (1293).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (1349).png" alt=""><figcaption></figcaption></figure>
 
 
-   4.  Timezone: click the timezone shown in the table header to switch the display timezone.
+   4.  时区：点击表头显示的时区，即可切换显示时区。
 
-       <figure><img src="../../.gitbook/assets/image (1294).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (1350).png" alt=""><figcaption></figcaption></figure>
 
 
-   5.  Export: use the Export icon in the upper-right corner to export the refund records. The exported results are filtered by the conditions set in step 3 and the timezone follows the selection made in step 4.
+   5.  导出：使用右上角的「导出」图示导出退款单记录。导出结果按步骤 3 所设的条件筛选，时区则跟随步骤 4。
 
-       <figure><img src="../../.gitbook/assets/image (1295).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (1351).png" alt=""><figcaption></figcaption></figure>
 
 
-   6.  Summary: when the filter is set to a specific currency, the summary at the bottom right shows the total refund amount, refunded amount and refund fee.
+   6.  汇总：当筛选条件为特定币种时，右下角会显示退款单、已退款及退款手续费的总数。
 
-       <figure><img src="../../.gitbook/assets/image (1296).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (1352).png" alt=""><figcaption></figcaption></figure>
 
 
-   7.  Self-refund: merchants may proceed with a refund themselves in the Cregis portal. Click the Refund button to initiate it. Only the same token on the same chain can be refunded.
+   7.  自行退款：商户可在 Cregis 客户端自行退款。点击「退款」按钮即可发起；仅限同链同币。
 
-       <figure><img src="../../.gitbook/assets/image (1297).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (1353).png" alt=""><figcaption></figcaption></figure>
 
 
-   8.  Receiving address and remark: merchants can manually enter the receiving address for the refund and create a remark for it.
+   8.  收款地址及备注：商户可手动输入退款的收款地址，并为该笔退款设定备注。
 
-       <figure><img src="../../.gitbook/assets/image (1298).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (1354).png" alt=""><figcaption></figcaption></figure>
 
 
-   9.  Refund fixed fee: only a fixed fee applies based on the table below:
+   9.  退款固定手续费：仅收取固定费用，按下表币种而定：
 
-       <figure><img src="../../.gitbook/assets/image (1299).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (1355).png" alt=""><figcaption></figcaption></figure>
 
 
 
-| Token                                                                                                | Refund Fixed Fee |
-| ---------------------------------------------------------------------------------------------------- | ---------------- |
-| USDT-TRC20, USDT-ERC20                                                                               | 1 USDT           |
-| USDT-BEP20, USDT-Solana, USDT-Polygon, USDT-Avalanche-C, USDT-Arbitrum One                           | 0.5 USDT         |
-| USDC-ERC20                                                                                           | 1 USDC           |
-| USDC-Base, USDC-BEP20, USDC-Solana, USDC-Polygon, USDC-Avalanche-C, USDC-Arbitrum One, USDC-Optimism | 0.5 USDC         |
-| TRON                                                                                                 | 1 TRX            |
-| Solana                                                                                               | 0.0002 SOL       |
-| BNB-BSC                                                                                              | 0.0002 BNB       |
-| Ethereum, Base, Arbitrum One, Optimism                                                               | 0.0002 ETH       |
-| Bitcoin                                                                                              | 0.00001 BTC      |
+| 币种                                                                                                   | 退款固定手续费     |
+| ---------------------------------------------------------------------------------------------------- | ----------- |
+| USDT-TRC20, USDT-ERC20                                                                               | 1 USDT      |
+| USDT-BEP20, USDT-Solana, USDT-Polygon, USDT-Avalanche-C, USDT-Arbitrum One                           | 0.5 USDT    |
+| USDC-ERC20                                                                                           | 1 USDC      |
+| USDC-Base, USDC-BEP20, USDC-Solana, USDC-Polygon, USDC-Avalanche-C, USDC-Arbitrum One, USDC-Optimism | 0.5 USDC    |
+| TRON                                                                                                 | 1 TRX       |
+| Solana                                                                                               | 0.0002 SOL  |
+| BNB-BSC                                                                                              | 0.0002 BNB  |
+| Ethereum, Base, Arbitrum One, Optimism                                                               | 0.0002 ETH  |
+| Bitcoin                                                                                              | 0.00001 BTC |
 
-Please note that:
+请注意：
 
 
 
-* If the refund fee is greater than or equal to the refund amount, the refund will not be allowed.
+* 如退款手续费大于或等于退款金额，将不允许退款。
 
 
 
-5. Callback Error - A record is created when the callbacks that could not be delivered to your callback URL<br>
-   1.  Callback Error Records: To view callback error, you can click Callback Error under WaaS Order Mode.
+5. 异常回调 - 当回调未能送达至回调网址<br>
+   1.  异常回调记录：如需查看异常回调记录，请在 WaaS 订单模式下点击「异常回调」。
 
-       <figure><img src="../../.gitbook/assets/image (1300).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (1356).png" alt=""><figcaption></figcaption></figure>
 
 
-   2.  Record Details: you can click on the record to view the callback, payment and wallet payout related information.
+   2.  查看详情：点击记录查看回调详情、支付信息及钱包提币等资讯。
 
-       <figure><img src="../../.gitbook/assets/image (1301).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (1357).png" alt=""><figcaption></figcaption></figure>
 
 
-   3.  Filtering: you use the Filter icon in the upper-right corner to filter the callback error records (for example, by callback url, callback time, etc).
+   3.  筛选：使用右上角的「筛选」图示筛选异常回调记录（例如按回调网址、回调时间等）。
 
-       <figure><img src="../../.gitbook/assets/image (1302).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (1358).png" alt=""><figcaption></figcaption></figure>
 
 
-   4.  Timezone: click the timezone shown in the table header to switch the display timezone.
+   4.  时区：点击表头显示的时区，即可切换显示时区。
 
-       <figure><img src="../../.gitbook/assets/image (1303).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (1359).png" alt=""><figcaption></figcaption></figure>
 
 
-   5.  Retry or ignore: merchants may retry or ignore each callback. Bulk retry or ignore actions are also available for multiple selected callbacks on the left.
+   5.  重试或忽略：商户可对单笔回调执行重试或忽略；亦可在左侧点选对多笔回调执行批量重试或批量忽略。
 
-       <figure><img src="../../.gitbook/assets/image (1304).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (1360).png" alt=""><figcaption></figcaption></figure>
 
 
-   6.  Retry with a new callback URL: if the merchant would like to change the callback URL for the retry of one particular record, click Retry on that record.
+   6.  以新回调网址重试：如商户想更改某一笔回调网址，可点击该记录上的「重试」，再输入。
 
-       <figure><img src="../../.gitbook/assets/image (1305).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (1361).png" alt=""><figcaption></figcaption></figure>
 
 
-6. History Callback - A record is created when the callbacks are successfully delivered to your callback URL<br>
-   1.  History Callback Records: To view history callback, you can click History Callback under WaaS Order Mode.
+6. 历史回调 - 当回调已成功送达至回调网址<br>
+   1.  历史回调记录：如需查看历史回调记录，请在 WaaS 订单模式下点击「历史回调」。
 
-       <figure><img src="../../.gitbook/assets/image (1306).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (1362).png" alt=""><figcaption></figcaption></figure>
 
 
-   2.  Record Details: you can click on the record to view the callback, payment and wallet payout related information.
+   2.  查看详情：点击记录查看回调详情、支付信息及钱包提币等资讯。
 
-       <figure><img src="../../.gitbook/assets/image (1307).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (1363).png" alt=""><figcaption></figcaption></figure>
 
 
-   3.  Filtering: you use the Filter icon in the upper-right corner to filter the history callback records (for example, by callback url, callback time, etc).
+   3.  筛选：使用右上角的「筛选」图示筛选历史回调记录（例如按回调网址、回调时间等）。
 
-       <figure><img src="../../.gitbook/assets/image (1308).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (1364).png" alt=""><figcaption></figcaption></figure>
 
 
-   4.  Timezone: click the timezone shown in the table header to switch the display timezone.<br>
+   4.  时区：点击表头显示的时区，即可切换显示时区。
 
-       <figure><img src="../../.gitbook/assets/image (1309).png" alt=""><figcaption></figcaption></figure>
-
-
+       <figure><img src="../../.gitbook/assets/image (1365).png" alt=""><figcaption></figcaption></figure>
 
 
 
