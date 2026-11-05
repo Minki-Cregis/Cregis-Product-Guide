@@ -239,7 +239,7 @@ description: 本章说明 Cregis 客户端在 WaaS 订单模式下的各类记�
 
    2.  查看详情：点击记录查看回调详情、支付信息及钱包提币等资讯。
 
-       <figure><img src="../../.gitbook/assets/image (1363).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (1366).png" alt=""><figcaption></figcaption></figure>
 
 
    3.  筛选：使用右上角的「筛选」图示筛选历史回调记录（例如按回调网址、回调时间等）。
