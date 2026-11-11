@@ -1,3 +1,0 @@
-# Risk Notice for Member Removal
-
-Coming Soon...
