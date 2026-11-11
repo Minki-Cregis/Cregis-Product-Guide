@@ -20,7 +20,7 @@
 * [General Setting](2.-transaction-and-account/openapi.md)
 * [Manage Your Team](2.-transaction-and-account/manage-your-team.md)
 * [Member](2.-transaction-and-account/member/README.md)
-  * [Team Member Removal Risk Notice & Guidelines](2.-transaction-and-account/member/team-member-removal-risk-notice-and-guidelines.md)
+  * [Team Member Removal Risk Notice and Guidelines](2.-transaction-and-account/member/team-member-removal-risk-notice-and-guidelines.md)
 * [Role](2.-transaction-and-account/role.md)
 * [Tasks](2.-transaction-and-account/tasks/README.md)
   * [Approval Process](2.-transaction-and-account/tasks/approval-process.md)

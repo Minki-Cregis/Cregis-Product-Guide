@@ -1,4 +1,4 @@
-# Team Member Removal Risk Notice & Guidelines
+# Team Member Removal Risk Notice and Guidelines
 
 To ensure the security of your team's assets and business continuity, please carefully review the following risk warnings and complete all required configuration checks and cleanups before removing a team member on Cregis.
 
@@ -11,10 +11,10 @@ To ensure the security of your team's assets and business continuity, please car
 ## Tasks and Approval Workflows
 
 * Pending Approval Data
-  * If the member has pending/unresolved approval data in the "Collaboration" module, the system will block the removal operation.
+  * If the member has pending/unresolved approval data in the "Tasks" module, the system will block the removal operation.
   * Recommendation: Clear, revoke, or complete all approval processes associated with this member before attempting removal again.
 * Impact on Risk Control Policies
-  * If the member is the sole designated approver or signer for a specific Risk Control policy:
+  * If the member is the sole designated approver or signer for a specific risk control policy:
     * The policy will remain active after the member is removed.
     * However, any subsequent transactions triggering this policy will fail to process due to the missing approver/signer.
   * Recommendation: Check your risk control policies before removal to ensure alternative approvers or signers are assigned.
@@ -36,12 +36,12 @@ To ensure the security of your team's assets and business continuity, please car
     * Enable or disable project alerts
     * API Key reset alerts
     * Insufficient team balance to cover service charges alerts
-    * Payment exception notifiaiton
+    * Payment exception notificaton
   * Payment Engine Notifications
     * Callback failure alerts
     * Enable or disable project alerts
     * API Key reset alerts
-    * Payment exception notifiaiton
+    * Payment exception notificaton
   * Team Account Notification
     * Insufficient team balance alerts
 * Recommendation: Before removing a member, review the notification settings across "WaaS Projects," "Payment Engine," and "Team Account," and reassign alternative team members to avoid operational disruptions or security risks.
